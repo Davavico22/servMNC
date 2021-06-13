@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "99dc6bee-a47f-4dfc-aa59-cf86a62c21c4",
+    "name": "Davavico",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

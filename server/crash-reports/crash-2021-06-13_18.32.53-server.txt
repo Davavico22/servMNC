@@ -1,0 +1,55 @@
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 13/6/21 18:32
+Description: Exception in server tick loop
+
+java.net.UnknownHostException: 192.168.0.100:25565: invalid IPv6 address
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1343)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1300)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1250)
+	at aas.e(SourceFile:142)
+	at net.minecraft.server.MinecraftServer.x(SourceFile:665)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:274)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.17
+	Minecraft Version ID: 1.17
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 16.0.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 1863299120 bytes (1776 MiB) / 2130706432 bytes (2032 MiB) up to 4276092928 bytes (4078 MiB)
+	CPUs: 12
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 5 2600 Six-Core Processor            
+	Identifier: AuthenticAMD Family 23 Model 8 Stepping 2
+	Microarchitecture: Zen+
+	Frequency (GHz): 3,40
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: Radeon RX 580 Series
+	Graphics card #0 vendor: Advanced Micro Devices, Inc. (0x1002)
+	Graphics card #0 VRAM (MB): 4095,00
+	Graphics card #0 deviceId: 0x67df
+	Graphics card #0 versionInfo: DriverVersion=27.20.21003.8013
+	Memory slot #0 capacity (MB): 8192,00
+	Memory slot #0 clockSpeed (GHz): 2,40
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192,00
+	Memory slot #1 clockSpeed (GHz): 2,40
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 28085,74
+	Virtual memory used (MB): 18066,19
+	Swap memory total (MB): 11776,00
+	Swap memory used (MB): 63,57
+	JVM Flags: 0 total; 
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
