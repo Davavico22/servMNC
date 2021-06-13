@@ -45,11 +45,8 @@ Tras ello ya nos podemos descargar el repositorio ejecutando:
 
 ### Ejecución del servidor.
 
-Para ejecutar el servidor tenemos que abrir una terminal en el directorio ``ServidorMinecraft/server/``:
+Para ejecutar el servidor tenemos que abrir una terminal en el directorio ``ServidorMinecraft/server/`` (nos vamos a la carpeta hacemos click derecho y pulsamos en git bash here):
 
 ![image](https://user-images.githubusercontent.com/57295165/121800711-b959ca80-cc33-11eb-8243-3b37c995fb93.png)
 
 Una vez que se nos abre escribirmos ``java -jar server.jar``.
-
-
-
