@@ -1,318 +1,64 @@
-[16:06:16] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[16:06:16] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[16:06:16] [main/WARN]: Disabling further attempts to query Paging File.
-[16:06:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:06:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:06:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:06:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:06:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:06:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:06:26] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[16:06:28] [Worker-Main-4/INFO]: Loaded 7 recipes
-[16:06:28] [Worker-Main-4/INFO]: Loaded 1138 advancements
-[16:06:31] [Server thread/INFO]: Starting minecraft server version 1.17
-[16:06:31] [Server thread/INFO]: Loading properties
-[16:06:31] [Server thread/INFO]: Default game type: SURVIVAL
-[16:06:31] [Server thread/INFO]: Generating keypair
-[16:06:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:06:31] [Server thread/INFO]: Using default channel type
-[16:06:32] [Server thread/INFO]: Preparing level "world"
-[16:06:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:06:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:06:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:06:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:06:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:06:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:06:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:06:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:06:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:06:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:06:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:06:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:06:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:06:38] [Worker-Main-5/INFO]: Preparing spawn area: 10%
-[16:06:39] [Worker-Main-5/INFO]: Preparing spawn area: 57%
-[16:06:39] [Worker-Main-5/INFO]: Preparing spawn area: 68%
-[16:06:39] [Worker-Main-4/INFO]: Preparing spawn area: 68%
-[16:06:40] [Worker-Main-4/INFO]: Preparing spawn area: 68%
-[16:06:40] [Worker-Main-5/INFO]: Preparing spawn area: 77%
-[16:06:41] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[16:06:41] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[16:06:42] [Worker-Main-5/INFO]: Preparing spawn area: 84%
-[16:06:42] [Worker-Main-6/INFO]: Preparing spawn area: 99%
-[16:06:43] [Server thread/INFO]: Time elapsed: 11425 ms
-[16:06:43] [Server thread/INFO]: Done (11.551s)! For help, type "help"
-[16:06:57] [User Authenticator #1/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[16:06:57] [Server thread/INFO]: Cartelex[/25.85.49.86:63735] logged in with entity id 199 at (-286.30000001192093, -54.0, 201.54751826548977)
-[16:06:57] [Server thread/INFO]: Cartelex joined the game
-[16:07:10] [Server thread/INFO]: Cartelex tried to swim in lava
-[16:07:12] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[16:07:12] [Server thread/INFO]: elkonos[/25.83.178.145:49783] logged in with entity id 431 at (-282.1971533506195, -54.0, 259.65531369939293)
-[16:07:12] [Server thread/INFO]: elkonos joined the game
-[16:07:58] [Server thread/INFO]: elkonos tried to swim in lava
-[16:08:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=-259, y=66, z=35}
-[16:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
-[16:12:09] [Server thread/INFO]: elkonos has made the advancement [Getting an Upgrade]
-[16:12:31] [Server thread/INFO]: Cartelex has made the advancement [Getting an Upgrade]
-[16:14:49] [Server thread/INFO]: Gave 15 [Apple] to elkonos
-[16:17:11] [Server thread/INFO]: elkonos has made the advancement [Monster Hunter]
-[16:19:15] [Server thread/WARN]: Cartelex moved too quickly! 7.786139185846764,-6.592604597635059,0.09809602879005297
-[16:22:03] [Server thread/INFO]: Cartelex has made the advancement [Ice Bucket Challenge]
-[16:34:14] [Server thread/INFO]: Cartelex has made the advancement [Sweet Dreams]
-[16:34:21] [Server thread/INFO]: elkonos has made the advancement [Sweet Dreams]
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 5.543772312831152,0.0,-8.72051628477203
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 5.724316486020598,0.0,-9.076408603360807
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 5.903585356735221,0.0,-9.433022302211516
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 6.081668151818121,0.0,-9.790302916057943
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 6.258652126818106,0.0,-10.148198185159233
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 6.434615798687446,0.0,-10.506661049672825
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 6.609633308377852,0.0,-10.865647531514975
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 6.78377834717412,0.0,-11.225114839211118
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 6.957113742908859,0.0,-11.585026043683545
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 7.129703014372808,0.0,-11.94534470873883
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 7.3016033247513406,0.0,-12.30603803807847
-[16:36:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 5.533461342301962,0.0,-8.72628553372348
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -9.322627074853244,0.0,4.557846814988892
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -9.681837206919681,0.0,4.733465182857913
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -10.041061514240937,0.0,4.909090480549025
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -10.400298579290848,0.0,5.084722015079848
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -10.759547126296638,0.0,5.260359162766264
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -11.118806007062176,0.0,5.436001362292586
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -11.478074188211394,0.0,5.6116481084746965
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -11.837350739705471,0.0,5.787298946646928
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -12.196634824510056,0.0,5.962953467610134
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -12.555925689293417,0.0,6.138611303085156
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -12.915222656057722,0.0,6.314272121620746
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -13.274525114604785,0.0,6.489935624910743
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -13.63383251575624,0.0,6.665601544479671
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -13.993144365251737,0.0,6.8412696386995435
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -14.35246021825651,0.0,7.016939690105232
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -14.711779674419631,0.0,7.19261150297811
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -15.07110237342522,0.0,7.368284901171421
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -15.430427990988846,0.0,7.543959726153076
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -15.789756235254572,0.0,7.719635835244219
-[16:41:48] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -16.14908684355214,0.0,7.89531310003386
-[16:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 2.8003473408248283,0.0,10.00641961890826
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 2.9104786622665415,0.0,10.390892373237328
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.020678691644207,0.0,10.775352106285723
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.130940558162365,0.0,11.15980012018182
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.2412580781051474,0.0,11.544237586841128
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.3516256861294096,0.0,11.928665560987582
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.462042058668885,0.0,12.313083930164957
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.572502319270825,0.0,12.697493654870385
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.683002079128073,0.0,13.081895599551274
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.7935373883142347,0.0,13.46629054221026
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 3.9041046918950997,0.0,13.8506791830497
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 4.014700790431107,0.0,14.235062152251693
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 4.12532280442565,0.0,14.619440016980128
-[16:51:50] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! 4.23596814233224,0.0,15.003813287682476
-[16:56:20] [Server thread/INFO]: Cartelex has made the advancement [A Seedy Place]
-[16:56:50] [Server thread/WARN]: Cartelex moved too quickly! -1.3444004276384476,-2.0638359791121417,9.786441566550593
-[16:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
-[16:58:01] [Server thread/INFO]: Cartelex has made the advancement [The Parrots and the Bats]
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.49708831985663,0.0,9.67493466178189
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.486935395763794,0.0,10.061769955083491
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.4720727349317713,0.0,10.449509341653766
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.4528043617965523,0.0,10.83803789228341
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.4294229578599698,0.0,11.227254368608328
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.4022071761628467,0.0,11.617069477769974
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.3714192350234953,0.0,12.007404219654063
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.337310332434754,0.0,12.398189584047714
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.3001141601457675,0.0,12.789364422885683
-[17:01:52] [Server thread/WARN]: Boat (vehicle of elkonos) moved too quickly! -3.2600524289387067,0.0,13.180875356939623
-[17:12:00] [Server thread/INFO]: /advancement (grant|revoke)
-[17:12:00] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[17:12:00] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[17:12:00] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[17:12:00] [Server thread/INFO]: /clear [<targets>]
-[17:12:00] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[17:12:00] [Server thread/INFO]: /data (merge|get|remove|modify)
-[17:12:00] [Server thread/INFO]: /datapack (enable|disable|list)
-[17:12:00] [Server thread/INFO]: /debug (start|stop|function)
-[17:12:00] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
-[17:12:00] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[17:12:00] [Server thread/INFO]: /effect (clear|give)
-[17:12:00] [Server thread/INFO]: /me <action>
-[17:12:00] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[17:12:00] [Server thread/INFO]: /experience (add|set|query)
-[17:12:00] [Server thread/INFO]: /xp -> experience
-[17:12:00] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[17:12:00] [Server thread/INFO]: /forceload (add|remove|query)
-[17:12:00] [Server thread/INFO]: /function <name>
-[17:12:00] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
-[17:12:00] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[17:12:00] [Server thread/INFO]: /give <targets> <item> [<count>]
-[17:12:00] [Server thread/INFO]: /help [<command>]
-[17:12:00] [Server thread/INFO]: /item (replace|modify)
-[17:12:00] [Server thread/INFO]: /kick <targets> [<reason>]
-[17:12:00] [Server thread/INFO]: /kill [<targets>]
-[17:12:00] [Server thread/INFO]: /list [uuids]
-[17:12:00] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
-[17:12:00] [Server thread/INFO]: /locatebiome <biome>
-[17:12:00] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[17:12:00] [Server thread/INFO]: /msg <targets> <message>
-[17:12:00] [Server thread/INFO]: /tell -> msg
-[17:12:00] [Server thread/INFO]: /w -> msg
-[17:12:00] [Server thread/INFO]: /particle <name> [<pos>]
-[17:12:00] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[17:12:00] [Server thread/INFO]: /reload
-[17:12:00] [Server thread/INFO]: /recipe (give|take)
-[17:12:00] [Server thread/INFO]: /say <message>
-[17:12:00] [Server thread/INFO]: /schedule (function|clear)
-[17:12:00] [Server thread/INFO]: /scoreboard (objectives|players)
-[17:12:00] [Server thread/INFO]: /seed
-[17:12:00] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[17:12:00] [Server thread/INFO]: /spawnpoint [<targets>]
-[17:12:00] [Server thread/INFO]: /setworldspawn [<pos>]
-[17:12:00] [Server thread/INFO]: /spectate [<target>]
-[17:12:00] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[17:12:00] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[17:12:00] [Server thread/INFO]: /summon <entity> [<pos>]
-[17:12:00] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[17:12:00] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[17:12:00] [Server thread/INFO]: /teammsg <message>
-[17:12:00] [Server thread/INFO]: /tm -> teammsg
-[17:12:00] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[17:12:00] [Server thread/INFO]: /tp -> teleport
-[17:12:00] [Server thread/INFO]: /tellraw <targets> <message>
-[17:12:00] [Server thread/INFO]: /time (set|add|query)
-[17:12:00] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[17:12:00] [Server thread/INFO]: /trigger <objective> [add|set]
-[17:12:00] [Server thread/INFO]: /weather (clear|rain|thunder)
-[17:12:00] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[17:12:00] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[17:12:00] [Server thread/INFO]: /banlist [ips|players]
-[17:12:00] [Server thread/INFO]: /ban <targets> [<reason>]
-[17:12:00] [Server thread/INFO]: /deop <targets>
-[17:12:00] [Server thread/INFO]: /op <targets>
-[17:12:00] [Server thread/INFO]: /pardon <targets>
-[17:12:00] [Server thread/INFO]: /pardon-ip <target>
-[17:12:00] [Server thread/INFO]: /perf (start|stop)
-[17:12:00] [Server thread/INFO]: /save-all [flush]
-[17:12:00] [Server thread/INFO]: /save-off
-[17:12:00] [Server thread/INFO]: /save-on
-[17:12:00] [Server thread/INFO]: /setidletimeout <minutes>
-[17:12:00] [Server thread/INFO]: /stop
-[17:12:00] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[17:12:29] [Server thread/INFO]: Incorrect argument for command
-[17:12:29] [Server thread/INFO]: /locate pcean<--[HERE]
-[17:21:52] [Server thread/WARN]: elkonos moved too quickly! 0.05865774558878911,1.0013359791121417,-10.055956113707452
-[17:29:36] [Server thread/INFO]: elkonos has made the advancement [A Seedy Place]
-[17:38:14] [Server thread/INFO]: Gave 64 [Torch] to elkonos
-[17:43:52] [Server thread/INFO]: Cartelex has made the advancement [Acquire Hardware]
-[17:47:23] [Server thread/INFO]: Cartelex has made the advancement [Isn't It Iron Pick]
-[17:54:59] [Server thread/INFO]: <elkonos> -3507;
-[17:55:08] [Server thread/INFO]: <elkonos> 2744
-[18:27:49] [User Authenticator #3/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[18:27:49] [Server thread/INFO]: diegov_9[/25.85.248.83:49915] logged in with entity id 45762 at (-261.5, 68.0, 23.5)
-[18:27:49] [Server thread/INFO]: diegov_9 joined the game
-[18:28:25] [Server thread/INFO]: Teleported diegov_9 to elkonos
-[18:31:27] [Server thread/INFO]: <Cartelex> diegoooo
-[18:31:30] [Server thread/INFO]: <Cartelex> duermee
-[18:32:07] [Server thread/INFO]: Set the time to 1000
-[18:35:15] [Server thread/INFO]: <Cartelex> no hablo que esta aqui el electricista midiendo a ver donde hace el bujero d
-[18:35:28] [Server thread/INFO]: <Cartelex> donde
-[18:35:30] [Server thread/INFO]: <Cartelex> vamos a dalr
-[18:35:50] [Server thread/INFO]: <Cartelex> se mata facil con una barca
-[18:38:06] [Server thread/INFO]: <Cartelex> en una barca subios
-[18:38:16] [Server thread/INFO]: <Cartelex> aro
-[18:38:30] [Server thread/INFO]: <Cartelex> los empujas un poquillo
-[18:38:58] [Server thread/INFO]: diegov_9 has made the advancement [Stone Age]
-[18:40:34] [Server thread/INFO]: <Cartelex> es un ajolote
-[18:40:40] [Server thread/INFO]: <Cartelex> dame el cubo
-[18:40:42] [Server thread/INFO]: <Cartelex> corre
-[18:41:05] [Server thread/INFO]: <Cartelex> dame
-[18:41:09] [Server thread/INFO]: diegov_9 has made the advancement [Getting an Upgrade]
-[18:41:23] [Server thread/INFO]: Cartelex has made the advancement [The Cutest Predator]
-[18:41:46] [Server thread/INFO]: <Cartelex> dormii
-[18:41:50] [Server thread/INFO]: diegov_9 has made the advancement [Sweet Dreams]
-[18:41:55] [Server thread/INFO]: <diegov_9> zZzZz
-[18:42:08] [Server thread/INFO]: <Cartelex> el acuario que me voy a hacer con el ajolote
-[18:42:22] [Server thread/INFO]: <Cartelex> nuse
-[18:44:51] [Server thread/WARN]: Cartelex moved too quickly! -7.061153166589975,0.0,7.167709294374163
-[18:47:10] [Server thread/WARN]: Cartelex moved too quickly! 6.56993522465018,-6.757002463247801,3.4252862138273485
-[18:47:55] [Server thread/INFO]: diegov_9 has made the advancement [Acquire Hardware]
-[18:47:56] [Server thread/INFO]: <Cartelex> tengo 3 solo
-[18:51:18] [Server thread/INFO]: <Cartelex> que el hierro hacemos una mina
-[18:51:21] [Server thread/INFO]: <Cartelex> ahora
-[18:51:31] [Server thread/INFO]: <Cartelex> tengo una vista pero me tuve que subir porque me quede sin madera
-[18:52:34] [Server thread/INFO]: <elkonos> dormir
-[18:52:40] [Server thread/INFO]: <Cartelex> zzzz
-[18:52:53] [Server thread/INFO]: <diegov_9> vpyuw
-[18:53:07] [Server thread/INFO]: <elkonos> diego hijo!
-[18:53:19] [Server thread/INFO]: <Cartelex> diego duerme o kick
-[18:53:23] [Server thread/INFO]: <elkonos> amooooo
-[19:04:29] [Server thread/INFO]: <Cartelex> zzzzzzzz
-[19:04:44] [Server thread/INFO]: <diegov_9> e
-[19:07:40] [Server thread/INFO]: diegov_9 fell from a high place
-[19:15:57] [Server thread/INFO]: <Cartelex> zzzzz
-[19:19:44] [Server thread/INFO]: elkonos has made the advancement [The Parrots and the Bats]
-[19:20:53] [Server thread/INFO]: diegov_9 hit the ground too hard
-[19:26:59] [Server thread/INFO]: elkonos lost connection: Disconnected
-[19:26:59] [Server thread/INFO]: elkonos left the game
-[19:48:54] [Server thread/INFO]: <Cartelex> zZZZZ
-[20:01:02] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[20:01:02] [Server thread/INFO]: Cartelex left the game
-[20:01:19] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[20:01:19] [Server thread/INFO]: Cartelex[/25.85.49.86:64334] logged in with entity id 68360 at (-3480.9973645117366, 10.0, 2673.6101177175674)
-[20:01:19] [Server thread/INFO]: Cartelex joined the game
-[20:07:01] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3474, y=-2, z=2647} gg{x=-3474, y=-2, z=2648}
-[20:07:56] [User Authenticator #5/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[20:07:56] [Server thread/INFO]: elkonos[/25.83.178.145:49472] logged in with entity id 70001 at (-3466.978595302269, 73.0, 2698.2302435086835)
-[20:07:56] [Server thread/INFO]: elkonos joined the game
-[20:09:06] [Server thread/WARN]: Cartelex moved wrongly!
-[20:18:28] [Server thread/INFO]: diegov_9 has made the advancement [Monster Hunter]
-[20:19:04] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[20:19:04] [Server thread/INFO]: diegov_9 left the game
-[20:19:23] [User Authenticator #6/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[20:19:23] [Server thread/INFO]: diegov_9[/25.85.248.83:57256] logged in with entity id 73071 at (-3469.2199508983335, 78.0, 2701.102273983714)
-[20:19:23] [Server thread/INFO]: diegov_9 joined the game
-[20:22:08] [Server thread/INFO]: elkonos has made the advancement [Acquire Hardware]
-[20:28:01] [Server thread/INFO]: No entity was found
-[20:28:12] [Server thread/INFO]: Teleported diegov_9 to elkonos
-[20:29:55] [Server thread/INFO]: Gave 64 [Torch] to elkonos
-[20:30:44] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[20:30:44] [Server thread/INFO]: diegov_9 left the game
-[20:35:08] [Server thread/INFO]: Cartelex was slain by Zombie
-[20:35:18] [User Authenticator #7/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[20:35:18] [Server thread/INFO]: Davavico[/25.81.65.195:56174] logged in with entity id 76905 at (-249.0036545152261, 67.0, 34.30000001192093)
-[20:35:18] [Server thread/INFO]: Davavico joined the game
-[20:35:57] [Server thread/INFO]: Teleported Davavico to elkonos
-[20:36:39] [Server thread/INFO]: Davavico lost connection: Disconnected
-[20:36:39] [Server thread/INFO]: Davavico left the game
-[20:37:29] [User Authenticator #8/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[20:37:29] [Server thread/INFO]: Davavico[/25.81.65.195:56215] logged in with entity id 77565 at (-3465.4722864242976, 78.0, 2700.72883469275)
-[20:37:29] [Server thread/INFO]: Davavico joined the game
-[20:39:55] [Server thread/INFO]: Davavico has made the advancement [Stone Age]
-[20:40:09] [Server thread/INFO]: Davavico has made the advancement [Getting an Upgrade]
-[20:42:36] [Server thread/INFO]: elkonos has made the advancement [Tactical Fishing]
-[20:43:33] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3568, y=54, z=2780} gg{x=-3568, y=53, z=2780}
-[20:43:49] [User Authenticator #9/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[20:43:49] [Server thread/INFO]: diegov_9[/25.85.248.83:57594] logged in with entity id 78953 at (-3512.7001242386686, 69.0, 2709.980760541155)
-[20:43:49] [Server thread/INFO]: diegov_9 joined the game
-[20:44:30] [Server thread/INFO]: [Davavico: Set own game mode to Adventure Mode]
-[20:46:30] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[20:47:52] [Server thread/INFO]: [Davavico: Set own game mode to Adventure Mode]
-[20:48:04] [Server thread/INFO]: Set the time to 1000
-[20:50:00] [Server thread/INFO]: elkonos lost connection: Disconnected
-[20:50:00] [Server thread/INFO]: elkonos left the game
-[20:50:04] [Server thread/INFO]: Davavico lost connection: Disconnected
-[20:50:04] [Server thread/INFO]: Davavico left the game
-[20:50:45] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[20:50:45] [Server thread/INFO]: Cartelex left the game
-[20:50:47] [Server thread/INFO]: Stopping the server
-[20:50:47] [Server thread/INFO]: Stopping server
-[20:50:47] [Server thread/INFO]: Saving players
-[20:50:47] [Server thread/INFO]: diegov_9 lost connection: Server closed
-[20:50:47] [Server thread/INFO]: diegov_9 left the game
-[20:50:47] [Server thread/INFO]: Saving worlds
-[20:50:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[20:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:50:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[20:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:50:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[20:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:50:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:00:38] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[21:00:38] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[21:00:38] [main/WARN]: Disabling further attempts to query Paging File.
+[21:00:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:00:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:00:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:00:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:00:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:00:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:00:45] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[21:00:47] [Worker-Main-12/INFO]: Loaded 7 recipes
+[21:00:48] [Worker-Main-12/INFO]: Loaded 1138 advancements
+[21:00:51] [Server thread/INFO]: Starting minecraft server version 1.17
+[21:00:51] [Server thread/INFO]: Loading properties
+[21:00:51] [Server thread/INFO]: Default game type: SURVIVAL
+[21:00:51] [Server thread/INFO]: Generating keypair
+[21:00:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:00:51] [Server thread/INFO]: Using default channel type
+[21:00:51] [Server thread/INFO]: Preparing level "world"
+[21:00:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:00:52] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:00:52] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:00:52] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:00:53] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:00:53] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:00:54] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[21:00:55] [Worker-Main-11/INFO]: Preparing spawn area: 5%
+[21:00:59] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[21:00:59] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[21:00:59] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[21:00:59] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[21:00:59] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[21:00:59] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[21:00:59] [Worker-Main-13/INFO]: Preparing spawn area: 6%
+[21:00:59] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[21:00:59] [Worker-Main-9/INFO]: Preparing spawn area: 9%
+[21:01:00] [Worker-Main-10/INFO]: Preparing spawn area: 55%
+[21:01:00] [Worker-Main-10/INFO]: Preparing spawn area: 81%
+[21:01:01] [Worker-Main-10/INFO]: Preparing spawn area: 99%
+[21:01:01] [Server thread/INFO]: Time elapsed: 9160 ms
+[21:01:01] [Server thread/INFO]: Done (9.349s)! For help, type "help"
+[21:01:05] [User Authenticator #1/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[21:01:05] [Server thread/INFO]: Cartelex[/25.85.49.86:64504] logged in with entity id 93 at (-3492.7381538501977, 68.0, 2690.7790502881116)
+[21:01:05] [Server thread/INFO]: Cartelex joined the game
+[21:01:55] [Server thread/INFO]: That player does not exist
+[21:02:02] [Server thread/INFO]: Made Cartelex a server operator
+[21:02:14] [Server thread/INFO]: [Cartelex: Set own game mode to Creative Mode]
+[21:02:30] [Server thread/INFO]: [Cartelex: Set own game mode to Survival Mode]
+[21:02:55] [Server thread/INFO]: [Cartelex: Set own game mode to Creative Mode]
+[21:03:24] [Server thread/INFO]: [Cartelex: Set own game mode to Survival Mode]
+[21:16:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3462, y=71, z=2729} gg{x=-3463, y=70, z=2729}
+[21:18:56] [Server thread/INFO]: Stopping the server
+[21:18:56] [Server thread/INFO]: Stopping server
+[21:18:56] [Server thread/INFO]: Saving players
+[21:18:56] [Server thread/INFO]: Saving worlds
+[21:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[21:18:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[21:18:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[21:18:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:18:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:18:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:18:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
