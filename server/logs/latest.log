@@ -1,69 +1,76 @@
-[15:02:23] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[15:02:23] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[15:02:23] [main/WARN]: Disabling further attempts to query Paging File.
-[15:02:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:02:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:02:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:02:29] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:02:29] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:02:29] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:02:29] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[15:02:31] [Worker-Main-14/INFO]: Loaded 7 recipes
-[15:02:32] [Worker-Main-14/INFO]: Loaded 1138 advancements
-[15:02:36] [Server thread/INFO]: Starting minecraft server version 1.17
-[15:02:36] [Server thread/INFO]: Loading properties
-[15:02:36] [Server thread/INFO]: Default game type: SURVIVAL
-[15:02:36] [Server thread/INFO]: Generating keypair
-[15:02:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:02:36] [Server thread/INFO]: Using default channel type
-[15:02:37] [Server thread/INFO]: Preparing level "world"
-[15:02:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:02:38] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:02:38] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:02:38] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[15:02:38] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:02:39] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[15:02:39] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[15:02:40] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:02:40] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[15:02:44] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[15:02:44] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[15:02:44] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[15:02:44] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[15:02:44] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[15:02:44] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[15:02:44] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[15:02:44] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[15:02:45] [Worker-Main-13/INFO]: Preparing spawn area: 57%
-[15:02:45] [Worker-Main-11/INFO]: Preparing spawn area: 96%
-[15:02:46] [Worker-Main-8/INFO]: Preparing spawn area: 99%
-[15:02:46] [Worker-Main-14/INFO]: Preparing spawn area: 99%
-[15:02:46] [Server thread/INFO]: Time elapsed: 9536 ms
-[15:02:46] [Server thread/INFO]: Done (9.675s)! For help, type "help"
-[15:03:35] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[15:03:35] [Server thread/INFO]: Davavico[/127.0.0.1:58156] logged in with entity id 92 at (-3473.092263260356, 72.0, 2707.6074600721217)
-[15:03:35] [Server thread/INFO]: Davavico joined the game
-[15:04:38] [Server thread/INFO]: [Davavico: Made list a server operator]
-[15:05:14] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[15:05:55] [Server thread/INFO]: Davavico has made the advancement [A Seedy Place]
-[15:06:59] [Server thread/INFO]: Davavico has made the advancement [Sweet Dreams]
-[15:21:30] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[15:21:57] [Server thread/INFO]: [Davavico: Teleported Davavico to -3599.500000, 200.000000, 2430.500000]
-[15:21:57] [Server thread/WARN]: Davavico moved too quickly! 1.0470640689231914,191.0,0.19999998807907104
-[15:21:57] [Server thread/WARN]: Davavico moved too quickly! 1.0470640689231914,191.0,0.19999998807907104
-[15:23:01] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[15:23:03] [Server thread/INFO]: Davavico lost connection: Disconnected
-[15:23:03] [Server thread/INFO]: Davavico left the game
-[15:23:23] [Server thread/INFO]: Stopping the server
-[15:23:23] [Server thread/INFO]: Stopping server
-[15:23:23] [Server thread/INFO]: Saving players
-[15:23:23] [Server thread/INFO]: Saving worlds
-[15:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[15:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[15:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[15:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:22:12] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[20:22:12] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[20:22:12] [main/WARN]: Disabling further attempts to query Paging File.
+[20:22:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:22:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:22:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:22:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:22:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:22:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:22:19] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[20:22:19] [Worker-Main-12/INFO]: Loaded 7 recipes
+[20:22:20] [Worker-Main-12/INFO]: Loaded 1138 advancements
+[20:22:21] [Server thread/INFO]: Starting minecraft server version 1.17
+[20:22:21] [Server thread/INFO]: Loading properties
+[20:22:21] [Server thread/INFO]: Default game type: SURVIVAL
+[20:22:21] [Server thread/INFO]: Generating keypair
+[20:22:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:22:21] [Server thread/INFO]: Using default channel type
+[20:22:21] [Server thread/INFO]: Preparing level "world"
+[20:22:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:22:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:22:24] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:22:24] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:22:24] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:22:24] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:22:24] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:22:24] [Worker-Main-10/INFO]: Preparing spawn area: 92%
+[20:22:25] [Server thread/INFO]: Time elapsed: 3450 ms
+[20:22:25] [Server thread/INFO]: Done (3.511s)! For help, type "help"
+[20:24:58] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[20:24:58] [Server thread/INFO]: diegov_9[/25.85.248.83:58597] logged in with entity id 93 at (-3579.8689333610596, 79.0, 2741.2732910446034)
+[20:24:58] [Server thread/INFO]: diegov_9 joined the game
+[20:27:32] [Server thread/INFO]: diegov_9 has made the advancement [A Seedy Place]
+[20:27:50] [Server thread/INFO]: diegov_9 has made the advancement [The Parrots and the Bats]
+[20:31:24] [User Authenticator #2/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[20:31:24] [Server thread/INFO]: Davavico[/25.81.65.195:60101] logged in with entity id 1474 at (-3472.723163198603, 72.0, 2706.3841702467375)
+[20:31:24] [Server thread/INFO]: Davavico joined the game
+[20:31:52] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[20:32:15] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[20:34:38] [Server thread/INFO]: Davavico has made the advancement [A Seedy Place]
+[20:40:23] [Server thread/INFO]: Davavico has made the advancement [Sweet Dreams]
+[20:43:42] [Server thread/INFO]: Davavico has made the advancement [Monster Hunter]
+[20:52:40] [Server thread/INFO]: Davavico has made the advancement [Acquire Hardware]
+[20:54:23] [Server thread/INFO]: diegov_9 has made the advancement [Isn't It Iron Pick]
+[20:54:25] [Server thread/INFO]: Davavico has made the advancement [Isn't It Iron Pick]
+[20:54:50] [Server thread/INFO]: diegov_9 has made the advancement [Not Today, Thank You]
+[21:02:28] [Server thread/INFO]: <diegov_9> comuida
+[21:02:44] [Server thread/INFO]: <diegov_9> comuida
+[21:03:14] [Server thread/INFO]: <diegov_9> comuida
+[21:20:17] [Server thread/INFO]: Davavico has made the advancement [Take Aim]
+[21:33:14] [Server thread/INFO]: Davavico has made the advancement [Not Today, Thank You]
+[21:33:39] [Server thread/INFO]: diegov_9 has made the advancement [Diamonds!]
+[21:33:44] [Server thread/INFO]: Davavico has made the advancement [Diamonds!]
+[21:34:03] [Server thread/INFO]: diegov_9 was burnt to a crisp whilst fighting Zombie
+[21:34:24] [Server thread/INFO]: [Davavico: Teleported diegov_9 to Davavico]
+[21:34:24] [Server thread/WARN]: diegov_9 moved too quickly! 17.624747497579847,-117.0,63.13221602248905
+[21:36:12] [Server thread/INFO]: [Davavico: Teleported diegov_9 to Davavico]
+[21:36:12] [Server thread/WARN]: diegov_9 moved too quickly! 28.9956922575293,-8.0,-34.12972419814969
+[21:36:53] [Server thread/INFO]: [Davavico: Made diegov_9 a server operator]
+[21:38:40] [Server thread/INFO]: Davavico lost connection: Disconnected
+[21:38:40] [Server thread/INFO]: Davavico left the game
+[21:38:44] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[21:38:44] [Server thread/INFO]: diegov_9 left the game
+[21:39:09] [Server thread/INFO]: Stopping the server
+[21:39:09] [Server thread/INFO]: Stopping server
+[21:39:09] [Server thread/INFO]: Saving players
+[21:39:09] [Server thread/INFO]: Saving worlds
+[21:39:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[21:39:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[21:39:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:39:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[21:39:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:39:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:39:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
