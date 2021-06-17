@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-06-17 20:07:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-06-14 18:39:17 +0200"
@@ -347,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2021-06-17 21:11:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-06-15 21:26:22 +0200"
@@ -439,6 +451,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2021-06-17 20:12:54 +0200",
       "minecraft:cow": "2021-06-15 20:27:50 +0200"
     },
     "done": false
@@ -464,6 +477,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-14 18:31:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2021-06-17 21:26:51 +0200"
     },
     "done": true
   },
@@ -724,7 +743,8 @@
       "minecraft:skeleton": "2021-06-15 20:52:16 +0200",
       "minecraft:spider": "2021-06-15 20:48:05 +0200",
       "minecraft:enderman": "2021-06-14 20:18:48 +0200",
-      "minecraft:zombie": "2021-06-14 20:18:28 +0200"
+      "minecraft:zombie": "2021-06-14 20:18:28 +0200",
+      "minecraft:drowned": "2021-06-17 20:53:55 +0200"
     },
     "done": false
   },
@@ -935,6 +955,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2021-06-15 20:44:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-06-17 20:39:45 +0200"
     },
     "done": true
   },
@@ -1527,6 +1553,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-14 18:31:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2021-06-17 20:07:55 +0200"
     },
     "done": true
   },
