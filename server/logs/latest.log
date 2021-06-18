@@ -1,225 +1,105 @@
-[19:55:50] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[19:55:50] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[19:55:50] [main/WARN]: Disabling further attempts to query Paging File.
-[19:55:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:55:57] [main/WARN]: Failed to load profile cache .\usercache.json
-com.google.gson.JsonSyntaxException: Expected a com.google.gson.JsonArray but was com.google.gson.JsonPrimitive
-	at com.google.gson.internal.bind.TypeAdapters$35$1.read(TypeAdapters.java:913) ~[server.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:825) ~[server.jar:?]
-	at aed.a(SourceFile:200) [server.jar:?]
-	at aed.<init>(SourceFile:67) [server.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:120) [server.jar:?]
-[19:55:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:55:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:55:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:55:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:55:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:55:58] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[19:55:58] [Worker-Main-11/INFO]: Loaded 7 recipes
-[19:55:58] [Worker-Main-11/INFO]: Loaded 1138 advancements
-[19:56:00] [Server thread/INFO]: Starting minecraft server version 1.17
-[19:56:00] [Server thread/INFO]: Loading properties
-[19:56:00] [Server thread/INFO]: Default game type: SURVIVAL
-[19:56:00] [Server thread/INFO]: Generating keypair
-[19:56:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:56:00] [Server thread/INFO]: Using default channel type
-[19:56:00] [Server thread/INFO]: Preparing level "world"
-[19:56:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:56:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[19:56:02] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[19:56:02] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[19:56:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:56:02] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[19:56:03] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[19:56:03] [Worker-Main-12/INFO]: Preparing spawn area: 78%
-[19:56:04] [Worker-Main-9/INFO]: Preparing spawn area: 99%
-[19:56:04] [Server thread/INFO]: Time elapsed: 3538 ms
-[19:56:04] [Server thread/INFO]: Done (3.604s)! For help, type "help"
-[19:57:48] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[19:57:48] [Server thread/INFO]: diegov_9[/25.85.248.83:57069] logged in with entity id 90 at (-3555.985693827772, 87.0, 2711.25634993613)
-[19:57:48] [Server thread/INFO]: diegov_9 joined the game
-[20:19:54] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[20:19:54] [Server thread/INFO]: diegov_9 left the game
-[20:30:03] [User Authenticator #2/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[20:30:03] [Server thread/INFO]: diegov_9[/25.85.248.83:58187] logged in with entity id 4705 at (-3477.7190658328504, 71.0, 2749.1585293123103)
-[20:30:03] [Server thread/INFO]: diegov_9 joined the game
-[20:30:24] [User Authenticator #3/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[20:30:24] [Server thread/INFO]: Cartelex[/25.85.49.86:56268] logged in with entity id 5057 at (-3492.7381538501977, 68.0, 2690.7790502881116)
-[20:30:24] [Server thread/INFO]: Cartelex joined the game
-[20:30:31] [Server thread/INFO]: <diegov_9> no me oyes¿
-[20:30:37] [Server thread/INFO]: <diegov_9> zZzZ
-[20:31:03] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[20:31:03] [Server thread/INFO]: Cartelex left the game
-[20:31:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@22a790fe[id=<null>,name=Cartelex,properties={},legacy=false] (/25.85.49.86:56287) lost connection: Disconnected
-[20:31:45] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[20:31:45] [Server thread/INFO]: Cartelex[/25.85.49.86:56296] logged in with entity id 5273 at (-3492.7381538501977, 68.0, 2690.7790502881116)
-[20:31:45] [Server thread/INFO]: Cartelex joined the game
-[20:32:07] [Server thread/INFO]: Cartelex lost connection: Timed out
-[20:32:07] [Server thread/INFO]: Cartelex left the game
-[20:32:19] [User Authenticator #5/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[20:32:19] [Server thread/INFO]: Cartelex[/25.85.49.86:56303] logged in with entity id 5476 at (-3492.7381538501977, 68.0, 2690.7790502881116)
-[20:32:19] [Server thread/INFO]: Cartelex joined the game
-[20:32:38] [Server thread/INFO]: Cartelex lost connection: Timed out
-[20:32:38] [Server thread/INFO]: Cartelex left the game
-[20:32:48] [User Authenticator #6/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[20:32:48] [Server thread/INFO]: Cartelex[/25.85.49.86:56306] logged in with entity id 5572 at (-3494.604890179279, 68.0, 2691.1308701166863)
-[20:32:48] [Server thread/INFO]: Cartelex joined the game
-[20:33:20] [Server thread/INFO]: <diegov_9> me oyes¿
-[20:33:24] [Server thread/INFO]: <Cartelex> no xd
-[20:33:28] [Server thread/INFO]: <Cartelex> ni tu a mi?
-[20:33:31] [Server thread/INFO]: <diegov_9> no
-[20:36:11] [Server thread/INFO]: <Cartelex> yo a ti perfe asi que hablame
-[20:36:14] [Server thread/INFO]: <Cartelex> Oye
-[20:36:17] [Server thread/INFO]: <Cartelex> y mi ajolote?
-[20:36:26] [Server thread/INFO]: <Cartelex> lo meti en la pecera xd
-[20:36:32] [Server thread/INFO]: <Cartelex> con agua y todo
-[20:36:36] [Server thread/INFO]: <Cartelex> esto ha hecho rolback
-[20:36:57] [Server thread/INFO]: <Cartelex> del ultimo dia que estuve
-[20:37:01] [Server thread/INFO]: <Cartelex> el martes
-[20:37:15] [Server thread/INFO]: <Cartelex> claro
-[20:37:23] [Server thread/INFO]: <Cartelex> habeis jugado despues porque tiene la casa hecha
-[20:37:40] [Server thread/INFO]: <Cartelex> Fue david, el rato ese que te estuvo enseñando
-[20:37:54] [Server thread/INFO]: <Cartelex> ahi fue cuando hice lo del ajolote :(
-[20:40:40] [Server thread/INFO]: <Cartelex> buen dato
-[20:40:43] [Server thread/INFO]: <Cartelex> si las papas son mejores
-[20:41:43] [Server thread/INFO]: <Cartelex> ZZZZZ
-[20:41:56] [Server thread/INFO]: <Cartelex> so
-[20:41:57] [Server thread/INFO]: <Cartelex> so
-[20:41:58] [Server thread/INFO]: <Cartelex> si
-[20:43:33] [Server thread/INFO]: <Cartelex> por eso tampoco esta el comerciante lo hice en el mismo rato :(
-[20:46:07] [Server thread/INFO]: <Cartelex> y este zulo?
-[20:46:18] [Server thread/INFO]: <Cartelex> ortega lara aprovves
-[20:47:03] [Server thread/INFO]: <Cartelex> que va, mi casa es excavada en piedra xd
-[20:47:39] [Server thread/INFO]: <Cartelex> ahi ahi
-[20:47:42] [Server thread/INFO]: <Cartelex> que follen
-[20:48:12] [Server thread/INFO]: <Cartelex> jajajaja
-[20:48:19] [Server thread/INFO]: <Cartelex> digo dios que guapo por fuera
-[20:48:22] [Server thread/INFO]: <Cartelex> abro
-[20:49:02] [Server thread/INFO]: <Cartelex> un dia podemos echar un build battle :)
-[20:49:17] [Server thread/INFO]: <Cartelex> en el server de hypixel
-[20:52:39] [Server thread/INFO]: <Cartelex> ZZZ
-[20:53:40] [Server thread/INFO]: <Cartelex> eso es porque haces sombra spawnean zombis y se ahogan
-[20:56:05] [Server thread/INFO]: <Cartelex> voy
-[20:56:40] [Server thread/INFO]: <Cartelex> x-3548
-[20:56:46] [Server thread/INFO]: <Cartelex> z 81
-[20:56:59] [Server thread/INFO]: <Cartelex> y 2710
-[20:57:22] [Server thread/INFO]: <Cartelex> necesito tierra donde cavo
-[20:57:28] [Server thread/INFO]: <Cartelex> hay algo que hallanar o algo?
-[20:57:49] [Server thread/INFO]: <Cartelex> tierra
-[20:58:18] [Server thread/INFO]: <Cartelex> allano esto de mi casa
-[20:58:22] [Server thread/INFO]: <Cartelex> de casa mi hermano que diga
-[21:00:29] [User Authenticator #7/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[21:00:29] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\99dc6bee-a47f-4dfc-aa59-cf86a62c21c4.json
-com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
-	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[server.jar:?]
-	at afk.a(SourceFile:81) ~[server.jar:?]
-	at afk.<init>(SourceFile:49) ~[server.jar:?]
-	at aeh.a(SourceFile:796) ~[server.jar:?]
-	at abs.<init>(SourceFile:245) ~[server.jar:?]
-	at aeh.e(SourceFile:446) ~[server.jar:?]
-	at acl.c(SourceFile:112) ~[server.jar:?]
-	at acl.b(SourceFile:67) ~[server.jar:?]
-	at oe.a(SourceFile:234) ~[server.jar:?]
-	at aci.c(SourceFile:183) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:904) ~[server.jar:?]
-	at aas.b(SourceFile:334) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:833) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:692) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:274) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:831) [?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[server.jar:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[server.jar:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[server.jar:?]
-	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[server.jar:?]
-	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[server.jar:?]
-	... 15 more
-[21:00:29] [Server thread/ERROR]: Couldn't parse player advancements in .\world\advancements\99dc6bee-a47f-4dfc-aa59-cf86a62c21c4.json
-com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 3 column 2 path $.minecraft:recipes/tools/fishing_rod.
-	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[server.jar:?]
-	at xe.d(SourceFile:138) ~[server.jar:?]
-	at xe.<init>(SourceFile:82) ~[server.jar:?]
-	at aeh.f(SourceFile:809) ~[server.jar:?]
-	at abs.<init>(SourceFile:246) ~[server.jar:?]
-	at aeh.e(SourceFile:446) ~[server.jar:?]
-	at acl.c(SourceFile:112) ~[server.jar:?]
-	at acl.b(SourceFile:67) ~[server.jar:?]
-	at oe.a(SourceFile:234) ~[server.jar:?]
-	at aci.c(SourceFile:183) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:904) ~[server.jar:?]
-	at aas.b(SourceFile:334) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:833) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:692) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:274) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:831) [?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 3 column 2 path $.minecraft:recipes/tools/fishing_rod.
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[server.jar:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[server.jar:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:508) ~[server.jar:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[server.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:738) ~[server.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739) ~[server.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714) ~[server.jar:?]
-	at com.google.gson.internal.Streams.parse(Streams.java:48) ~[server.jar:?]
-	... 15 more
-[21:00:29] [Server thread/INFO]: Davavico[/25.81.65.195:53064] logged in with entity id 12294 at (-3518.744883114105, 83.0, 2662.87024368257)
-[21:00:29] [Server thread/INFO]: Davavico joined the game
-[21:00:29] [Server thread/INFO]: Davavico has made the advancement [Stone Age]
-[21:00:30] [Server thread/INFO]: Davavico has made the advancement [Isn't It Iron Pick]
-[21:00:30] [Server thread/INFO]: Davavico has made the advancement [Getting an Upgrade]
-[21:01:04] [Server thread/INFO]: <Cartelex> hijoputa
-[21:01:23] [Server thread/INFO]: <Cartelex> me lo robaste pero de broma jajajaja
-[21:02:03] [Server thread/INFO]: <Cartelex> lo suyo es pillar hierro
-[21:02:22] [Server thread/INFO]: <Cartelex> pa fulearnos y hacer picos que con el de piedra es lentisimo
-[21:02:43] [Server thread/INFO]: <Cartelex> un poco zulito
-[21:03:17] [Server thread/INFO]: <Cartelex> no sabe pelar papas XDDD
-[21:04:02] [Server thread/INFO]: <Cartelex> en el cofre hay zanahorias
-[21:04:08] [Server thread/INFO]: <Cartelex> dava
-[21:04:38] [Server thread/INFO]: <Cartelex> pero va muy lagao por eso hablo por aqui
-[21:04:42] [Server thread/INFO]: <Davavico> tu eres muy listo
-[21:05:00] [Server thread/INFO]: <Cartelex> espera que pille picos y antorchar y eso
-[21:06:24] [Server thread/INFO]: <Cartelex> donde estai
-[21:06:37] [Server thread/INFO]: <Cartelex> que mina
-[21:07:29] [Server thread/INFO]: <Cartelex> si?
-[21:10:32] [Server thread/INFO]: <Cartelex> aro
-[21:10:51] [Server thread/INFO]: <Cartelex> pa ver si encuentro otra
-[21:11:04] [Server thread/INFO]: <Cartelex> ojo se viene farm
-[21:11:45] [Server thread/INFO]: Davavico has made the advancement [Acquire Hardware]
-[21:12:03] [Server thread/INFO]: <Cartelex> lo suyo es hacer farm de experiencia, mesa de encantamientos y buscar fortuna porque con los pocos diamantes que hay
-[21:12:32] [Server thread/INFO]: <Cartelex> no creo
-[21:12:55] [Server thread/INFO]: Davavico has made the advancement [Monster Hunter]
-[21:13:03] [Server thread/INFO]: Cartelex has made the advancement [Not Today, Thank You]
-[21:15:21] [Server thread/INFO]: <Cartelex> cueva de agua tengo
-[21:15:51] [Server thread/INFO]: <Cartelex> una cueva que esta llena de agua hasta arriba
-[21:16:18] [Server thread/INFO]: <Cartelex> diamante
-[21:16:29] [Server thread/INFO]: <Cartelex> zii
-[21:17:08] [Server thread/INFO]: <Cartelex> las antorchas a la derecha
-[21:21:09] [Server thread/INFO]: <Cartelex> cueva gigante encontrada
-[21:21:39] [Server thread/INFO]: Davavico has made the advancement [Diamonds!]
-[21:21:55] [Server thread/INFO]: <Cartelex> otro tengo yo
-[21:22:25] [Server thread/INFO]: <Cartelex> llevo 32 de hierro
-[21:26:38] [Server thread/INFO]: Cartelex has made the advancement [Suit Up]
-[21:26:51] [Server thread/INFO]: diegov_9 has made the advancement [Suit Up]
-[21:26:59] [Server thread/INFO]: Davavico has made the advancement [Suit Up]
-[21:28:33] [Server thread/INFO]: Davavico has made the advancement [Sweet Dreams]
-[21:29:09] [Server thread/INFO]: Davavico has made the advancement [Not Today, Thank You]
-[21:30:35] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[21:30:35] [Server thread/INFO]: diegov_9 left the game
-[21:30:40] [Server thread/INFO]: Davavico lost connection: Disconnected
-[21:30:40] [Server thread/INFO]: Davavico left the game
-[21:30:41] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[21:30:41] [Server thread/INFO]: Cartelex left the game
-[21:30:54] [Server thread/INFO]: Stopping the server
-[21:30:54] [Server thread/INFO]: Stopping server
-[21:30:54] [Server thread/INFO]: Saving players
-[21:30:54] [Server thread/INFO]: Saving worlds
-[21:30:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[21:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:30:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[21:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:30:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[21:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:30:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:20:15] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[17:20:15] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[17:20:15] [main/WARN]: Disabling further attempts to query Paging File.
+[17:20:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:20:21] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[17:20:23] [Worker-Main-4/INFO]: Loaded 7 recipes
+[17:20:23] [Worker-Main-4/INFO]: Loaded 1138 advancements
+[17:20:26] [Server thread/INFO]: Starting minecraft server version 1.17
+[17:20:26] [Server thread/INFO]: Loading properties
+[17:20:26] [Server thread/INFO]: Default game type: SURVIVAL
+[17:20:26] [Server thread/INFO]: Generating keypair
+[17:20:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:20:26] [Server thread/INFO]: Using default channel type
+[17:20:26] [Server thread/INFO]: Preparing level "world"
+[17:20:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:20:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:20:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:20:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:20:33] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[17:20:33] [Worker-Main-5/INFO]: Preparing spawn area: 72%
+[17:20:34] [Worker-Main-4/INFO]: Preparing spawn area: 88%
+[17:20:35] [Server thread/INFO]: Time elapsed: 8387 ms
+[17:20:35] [Server thread/INFO]: Done (8.463s)! For help, type "help"
+[17:22:44] [User Authenticator #1/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[17:22:44] [Server thread/INFO]: elkonos[/25.83.178.145:54235] logged in with entity id 94 at (-3463.4854950794506, 73.0, 2704.1572296481886)
+[17:22:44] [Server thread/INFO]: elkonos joined the game
+[17:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[17:23:20] [Server thread/INFO]: elkonos lost connection: Disconnected
+[17:23:20] [Server thread/INFO]: elkonos left the game
+[17:24:00] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[17:24:01] [Server thread/INFO]: elkonos[/25.83.178.145:54316] logged in with entity id 439 at (-3462.8435268645517, 73.0, 2703.811144772774)
+[17:24:01] [Server thread/INFO]: elkonos joined the game
+[17:39:52] [Server thread/INFO]: <elkonos> hola
+[17:53:03] [Server thread/INFO]: Gave 64 [Block of Iron] to elkonos
+[17:53:53] [Server thread/INFO]: Gave 64 [Chest] to elkonos
+[17:55:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:55:04] [Server thread/INFO]: /cive elkonos log 64<--[HERE]
+[17:55:11] [Server thread/INFO]: Unknown item 'minecraft:log'
+[17:55:11] [Server thread/INFO]: ...e elkonos log 64<--[HERE]
+[18:00:11] [Server thread/INFO]: Invalid name or UUID
+[18:00:11] [Server thread/INFO]: /give elkonosiron_pickage 1<--[HERE]
+[18:00:21] [Server thread/INFO]: Unknown item 'minecraft:iron_pickage'
+[18:00:21] [Server thread/INFO]: ...e elkonos iron_pickage 1<--[HERE]
+[18:01:42] [Server thread/INFO]: elkonos has made the advancement [Isn't It Iron Pick]
+[18:04:25] [Server thread/INFO]: Gave 64 [Torch] to elkonos
+[18:05:30] [Server thread/INFO]: elkonos lost connection: Disconnected
+[18:05:30] [Server thread/INFO]: elkonos left the game
+[18:18:03] [User Authenticator #3/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[18:18:03] [Server thread/INFO]: elkonos[/25.83.178.145:61182] logged in with entity id 7988 at (-3439.4083712042325, 78.0, 2706.1474229169794)
+[18:18:03] [Server thread/INFO]: elkonos joined the game
+[18:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[18:21:14] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
+[18:29:54] [Server thread/INFO]: Set the time to 1000
+[18:30:15] [Server thread/INFO]: elkonos has made the advancement [Ice Bucket Challenge]
+[19:26:20] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
+[19:43:40] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
+[19:44:25] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
+[20:03:33] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
+[20:06:16] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
+[20:08:28] [Server thread/WARN]: elkonos moved wrongly!
+[20:08:35] [Server thread/WARN]: elkonos moved wrongly!
+[20:08:36] [Server thread/INFO]: A player is required to run this command here
+[20:08:41] [Server thread/WARN]: elkonos moved wrongly!
+[20:08:43] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
+[20:16:00] [User Authenticator #4/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[20:16:00] [Server thread/INFO]: diegov_9[/25.86.43.161:50643] logged in with entity id 27175 at (-3540.3316301229597, 81.0, 2702.0428740622788)
+[20:16:00] [Server thread/INFO]: diegov_9 joined the game
+[20:17:37] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:43:35] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:44:36] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:45:58] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:49:38] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:50:35] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:50:36] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
+[20:53:26] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[20:53:26] [Server thread/INFO]: diegov_9 left the game
+[20:53:30] [Server thread/INFO]: elkonos lost connection: Disconnected
+[20:53:30] [Server thread/INFO]: elkonos left the game
+[20:53:37] [Server thread/INFO]: Stopping the server
+[20:53:37] [Server thread/INFO]: Stopping server
+[20:53:37] [Server thread/INFO]: Saving players
+[20:53:37] [Server thread/INFO]: Saving worlds
+[20:53:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:53:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:53:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

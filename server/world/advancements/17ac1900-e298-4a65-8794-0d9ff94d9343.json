@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-06-18 20:50:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-06-15 21:06:57 +0200"
@@ -452,7 +458,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2021-06-17 20:12:54 +0200",
-      "minecraft:cow": "2021-06-15 20:27:50 +0200"
+      "minecraft:cow": "2021-06-15 20:27:50 +0200",
+      "minecraft:chicken": "2021-06-18 20:52:03 +0200"
     },
     "done": false
   },
@@ -1451,6 +1458,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-14 18:31:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2021-06-18 20:29:44 +0200"
     },
     "done": true
   },
