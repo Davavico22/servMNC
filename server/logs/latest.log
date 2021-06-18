@@ -1,105 +1,74 @@
-[17:20:15] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[17:20:15] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[17:20:15] [main/WARN]: Disabling further attempts to query Paging File.
-[17:20:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:20:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:20:21] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[17:20:23] [Worker-Main-4/INFO]: Loaded 7 recipes
-[17:20:23] [Worker-Main-4/INFO]: Loaded 1138 advancements
-[17:20:26] [Server thread/INFO]: Starting minecraft server version 1.17
-[17:20:26] [Server thread/INFO]: Loading properties
-[17:20:26] [Server thread/INFO]: Default game type: SURVIVAL
-[17:20:26] [Server thread/INFO]: Generating keypair
-[17:20:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:20:26] [Server thread/INFO]: Using default channel type
-[17:20:26] [Server thread/INFO]: Preparing level "world"
-[17:20:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:20:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:20:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:20:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[17:20:33] [Worker-Main-5/INFO]: Preparing spawn area: 6%
-[17:20:33] [Worker-Main-5/INFO]: Preparing spawn area: 72%
-[17:20:34] [Worker-Main-4/INFO]: Preparing spawn area: 88%
-[17:20:35] [Server thread/INFO]: Time elapsed: 8387 ms
-[17:20:35] [Server thread/INFO]: Done (8.463s)! For help, type "help"
-[17:22:44] [User Authenticator #1/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[17:22:44] [Server thread/INFO]: elkonos[/25.83.178.145:54235] logged in with entity id 94 at (-3463.4854950794506, 73.0, 2704.1572296481886)
-[17:22:44] [Server thread/INFO]: elkonos joined the game
-[17:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[17:23:20] [Server thread/INFO]: elkonos lost connection: Disconnected
-[17:23:20] [Server thread/INFO]: elkonos left the game
-[17:24:00] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[17:24:01] [Server thread/INFO]: elkonos[/25.83.178.145:54316] logged in with entity id 439 at (-3462.8435268645517, 73.0, 2703.811144772774)
-[17:24:01] [Server thread/INFO]: elkonos joined the game
-[17:39:52] [Server thread/INFO]: <elkonos> hola
-[17:53:03] [Server thread/INFO]: Gave 64 [Block of Iron] to elkonos
-[17:53:53] [Server thread/INFO]: Gave 64 [Chest] to elkonos
-[17:55:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:55:04] [Server thread/INFO]: /cive elkonos log 64<--[HERE]
-[17:55:11] [Server thread/INFO]: Unknown item 'minecraft:log'
-[17:55:11] [Server thread/INFO]: ...e elkonos log 64<--[HERE]
-[18:00:11] [Server thread/INFO]: Invalid name or UUID
-[18:00:11] [Server thread/INFO]: /give elkonosiron_pickage 1<--[HERE]
-[18:00:21] [Server thread/INFO]: Unknown item 'minecraft:iron_pickage'
-[18:00:21] [Server thread/INFO]: ...e elkonos iron_pickage 1<--[HERE]
-[18:01:42] [Server thread/INFO]: elkonos has made the advancement [Isn't It Iron Pick]
-[18:04:25] [Server thread/INFO]: Gave 64 [Torch] to elkonos
-[18:05:30] [Server thread/INFO]: elkonos lost connection: Disconnected
-[18:05:30] [Server thread/INFO]: elkonos left the game
-[18:18:03] [User Authenticator #3/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[18:18:03] [Server thread/INFO]: elkonos[/25.83.178.145:61182] logged in with entity id 7988 at (-3439.4083712042325, 78.0, 2706.1474229169794)
-[18:18:03] [Server thread/INFO]: elkonos joined the game
-[18:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[18:21:14] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
-[18:29:54] [Server thread/INFO]: Set the time to 1000
-[18:30:15] [Server thread/INFO]: elkonos has made the advancement [Ice Bucket Challenge]
-[19:26:20] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
-[19:43:40] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
-[19:44:25] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
-[20:03:33] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
-[20:06:16] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
-[20:08:28] [Server thread/WARN]: elkonos moved wrongly!
-[20:08:35] [Server thread/WARN]: elkonos moved wrongly!
-[20:08:36] [Server thread/INFO]: A player is required to run this command here
-[20:08:41] [Server thread/WARN]: elkonos moved wrongly!
-[20:08:43] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
-[20:16:00] [User Authenticator #4/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[20:16:00] [Server thread/INFO]: diegov_9[/25.86.43.161:50643] logged in with entity id 27175 at (-3540.3316301229597, 81.0, 2702.0428740622788)
-[20:16:00] [Server thread/INFO]: diegov_9 joined the game
-[20:17:37] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:43:35] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:44:36] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:45:58] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:49:38] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:50:35] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:50:36] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
-[20:53:26] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[20:53:26] [Server thread/INFO]: diegov_9 left the game
-[20:53:30] [Server thread/INFO]: elkonos lost connection: Disconnected
-[20:53:30] [Server thread/INFO]: elkonos left the game
-[20:53:37] [Server thread/INFO]: Stopping the server
-[20:53:37] [Server thread/INFO]: Stopping server
-[20:53:37] [Server thread/INFO]: Saving players
-[20:53:37] [Server thread/INFO]: Saving worlds
-[20:53:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:53:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:53:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:53:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:11:56] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[21:11:56] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[21:11:56] [main/WARN]: Disabling further attempts to query Paging File.
+[21:12:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:01] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[21:12:02] [Worker-Main-12/INFO]: Loaded 7 recipes
+[21:12:03] [Worker-Main-12/INFO]: Loaded 1138 advancements
+[21:12:06] [Server thread/INFO]: Starting minecraft server version 1.17
+[21:12:06] [Server thread/INFO]: Loading properties
+[21:12:06] [Server thread/INFO]: Default game type: SURVIVAL
+[21:12:06] [Server thread/INFO]: Generating keypair
+[21:12:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:12:06] [Server thread/INFO]: Using default channel type
+[21:12:06] [Server thread/INFO]: Preparing level "world"
+[21:12:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:12:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:12:07] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:07] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:12:08] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:12:08] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:12:09] [Worker-Main-10/INFO]: Preparing spawn area: 2%
+[21:12:13] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:12:13] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:12:13] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[21:12:13] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:12:13] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[21:12:13] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[21:12:13] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[21:12:13] [Worker-Main-13/INFO]: Preparing spawn area: 20%
+[21:12:14] [Worker-Main-10/INFO]: Preparing spawn area: 82%
+[21:12:14] [Worker-Main-13/INFO]: Preparing spawn area: 90%
+[21:12:15] [Worker-Main-12/INFO]: Preparing spawn area: 99%
+[21:12:15] [Server thread/INFO]: Time elapsed: 8138 ms
+[21:12:15] [Server thread/INFO]: Done (8.268s)! For help, type "help"
+[21:12:51] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[21:12:51] [Server thread/INFO]: Davavico[/127.0.0.1:54012] logged in with entity id 93 at (-3539.0891813150793, 64.0, 2815.2993701197097)
+[21:12:51] [Server thread/INFO]: Davavico joined the game
+[21:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:14:00] [User Authenticator #2/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[21:14:00] [Server thread/INFO]: diegov_9[/25.86.43.161:55109] logged in with entity id 485 at (-3546.699999988079, 81.0, 2710.2813200988917)
+[21:14:00] [Server thread/INFO]: diegov_9 joined the game
+[21:23:59] [Server thread/INFO]: [Davavico: Teleported Davavico to diegov_9]
+[21:23:59] [Server thread/WARN]: Davavico moved too quickly! -96.98765100013861,8.0,15.774999976158142
+[21:23:59] [Server thread/WARN]: Davavico moved too quickly! -96.98765100013861,8.0,15.774999976158142
+[21:26:55] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[21:28:48] [Server thread/INFO]: [Davavico: Set own game mode to Adventure Mode]
+[21:28:57] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[21:34:42] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:38:43] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[22:00:39] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[22:02:18] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[22:02:18] [Server thread/INFO]: diegov_9 left the game
+[22:02:26] [Server thread/INFO]: Davavico lost connection: Disconnected
+[22:02:26] [Server thread/INFO]: Davavico left the game
+[22:02:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:02:38] [Server thread/INFO]: /STOP<--[HERE]
+[22:02:44] [Server thread/INFO]: Stopping the server
+[22:02:44] [Server thread/INFO]: Stopping server
+[22:02:44] [Server thread/INFO]: Saving players
+[22:02:44] [Server thread/INFO]: Saving worlds
+[22:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
