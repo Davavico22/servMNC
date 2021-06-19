@@ -1,74 +1,204 @@
-[21:11:56] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[21:11:56] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[21:11:56] [main/WARN]: Disabling further attempts to query Paging File.
-[21:12:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:12:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:12:01] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[21:12:02] [Worker-Main-12/INFO]: Loaded 7 recipes
-[21:12:03] [Worker-Main-12/INFO]: Loaded 1138 advancements
-[21:12:06] [Server thread/INFO]: Starting minecraft server version 1.17
-[21:12:06] [Server thread/INFO]: Loading properties
-[21:12:06] [Server thread/INFO]: Default game type: SURVIVAL
-[21:12:06] [Server thread/INFO]: Generating keypair
-[21:12:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:12:06] [Server thread/INFO]: Using default channel type
-[21:12:06] [Server thread/INFO]: Preparing level "world"
-[21:12:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:12:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[21:12:07] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[21:12:07] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[21:12:08] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[21:12:08] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[21:12:09] [Worker-Main-10/INFO]: Preparing spawn area: 2%
-[21:12:13] [Worker-Main-10/INFO]: Preparing spawn area: 4%
-[21:12:13] [Worker-Main-10/INFO]: Preparing spawn area: 4%
-[21:12:13] [Worker-Main-8/INFO]: Preparing spawn area: 4%
-[21:12:13] [Worker-Main-10/INFO]: Preparing spawn area: 4%
-[21:12:13] [Worker-Main-11/INFO]: Preparing spawn area: 4%
-[21:12:13] [Worker-Main-8/INFO]: Preparing spawn area: 4%
-[21:12:13] [Worker-Main-8/INFO]: Preparing spawn area: 4%
-[21:12:13] [Worker-Main-13/INFO]: Preparing spawn area: 20%
-[21:12:14] [Worker-Main-10/INFO]: Preparing spawn area: 82%
-[21:12:14] [Worker-Main-13/INFO]: Preparing spawn area: 90%
-[21:12:15] [Worker-Main-12/INFO]: Preparing spawn area: 99%
-[21:12:15] [Server thread/INFO]: Time elapsed: 8138 ms
-[21:12:15] [Server thread/INFO]: Done (8.268s)! For help, type "help"
-[21:12:51] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[21:12:51] [Server thread/INFO]: Davavico[/127.0.0.1:54012] logged in with entity id 93 at (-3539.0891813150793, 64.0, 2815.2993701197097)
-[21:12:51] [Server thread/INFO]: Davavico joined the game
-[21:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[21:14:00] [User Authenticator #2/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[21:14:00] [Server thread/INFO]: diegov_9[/25.86.43.161:55109] logged in with entity id 485 at (-3546.699999988079, 81.0, 2710.2813200988917)
-[21:14:00] [Server thread/INFO]: diegov_9 joined the game
-[21:23:59] [Server thread/INFO]: [Davavico: Teleported Davavico to diegov_9]
-[21:23:59] [Server thread/WARN]: Davavico moved too quickly! -96.98765100013861,8.0,15.774999976158142
-[21:23:59] [Server thread/WARN]: Davavico moved too quickly! -96.98765100013861,8.0,15.774999976158142
-[21:26:55] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[21:28:48] [Server thread/INFO]: [Davavico: Set own game mode to Adventure Mode]
-[21:28:57] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[21:34:42] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[21:38:43] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[22:00:39] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[22:02:18] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[22:02:18] [Server thread/INFO]: diegov_9 left the game
-[22:02:26] [Server thread/INFO]: Davavico lost connection: Disconnected
-[22:02:26] [Server thread/INFO]: Davavico left the game
-[22:02:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:02:38] [Server thread/INFO]: /STOP<--[HERE]
-[22:02:44] [Server thread/INFO]: Stopping the server
-[22:02:44] [Server thread/INFO]: Stopping server
-[22:02:44] [Server thread/INFO]: Saving players
-[22:02:44] [Server thread/INFO]: Saving worlds
-[22:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:02:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:34:37] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[08:34:37] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[08:34:37] [main/WARN]: Disabling further attempts to query Paging File.
+[08:34:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:34:43] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[08:34:45] [Worker-Main-4/INFO]: Loaded 7 recipes
+[08:34:45] [Worker-Main-4/INFO]: Loaded 1138 advancements
+[08:34:48] [Server thread/INFO]: Starting minecraft server version 1.17
+[08:34:48] [Server thread/INFO]: Loading properties
+[08:34:48] [Server thread/INFO]: Default game type: SURVIVAL
+[08:34:48] [Server thread/INFO]: Generating keypair
+[08:34:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:34:48] [Server thread/INFO]: Using default channel type
+[08:34:49] [Server thread/INFO]: Preparing level "world"
+[08:34:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:34:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:34:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[08:34:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:34:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:34:55] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[08:34:56] [Worker-Main-4/INFO]: Preparing spawn area: 77%
+[08:34:56] [Worker-Main-5/INFO]: Preparing spawn area: 79%
+[08:34:57] [Worker-Main-4/INFO]: Preparing spawn area: 93%
+[08:34:58] [Server thread/INFO]: Time elapsed: 8505 ms
+[08:34:58] [Server thread/INFO]: Done (8.629s)! For help, type "help"
+[08:35:48] [User Authenticator #1/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[08:35:48] [Server thread/INFO]: elkonos[/25.83.178.145:54885] logged in with entity id 93 at (-3463.0351844483516, 73.0, 2703.7823140925098)
+[08:35:48] [Server thread/INFO]: elkonos joined the game
+[08:35:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[08:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
+[08:36:18] [Server thread/INFO]: elkonos has made the advancement [Suit Up]
+[08:45:43] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
+[08:59:33] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
+[09:03:50] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
+[09:04:08] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
+[09:16:57] [Server thread/INFO]: <elkonos> -3422 72 2699+
+[09:49:45] [Server thread/INFO]: elkonos lost connection: Disconnected
+[09:49:45] [Server thread/INFO]: elkonos left the game
+[10:14:41] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[10:14:42] [Server thread/INFO]: elkonos[/25.83.178.145:55171] logged in with entity id 12566 at (-3464.0165651496154, 73.0, 2699.398056212721)
+[10:14:42] [Server thread/INFO]: elkonos joined the game
+[10:20:27] [User Authenticator #3/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[10:20:27] [Server thread/INFO]: Cartelex[/25.85.49.86:54484] logged in with entity id 13817 at (-3539.3069734042488, 75.0, 2670.671964285714)
+[10:20:27] [Server thread/INFO]: Cartelex joined the game
+[10:21:05] [Server thread/INFO]: Cartelex lost connection: Timed out
+[10:21:05] [Server thread/INFO]: Cartelex left the game
+[10:21:16] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[10:21:16] [Server thread/INFO]: Cartelex[/25.85.49.86:54513] logged in with entity id 14030 at (-3539.3069734042488, 75.0, 2670.671964285714)
+[10:21:16] [Server thread/INFO]: Cartelex joined the game
+[10:21:43] [Server thread/INFO]: Cartelex lost connection: Timed out
+[10:21:43] [Server thread/INFO]: Cartelex left the game
+[10:21:53] [User Authenticator #5/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[10:21:53] [Server thread/INFO]: Cartelex[/25.85.49.86:54519] logged in with entity id 14230 at (-3537.5778001411086, 75.0, 2671.458209230568)
+[10:21:53] [Server thread/INFO]: Cartelex joined the game
+[10:22:25] [Server thread/INFO]: Cartelex lost connection: Disconnected
+[10:22:25] [Server thread/INFO]: Cartelex left the game
+[10:22:39] [User Authenticator #6/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[10:22:39] [Server thread/INFO]: Cartelex[/25.85.49.86:54527] logged in with entity id 14445 at (-3537.5778001411086, 75.0, 2671.458209230568)
+[10:22:39] [Server thread/INFO]: Cartelex joined the game
+[10:25:08] [Server thread/INFO]: <elkonos> se ha colado una gallina y mira la de huevos que ha cogido el vagon jaja
+[10:25:20] [Server thread/INFO]: <Cartelex> xdd
+[10:27:38] [Server thread/INFO]: <elkonos> ya tengo pararrayos
+[10:27:41] [Server thread/INFO]: <elkonos> quieres uno?
+[10:27:48] [Server thread/INFO]: <Cartelex> pa que
+[10:27:53] [Server thread/INFO]: <elkonos> pa los rayos?
+[10:28:06] [Server thread/INFO]: <Cartelex> pa que querria yo atraer los rayos a mi casa?
+[10:28:21] [Server thread/INFO]: <elkonos> No es atraerlos, es evitar que te caigan y te rompan algo
+[10:28:56] [Server thread/INFO]: <Cartelex> ZZ
+[10:29:05] [Server thread/INFO]: <Cartelex> zzzZZZ
+[10:29:31] [Server thread/INFO]: <Cartelex> necesitas allanar algo?
+[10:29:39] [Server thread/INFO]: <Cartelex> me hace falta tierra por un tubo voy a cavar
+[10:29:40] [Server thread/INFO]: <elkonos> no, porque?
+[10:29:43] [Server thread/INFO]: <elkonos> ah
+[10:29:44] [Server thread/INFO]: <elkonos> ven
+[10:30:08] [Server thread/INFO]: <elkonos> to esto
+[10:30:22] [Server thread/INFO]: <elkonos> quieres comida procesada?
+[10:30:31] [Server thread/INFO]: <Cartelex> no
+[10:30:50] [Server thread/INFO]: <elkonos> voy a hacer papel
+[10:31:02] [Server thread/INFO]: <Cartelex> ok podemos hacer la sala de encantamientos
+[10:31:05] [Server thread/INFO]: <elkonos> si
+[10:31:12] [Server thread/INFO]: <elkonos> aqui detrass trambien hay para excavar
+[10:31:16] [Server thread/INFO]: <Cartelex> pero en un sitio central que quede guapo uun edificio to guapo
+[10:31:43] [Server thread/INFO]: <elkonos> y en lo alto de la montaña que hay detras de la casa de diego??
+[10:32:08] [Server thread/INFO]: <Cartelex> nooo, lo suyo es donde estan todos los arboles que sembramos
+[10:32:17] [Server thread/INFO]: <elkonos> ahh
+[10:32:21] [Server thread/INFO]: <Cartelex> hay que hacer un edificio pa luego meter los aldeanos que pillemos
+[10:32:25] [Server thread/INFO]: <Cartelex> como un mercado
+[10:32:27] [Server thread/INFO]: <Cartelex> pos ahi
+[10:32:34] [Server thread/INFO]: <elkonos> ahhhh
+[10:32:36] [Server thread/INFO]: <elkonos> guay
+[10:33:03] [Server thread/INFO]: <elkonos> algun papel he sacado
+[10:33:13] [Server thread/INFO]: <elkonos> 10 stacks
+[10:33:20] [Server thread/INFO]: <Cartelex> el cuero es lo que mas falta hace
+[10:33:23] [Server thread/INFO]: <Cartelex> pa los libros
+[10:33:35] [Server thread/INFO]: <elkonos> voy a ampliar la granja vacuna
+[10:33:41] [Server thread/INFO]: <Cartelex> aaaaaa invasores
+[10:33:56] [Server thread/INFO]: <Cartelex> joputa
+[10:34:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3432, y=73, z=2693} gg{x=-3431, y=72, z=2693}
+[10:34:22] [Server thread/INFO]: <elkonos> aqaui tambien puedes quitar tierra
+[10:34:32] [Server thread/INFO]: <Cartelex> a donde
+[10:34:38] [Server thread/INFO]: <elkonos> aqui
+[10:34:42] [Server thread/INFO]: <elkonos> donde la cosechadora
+[10:35:12] [Server thread/INFO]: <Cartelex> cucha que explanada se te ha quedado aqui
+[10:35:17] [Server thread/INFO]: <elkonos> aro coño
+[10:35:23] [Server thread/INFO]: <elkonos> ahi voy a meter el vacuno ajopo
+[10:35:33] [Server thread/INFO]: <Cartelex> me he quedado sin palas, voy a construir y si me hace falta vuelvo
+[10:35:39] [Server thread/INFO]: <elkonos> ok
+[10:39:19] [Server thread/INFO]: <Cartelex> a dormi
+[10:41:51] [User Authenticator #7/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[10:41:51] [Server thread/INFO]: Davavico[/25.81.65.195:52375] logged in with entity id 18559 at (-3529.3967719552465, 66.0, 2814.724418705432)
+[10:41:51] [Server thread/INFO]: Davavico joined the game
+[10:44:55] [Server thread/INFO]: <Cartelex> que mas aplano necesito MAs tierra
+[10:45:04] [Server thread/INFO]: <elkonos> detras del gallinero
+[10:45:45] [Server thread/INFO]: <elkonos> ya he ampliado la granja de vacas
+[10:49:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3438, y=73, z=2732} gg{x=-3436, y=71, z=2732}
+[10:50:01] [Server thread/INFO]: <Cartelex> sweet home a la cama
+[10:50:27] [Server thread/INFO]: <Cartelex> davavico
+[10:50:42] [Server thread/INFO]: <Cartelex> :/
+[10:51:05] [Server thread/INFO]: <elkonos> Emoticono cara de disguto dice la que lee los mensajes jajajajaja
+[10:51:23] [Server thread/INFO]: Set the time to 1000
+[10:51:24] [Server thread/INFO]: <Cartelex> este hijoputa entra y se va?
+[10:52:44] [Server thread/INFO]: <Cartelex> teneis hierro de sobra?
+[10:52:48] [Server thread/INFO]: <elkonos> yo si
+[10:52:54] [Server thread/INFO]: <Cartelex> hazme faroles puedes?
+[10:53:03] [Server thread/INFO]: <Cartelex> una antorcha en medio, rodeada de pepitas de hierro
+[10:53:04] [Server thread/INFO]: <elkonos> si, ahora cuando siembre el trigo
+[10:53:18] [Server thread/INFO]: <elkonos> cuantas?
+[10:53:20] [Server thread/INFO]: <Cartelex> haz como 20
+[11:00:22] [Server thread/INFO]: <elkonos> en la cueva que he estado viendo esta mañana
+[11:00:26] [Server thread/INFO]: <Cartelex> que guapo queda el caminillo
+[11:00:29] [Server thread/INFO]: <elkonos> hay una raja de esas profundas
+[11:00:34] [Server thread/INFO]: <Cartelex> una rabin
+[11:00:49] [Server thread/INFO]: <Cartelex> me queda hacer las escaleras pa tu casa
+[11:00:50] [Server thread/INFO]: <elkonos> puta que oferton
+[11:01:00] [Server thread/INFO]: <elkonos> nice
+[11:01:04] [Server thread/INFO]: <elkonos> naise
+[11:01:08] [Server thread/INFO]: <elkonos> nais
+[11:01:25] [Server thread/INFO]: <Cartelex> ostia si que le ha metido este horas
+[11:01:32] [Server thread/INFO]: <Cartelex> jputa
+[11:01:34] [Server thread/INFO]: <elkonos> estuvo 3 horas solo anocjhe
+[11:01:44] [Server thread/INFO]: <Cartelex> esto era ayer un zulo
+[11:02:04] [Server thread/INFO]: <elkonos> ni un pelo
+[11:02:29] [Server thread/INFO]: <elkonos> llegando
+[11:03:44] [Server thread/INFO]: <elkonos> buena
+[11:04:03] [Server thread/INFO]: <Cartelex> estos arboles hay que quitarlos, se refugian los monstros
+[11:13:04] [Server thread/INFO]: <elkonos> zzz
+[11:17:54] [Server thread/INFO]: <elkonos> como se coge una colmena sin romper?
+[11:17:59] [Server thread/INFO]: <Cartelex> tijeras
+[11:18:09] [Server thread/INFO]: <Cartelex> pa sacar la miel, pero tiene que estar chorreando miel
+[11:18:19] [Server thread/INFO]: <elkonos> ok
+[11:18:27] [Server thread/INFO]: <Cartelex> y cuando la saques corre
+[11:18:37] [Server thread/INFO]: <Cartelex> no mates las abejas
+[11:24:06] [Server thread/INFO]: Teleported elkonos to Davavico
+[11:24:06] [Server thread/WARN]: elkonos moved too quickly! 229.15207819211173,1.2491870787446828,597.7846398249344
+[11:24:33] [Server thread/INFO]: <elkonos> zzz
+[11:27:53] [User Authenticator #8/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[11:27:53] [Server thread/INFO]: diegov_9[/25.86.43.161:59931] logged in with entity id 34302 at (-3557.558771079716, 80.0, 2711.646088234954)
+[11:27:53] [Server thread/INFO]: diegov_9 joined the game
+[11:27:56] [Server thread/INFO]: <Cartelex> laaag
+[11:28:15] [Server thread/INFO]: <elkonos> diego esta entrando
+[11:29:01] [Server thread/INFO]: <Cartelex> esta guapo o no diego?
+[11:29:18] [Server thread/INFO]: <Cartelex> el caminillo que he hecho a tu casa
+[11:29:39] [Server thread/INFO]: <Cartelex> va lagaisimo esto eh
+[11:29:48] [Server thread/INFO]: <diegov_9> si si
+[11:32:33] [Server thread/INFO]: <Cartelex> F server?
+[11:32:37] [Server thread/INFO]: <diegov_9> donde habeis echao los arboles negros¿
+[11:32:42] [Server thread/INFO]: <diegov_9> que necesito madera de esa
+[11:32:42] [Server thread/INFO]: <Cartelex> aqui
+[11:33:07] [Server thread/INFO]: <Cartelex> vuelvelos a sembrar ahi, que los monstros se guardan debajo
+[11:33:09] [Server thread/INFO]: <diegov_9> ok
+[11:34:16] [Server thread/INFO]: Cartelex lost connection: Disconnected
+[11:34:16] [Server thread/INFO]: Cartelex left the game
+[11:34:50] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[11:34:50] [Server thread/INFO]: diegov_9 left the game
+[11:34:56] [Server thread/INFO]: elkonos lost connection: Disconnected
+[11:34:56] [Server thread/INFO]: elkonos left the game
+[11:35:03] [Server thread/INFO]: Davavico lost connection: Disconnected
+[11:35:03] [Server thread/INFO]: Davavico left the game
+[11:35:12] [Server thread/INFO]: Stopping the server
+[11:35:12] [Server thread/INFO]: Stopping server
+[11:35:12] [Server thread/INFO]: Saving players
+[11:35:12] [Server thread/INFO]: Saving worlds
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
