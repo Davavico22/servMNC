@@ -1,204 +1,796 @@
-[08:34:37] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[08:34:37] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[08:34:37] [main/WARN]: Disabling further attempts to query Paging File.
-[08:34:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:34:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:34:43] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[08:34:45] [Worker-Main-4/INFO]: Loaded 7 recipes
-[08:34:45] [Worker-Main-4/INFO]: Loaded 1138 advancements
-[08:34:48] [Server thread/INFO]: Starting minecraft server version 1.17
-[08:34:48] [Server thread/INFO]: Loading properties
-[08:34:48] [Server thread/INFO]: Default game type: SURVIVAL
-[08:34:48] [Server thread/INFO]: Generating keypair
-[08:34:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:34:48] [Server thread/INFO]: Using default channel type
-[08:34:49] [Server thread/INFO]: Preparing level "world"
-[08:34:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:34:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:34:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[08:34:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[08:34:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:34:55] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[08:34:56] [Worker-Main-4/INFO]: Preparing spawn area: 77%
-[08:34:56] [Worker-Main-5/INFO]: Preparing spawn area: 79%
-[08:34:57] [Worker-Main-4/INFO]: Preparing spawn area: 93%
-[08:34:58] [Server thread/INFO]: Time elapsed: 8505 ms
-[08:34:58] [Server thread/INFO]: Done (8.629s)! For help, type "help"
-[08:35:48] [User Authenticator #1/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[08:35:48] [Server thread/INFO]: elkonos[/25.83.178.145:54885] logged in with entity id 93 at (-3463.0351844483516, 73.0, 2703.7823140925098)
-[08:35:48] [Server thread/INFO]: elkonos joined the game
-[08:35:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
-[08:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
-[08:36:18] [Server thread/INFO]: elkonos has made the advancement [Suit Up]
-[08:45:43] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
-[08:59:33] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
-[09:03:50] [Server thread/INFO]: Set elkonos's game mode to Creative Mode
-[09:04:08] [Server thread/INFO]: Set elkonos's game mode to Survival Mode
-[09:16:57] [Server thread/INFO]: <elkonos> -3422 72 2699+
-[09:49:45] [Server thread/INFO]: elkonos lost connection: Disconnected
-[09:49:45] [Server thread/INFO]: elkonos left the game
-[10:14:41] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[10:14:42] [Server thread/INFO]: elkonos[/25.83.178.145:55171] logged in with entity id 12566 at (-3464.0165651496154, 73.0, 2699.398056212721)
-[10:14:42] [Server thread/INFO]: elkonos joined the game
-[10:20:27] [User Authenticator #3/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[10:20:27] [Server thread/INFO]: Cartelex[/25.85.49.86:54484] logged in with entity id 13817 at (-3539.3069734042488, 75.0, 2670.671964285714)
-[10:20:27] [Server thread/INFO]: Cartelex joined the game
-[10:21:05] [Server thread/INFO]: Cartelex lost connection: Timed out
-[10:21:05] [Server thread/INFO]: Cartelex left the game
-[10:21:16] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[10:21:16] [Server thread/INFO]: Cartelex[/25.85.49.86:54513] logged in with entity id 14030 at (-3539.3069734042488, 75.0, 2670.671964285714)
-[10:21:16] [Server thread/INFO]: Cartelex joined the game
-[10:21:43] [Server thread/INFO]: Cartelex lost connection: Timed out
-[10:21:43] [Server thread/INFO]: Cartelex left the game
-[10:21:53] [User Authenticator #5/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[10:21:53] [Server thread/INFO]: Cartelex[/25.85.49.86:54519] logged in with entity id 14230 at (-3537.5778001411086, 75.0, 2671.458209230568)
-[10:21:53] [Server thread/INFO]: Cartelex joined the game
-[10:22:25] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[10:22:25] [Server thread/INFO]: Cartelex left the game
-[10:22:39] [User Authenticator #6/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[10:22:39] [Server thread/INFO]: Cartelex[/25.85.49.86:54527] logged in with entity id 14445 at (-3537.5778001411086, 75.0, 2671.458209230568)
-[10:22:39] [Server thread/INFO]: Cartelex joined the game
-[10:25:08] [Server thread/INFO]: <elkonos> se ha colado una gallina y mira la de huevos que ha cogido el vagon jaja
-[10:25:20] [Server thread/INFO]: <Cartelex> xdd
-[10:27:38] [Server thread/INFO]: <elkonos> ya tengo pararrayos
-[10:27:41] [Server thread/INFO]: <elkonos> quieres uno?
-[10:27:48] [Server thread/INFO]: <Cartelex> pa que
-[10:27:53] [Server thread/INFO]: <elkonos> pa los rayos?
-[10:28:06] [Server thread/INFO]: <Cartelex> pa que querria yo atraer los rayos a mi casa?
-[10:28:21] [Server thread/INFO]: <elkonos> No es atraerlos, es evitar que te caigan y te rompan algo
-[10:28:56] [Server thread/INFO]: <Cartelex> ZZ
-[10:29:05] [Server thread/INFO]: <Cartelex> zzzZZZ
-[10:29:31] [Server thread/INFO]: <Cartelex> necesitas allanar algo?
-[10:29:39] [Server thread/INFO]: <Cartelex> me hace falta tierra por un tubo voy a cavar
-[10:29:40] [Server thread/INFO]: <elkonos> no, porque?
-[10:29:43] [Server thread/INFO]: <elkonos> ah
-[10:29:44] [Server thread/INFO]: <elkonos> ven
-[10:30:08] [Server thread/INFO]: <elkonos> to esto
-[10:30:22] [Server thread/INFO]: <elkonos> quieres comida procesada?
-[10:30:31] [Server thread/INFO]: <Cartelex> no
-[10:30:50] [Server thread/INFO]: <elkonos> voy a hacer papel
-[10:31:02] [Server thread/INFO]: <Cartelex> ok podemos hacer la sala de encantamientos
-[10:31:05] [Server thread/INFO]: <elkonos> si
-[10:31:12] [Server thread/INFO]: <elkonos> aqui detrass trambien hay para excavar
-[10:31:16] [Server thread/INFO]: <Cartelex> pero en un sitio central que quede guapo uun edificio to guapo
-[10:31:43] [Server thread/INFO]: <elkonos> y en lo alto de la montaña que hay detras de la casa de diego??
-[10:32:08] [Server thread/INFO]: <Cartelex> nooo, lo suyo es donde estan todos los arboles que sembramos
-[10:32:17] [Server thread/INFO]: <elkonos> ahh
-[10:32:21] [Server thread/INFO]: <Cartelex> hay que hacer un edificio pa luego meter los aldeanos que pillemos
-[10:32:25] [Server thread/INFO]: <Cartelex> como un mercado
-[10:32:27] [Server thread/INFO]: <Cartelex> pos ahi
-[10:32:34] [Server thread/INFO]: <elkonos> ahhhh
-[10:32:36] [Server thread/INFO]: <elkonos> guay
-[10:33:03] [Server thread/INFO]: <elkonos> algun papel he sacado
-[10:33:13] [Server thread/INFO]: <elkonos> 10 stacks
-[10:33:20] [Server thread/INFO]: <Cartelex> el cuero es lo que mas falta hace
-[10:33:23] [Server thread/INFO]: <Cartelex> pa los libros
-[10:33:35] [Server thread/INFO]: <elkonos> voy a ampliar la granja vacuna
-[10:33:41] [Server thread/INFO]: <Cartelex> aaaaaa invasores
-[10:33:56] [Server thread/INFO]: <Cartelex> joputa
-[10:34:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3432, y=73, z=2693} gg{x=-3431, y=72, z=2693}
-[10:34:22] [Server thread/INFO]: <elkonos> aqaui tambien puedes quitar tierra
-[10:34:32] [Server thread/INFO]: <Cartelex> a donde
-[10:34:38] [Server thread/INFO]: <elkonos> aqui
-[10:34:42] [Server thread/INFO]: <elkonos> donde la cosechadora
-[10:35:12] [Server thread/INFO]: <Cartelex> cucha que explanada se te ha quedado aqui
-[10:35:17] [Server thread/INFO]: <elkonos> aro coño
-[10:35:23] [Server thread/INFO]: <elkonos> ahi voy a meter el vacuno ajopo
-[10:35:33] [Server thread/INFO]: <Cartelex> me he quedado sin palas, voy a construir y si me hace falta vuelvo
-[10:35:39] [Server thread/INFO]: <elkonos> ok
-[10:39:19] [Server thread/INFO]: <Cartelex> a dormi
-[10:41:51] [User Authenticator #7/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[10:41:51] [Server thread/INFO]: Davavico[/25.81.65.195:52375] logged in with entity id 18559 at (-3529.3967719552465, 66.0, 2814.724418705432)
-[10:41:51] [Server thread/INFO]: Davavico joined the game
-[10:44:55] [Server thread/INFO]: <Cartelex> que mas aplano necesito MAs tierra
-[10:45:04] [Server thread/INFO]: <elkonos> detras del gallinero
-[10:45:45] [Server thread/INFO]: <elkonos> ya he ampliado la granja de vacas
-[10:49:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3438, y=73, z=2732} gg{x=-3436, y=71, z=2732}
-[10:50:01] [Server thread/INFO]: <Cartelex> sweet home a la cama
-[10:50:27] [Server thread/INFO]: <Cartelex> davavico
-[10:50:42] [Server thread/INFO]: <Cartelex> :/
-[10:51:05] [Server thread/INFO]: <elkonos> Emoticono cara de disguto dice la que lee los mensajes jajajajaja
-[10:51:23] [Server thread/INFO]: Set the time to 1000
-[10:51:24] [Server thread/INFO]: <Cartelex> este hijoputa entra y se va?
-[10:52:44] [Server thread/INFO]: <Cartelex> teneis hierro de sobra?
-[10:52:48] [Server thread/INFO]: <elkonos> yo si
-[10:52:54] [Server thread/INFO]: <Cartelex> hazme faroles puedes?
-[10:53:03] [Server thread/INFO]: <Cartelex> una antorcha en medio, rodeada de pepitas de hierro
-[10:53:04] [Server thread/INFO]: <elkonos> si, ahora cuando siembre el trigo
-[10:53:18] [Server thread/INFO]: <elkonos> cuantas?
-[10:53:20] [Server thread/INFO]: <Cartelex> haz como 20
-[11:00:22] [Server thread/INFO]: <elkonos> en la cueva que he estado viendo esta mañana
-[11:00:26] [Server thread/INFO]: <Cartelex> que guapo queda el caminillo
-[11:00:29] [Server thread/INFO]: <elkonos> hay una raja de esas profundas
-[11:00:34] [Server thread/INFO]: <Cartelex> una rabin
-[11:00:49] [Server thread/INFO]: <Cartelex> me queda hacer las escaleras pa tu casa
-[11:00:50] [Server thread/INFO]: <elkonos> puta que oferton
-[11:01:00] [Server thread/INFO]: <elkonos> nice
-[11:01:04] [Server thread/INFO]: <elkonos> naise
-[11:01:08] [Server thread/INFO]: <elkonos> nais
-[11:01:25] [Server thread/INFO]: <Cartelex> ostia si que le ha metido este horas
-[11:01:32] [Server thread/INFO]: <Cartelex> jputa
-[11:01:34] [Server thread/INFO]: <elkonos> estuvo 3 horas solo anocjhe
-[11:01:44] [Server thread/INFO]: <Cartelex> esto era ayer un zulo
-[11:02:04] [Server thread/INFO]: <elkonos> ni un pelo
-[11:02:29] [Server thread/INFO]: <elkonos> llegando
-[11:03:44] [Server thread/INFO]: <elkonos> buena
-[11:04:03] [Server thread/INFO]: <Cartelex> estos arboles hay que quitarlos, se refugian los monstros
-[11:13:04] [Server thread/INFO]: <elkonos> zzz
-[11:17:54] [Server thread/INFO]: <elkonos> como se coge una colmena sin romper?
-[11:17:59] [Server thread/INFO]: <Cartelex> tijeras
-[11:18:09] [Server thread/INFO]: <Cartelex> pa sacar la miel, pero tiene que estar chorreando miel
-[11:18:19] [Server thread/INFO]: <elkonos> ok
-[11:18:27] [Server thread/INFO]: <Cartelex> y cuando la saques corre
-[11:18:37] [Server thread/INFO]: <Cartelex> no mates las abejas
-[11:24:06] [Server thread/INFO]: Teleported elkonos to Davavico
-[11:24:06] [Server thread/WARN]: elkonos moved too quickly! 229.15207819211173,1.2491870787446828,597.7846398249344
-[11:24:33] [Server thread/INFO]: <elkonos> zzz
-[11:27:53] [User Authenticator #8/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[11:27:53] [Server thread/INFO]: diegov_9[/25.86.43.161:59931] logged in with entity id 34302 at (-3557.558771079716, 80.0, 2711.646088234954)
-[11:27:53] [Server thread/INFO]: diegov_9 joined the game
-[11:27:56] [Server thread/INFO]: <Cartelex> laaag
-[11:28:15] [Server thread/INFO]: <elkonos> diego esta entrando
-[11:29:01] [Server thread/INFO]: <Cartelex> esta guapo o no diego?
-[11:29:18] [Server thread/INFO]: <Cartelex> el caminillo que he hecho a tu casa
-[11:29:39] [Server thread/INFO]: <Cartelex> va lagaisimo esto eh
-[11:29:48] [Server thread/INFO]: <diegov_9> si si
-[11:32:33] [Server thread/INFO]: <Cartelex> F server?
-[11:32:37] [Server thread/INFO]: <diegov_9> donde habeis echao los arboles negros¿
-[11:32:42] [Server thread/INFO]: <diegov_9> que necesito madera de esa
-[11:32:42] [Server thread/INFO]: <Cartelex> aqui
-[11:33:07] [Server thread/INFO]: <Cartelex> vuelvelos a sembrar ahi, que los monstros se guardan debajo
-[11:33:09] [Server thread/INFO]: <diegov_9> ok
-[11:34:16] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[11:34:16] [Server thread/INFO]: Cartelex left the game
-[11:34:50] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[11:34:50] [Server thread/INFO]: diegov_9 left the game
-[11:34:56] [Server thread/INFO]: elkonos lost connection: Disconnected
-[11:34:56] [Server thread/INFO]: elkonos left the game
-[11:35:03] [Server thread/INFO]: Davavico lost connection: Disconnected
-[11:35:03] [Server thread/INFO]: Davavico left the game
-[11:35:12] [Server thread/INFO]: Stopping the server
-[11:35:12] [Server thread/INFO]: Stopping server
-[11:35:12] [Server thread/INFO]: Saving players
-[11:35:12] [Server thread/INFO]: Saving worlds
-[11:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:48:28] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[11:48:28] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[11:48:28] [main/WARN]: Disabling further attempts to query Paging File.
+[11:48:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:48:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:48:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:48:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:48:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:48:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:48:33] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[11:48:34] [Worker-Main-12/INFO]: Loaded 7 recipes
+[11:48:35] [Worker-Main-12/INFO]: Loaded 1138 advancements
+[11:48:37] [Server thread/INFO]: Starting minecraft server version 1.17
+[11:48:37] [Server thread/INFO]: Loading properties
+[11:48:37] [Server thread/INFO]: Default game type: SURVIVAL
+[11:48:37] [Server thread/INFO]: Generating keypair
+[11:48:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:48:37] [Server thread/INFO]: Using default channel type
+[11:48:38] [Server thread/INFO]: Preparing level "world"
+[11:48:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:48:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:48:39] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:48:43] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[11:48:44] [Worker-Main-11/INFO]: Preparing spawn area: 75%
+[11:48:44] [Worker-Main-13/INFO]: Preparing spawn area: 93%
+[11:48:45] [Server thread/INFO]: Time elapsed: 6466 ms
+[11:48:45] [Server thread/INFO]: Done (6.639s)! For help, type "help"
+[11:48:56] [User Authenticator #1/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[11:48:56] [Server thread/INFO]: Cartelex[/25.85.49.86:54986] logged in with entity id 92 at (-3440.902372014102, 71.0, 2674.975087313039)
+[11:48:56] [Server thread/INFO]: Cartelex joined the game
+[11:49:18] [User Authenticator #2/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[11:49:18] [Server thread/INFO]: diegov_9[/25.86.43.161:50901] logged in with entity id 570 at (-3500.3650372536763, 68.0, 2703.9102646361357)
+[11:49:18] [Server thread/INFO]: diegov_9 joined the game
+[11:51:19] [User Authenticator #3/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[11:51:19] [Server thread/INFO]: elkonos[/25.83.178.145:60955] logged in with entity id 1129 at (-3462.2564496038385, 73.0, 2703.5007021068873)
+[11:51:19] [Server thread/INFO]: elkonos joined the game
+[11:56:18] [Server thread/INFO]: <Cartelex> sabes que el pararayos lo que hace es que los rayos caigan donde esta el no?
+[11:56:24] [Server thread/INFO]: <Cartelex> el tejao lo tienes de madera
+[12:00:38] [Server thread/INFO]: <Cartelex> sweet home a la cama
+[12:10:28] [Server thread/INFO]: <Cartelex> invasores en mi casa
+[12:10:31] [Server thread/INFO]: <Cartelex> help
+[12:10:54] [Server thread/INFO]: Cartelex has made the advancement [Voluntary Exile]
+[12:11:06] [Server thread/INFO]: <Cartelex> joputas
+[12:11:13] [Server thread/INFO]: <Cartelex> ya esta el puente acabao
+[12:11:25] [Server thread/INFO]: <elkonos> nise
+[12:11:31] [Server thread/INFO]: <elkonos> nais
+[12:12:04] [Server thread/INFO]: <diegov_9> zZzZ
+[12:15:06] [Server thread/INFO]: <Cartelex> loco se te ha pirao con el techo
+[12:15:18] [Server thread/INFO]: <Cartelex> parece un gimnasio pojemon
+[12:15:22] [Server thread/INFO]: <Cartelex> pokemon
+[12:18:11] [Server thread/INFO]: <diegov_9> no me quites la nieve tioç
+[12:18:15] [Server thread/INFO]: <diegov_9> subete a lo mas lejos
+[12:18:25] [Server thread/INFO]: <Cartelex> esto luego nieva mas coño
+[12:19:26] [Server thread/INFO]: <Cartelex> una cosa, calabazas no tenemos no¿
+[12:20:24] [Server thread/INFO]: <Cartelex> tenemos o no¿
+[12:20:30] [Server thread/INFO]: <elkonos> creo que si al lado de mi casa
+[12:20:33] [Server thread/INFO]: <elkonos> sembradas
+[12:20:38] [Server thread/INFO]: <elkonos> a ver si ha salido alguna ya
+[12:20:46] [Server thread/INFO]: <Cartelex> necesito como 10
+[12:20:56] [Server thread/INFO]: <elkonos> como mucho habra 4
+[12:21:04] [Server thread/INFO]: <elkonos> las plante en la exploracion que hice antes
+[12:21:16] [Server thread/INFO]: <diegov_9> acabo de ver pulpos que brillan
+[12:21:26] [Server thread/INFO]: <Cartelex> los nuevos pulpos
+[12:21:40] [Server thread/INFO]: <Cartelex> me han echao una maldicion los invasores xd
+[12:22:05] [Server thread/INFO]: <elkonos> cuanto tardan en crecer los arboles gordos?¿
+[12:22:11] [Server thread/INFO]: <Cartelex> no mucho
+[12:22:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3580, y=96, z=2720} gg{x=-3580, y=95, z=2720}
+[12:23:09] [Server thread/INFO]: <elkonos> zzzzz
+[12:23:18] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[12:23:18] [Server thread/INFO]: diegov_9 left the game
+[12:23:28] [Server thread/INFO]: <elkonos> zzzzz
+[12:23:29] [Server thread/INFO]: <elkonos> zzzzz
+[12:23:30] [Server thread/INFO]: <elkonos> zzzzz
+[12:23:49] [Server thread/INFO]: <elkonos> Cartelex amos coño
+[12:24:07] [User Authenticator #4/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[12:24:07] [Server thread/INFO]: diegov_9[/25.86.43.161:54739] logged in with entity id 10910 at (-3328.3768823282394, -9.0, 2726.852646389971)
+[12:24:07] [Server thread/INFO]: diegov_9 joined the game
+[12:24:12] [Server thread/INFO]: <Cartelex> xd tramposo
+[12:24:52] [Server thread/INFO]: diegov_9 has made the advancement [Hot Stuff]
+[12:26:08] [Server thread/INFO]: <diegov_9> carlos haz el puente a la minaç
+[12:26:19] [Server thread/INFO]: <Cartelex> a que mina
+[12:26:45] [Server thread/INFO]: <diegov_9> o un camino
+[12:26:54] [Server thread/INFO]: <diegov_9> que no se puede ir si no te tiras
+[12:27:14] [Server thread/INFO]: <Cartelex> ok ok voy a por los materiales
+[12:34:05] [Server thread/INFO]: <diegov_9> ajajajaajajja por donde baja el agua niño
+[12:34:33] [Server thread/INFO]: <elkonos> zzzzzzzzzzzz
+[12:34:54] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[12:34:54] [Server thread/INFO]: diegov_9 left the game
+[12:34:58] [Server thread/INFO]: <elkonos> duerme
+[12:35:07] [Server thread/INFO]: <elkonos> Cartelex duerme
+[12:35:29] [User Authenticator #5/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[12:35:29] [Server thread/INFO]: diegov_9[/25.86.43.161:63651] logged in with entity id 14110 at (-3496.5882073895064, 33.0, 2725.300000011921)
+[12:35:29] [Server thread/INFO]: diegov_9 joined the game
+[12:38:22] [Server thread/INFO]: <Cartelex> necesito calabazas en cantidad, esto solo ha soltado una :/
+[12:38:43] [Server thread/INFO]: <elkonos> siembra mas
+[12:39:06] [Server thread/INFO]: <Cartelex> he sembrao la que ha dado
+[12:39:19] [Server thread/INFO]: <elkonos> onde
+[12:39:29] [Server thread/INFO]: <Cartelex> en el mismo sitio
+[12:40:15] [Server thread/INFO]: <elkonos> ya ha nacido otra
+[12:40:22] [Server thread/INFO]: <Cartelex> siembra mas
+[12:40:49] [Server thread/INFO]: <Cartelex> necesito 21
+[12:45:54] [Server thread/INFO]: <Cartelex> ZZZZZ
+[12:46:16] [Server thread/INFO]: <elkonos> zzz
+[12:46:24] [Server thread/INFO]: <diegov_9> e
+[12:46:48] [Server thread/INFO]: <Cartelex> cadenas teneis? o sabeis como hacer barrotes de hierro
+[12:46:54] [Server thread/INFO]: <elkonos> ni tengo ni se
+[12:46:59] [Server thread/INFO]: <diegov_9> ni yo
+[12:49:34] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[12:52:37] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[12:53:40] [Server thread/INFO]: elkonos lost connection: Disconnected
+[12:53:40] [Server thread/INFO]: elkonos left the game
+[12:56:32] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[13:03:50] [Server thread/INFO]: <Cartelex> se me lia
+[13:04:02] [Server thread/INFO]: <Cartelex> con la polla la lluvia y la noche
+[13:04:23] [Server thread/INFO]: <diegov_9> xd
+[13:04:26] [Server thread/INFO]: <diegov_9> duerme
+[13:04:31] [Server thread/INFO]: <Cartelex> un aldeano zombie xd
+[13:05:48] [Server thread/INFO]: <Cartelex> he encerrao a un comerciante xdddd
+[13:06:14] [Server thread/INFO]: /advancement (grant|revoke)
+[13:06:14] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[13:06:14] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[13:06:14] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[13:06:14] [Server thread/INFO]: /clear [<targets>]
+[13:06:14] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[13:06:14] [Server thread/INFO]: /data (merge|get|remove|modify)
+[13:06:14] [Server thread/INFO]: /datapack (enable|disable|list)
+[13:06:14] [Server thread/INFO]: /debug (start|stop|function)
+[13:06:14] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
+[13:06:14] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[13:06:14] [Server thread/INFO]: /effect (clear|give)
+[13:06:14] [Server thread/INFO]: /me <action>
+[13:06:14] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[13:06:14] [Server thread/INFO]: /experience (add|set|query)
+[13:06:14] [Server thread/INFO]: /xp -> experience
+[13:06:14] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[13:06:14] [Server thread/INFO]: /forceload (add|remove|query)
+[13:06:14] [Server thread/INFO]: /function <name>
+[13:06:14] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
+[13:06:14] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[13:06:14] [Server thread/INFO]: /give <targets> <item> [<count>]
+[13:06:14] [Server thread/INFO]: /help [<command>]
+[13:06:14] [Server thread/INFO]: /item (replace|modify)
+[13:06:14] [Server thread/INFO]: /kick <targets> [<reason>]
+[13:06:14] [Server thread/INFO]: /kill [<targets>]
+[13:06:14] [Server thread/INFO]: /list [uuids]
+[13:06:14] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
+[13:06:14] [Server thread/INFO]: /locatebiome <biome>
+[13:06:14] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[13:06:14] [Server thread/INFO]: /msg <targets> <message>
+[13:06:14] [Server thread/INFO]: /tell -> msg
+[13:06:14] [Server thread/INFO]: /w -> msg
+[13:06:14] [Server thread/INFO]: /particle <name> [<pos>]
+[13:06:14] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[13:06:14] [Server thread/INFO]: /reload
+[13:06:14] [Server thread/INFO]: /recipe (give|take)
+[13:06:14] [Server thread/INFO]: /say <message>
+[13:06:14] [Server thread/INFO]: /schedule (function|clear)
+[13:06:14] [Server thread/INFO]: /scoreboard (objectives|players)
+[13:06:14] [Server thread/INFO]: /seed
+[13:06:14] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[13:06:14] [Server thread/INFO]: /spawnpoint [<targets>]
+[13:06:14] [Server thread/INFO]: /setworldspawn [<pos>]
+[13:06:14] [Server thread/INFO]: /spectate [<target>]
+[13:06:14] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[13:06:14] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[13:06:14] [Server thread/INFO]: /summon <entity> [<pos>]
+[13:06:14] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[13:06:14] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[13:06:14] [Server thread/INFO]: /teammsg <message>
+[13:06:14] [Server thread/INFO]: /tm -> teammsg
+[13:06:14] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[13:06:14] [Server thread/INFO]: /tp -> teleport
+[13:06:14] [Server thread/INFO]: /tellraw <targets> <message>
+[13:06:14] [Server thread/INFO]: /time (set|add|query)
+[13:06:14] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[13:06:14] [Server thread/INFO]: /trigger <objective> [add|set]
+[13:06:14] [Server thread/INFO]: /weather (clear|rain|thunder)
+[13:06:14] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[13:06:14] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[13:06:14] [Server thread/INFO]: /banlist [ips|players]
+[13:06:14] [Server thread/INFO]: /ban <targets> [<reason>]
+[13:06:14] [Server thread/INFO]: /deop <targets>
+[13:06:14] [Server thread/INFO]: /op <targets>
+[13:06:14] [Server thread/INFO]: /pardon <targets>
+[13:06:14] [Server thread/INFO]: /pardon-ip <target>
+[13:06:14] [Server thread/INFO]: /perf (start|stop)
+[13:06:14] [Server thread/INFO]: /save-all [flush]
+[13:06:14] [Server thread/INFO]: /save-off
+[13:06:14] [Server thread/INFO]: /save-on
+[13:06:14] [Server thread/INFO]: /setidletimeout <minutes>
+[13:06:14] [Server thread/INFO]: /stop
+[13:06:14] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[13:06:43] [Server thread/INFO]: No player was found
+[13:06:54] [Server thread/INFO]: No player was found
+[13:07:08] [Server thread/INFO]: Invalid name or UUID
+[13:07:08] [Server thread/INFO]: /msg * vais a seguir?ç<--[HERE]
+[13:07:27] [Server thread/INFO]: You whisper to diegov_9: vais a seguir?
+[13:07:39] [Server thread/INFO]: <diegov_9> yo si xd
+[13:07:54] [Server thread/INFO]: <Cartelex> ven a mi casa
+[13:08:11] [Server thread/INFO]: <diegov_9> espera
+[13:09:38] [Server thread/INFO]: <Cartelex> mierca
+[13:09:59] [Server thread/INFO]: <Cartelex> tu puedes tpar?
+[13:10:17] [Server thread/INFO]: <Cartelex> tpame pls
+[13:10:30] [Server thread/INFO]: Teleported Cartelex to diegov_9
+[13:10:34] [Server thread/INFO]: <Cartelex> menos mal xd
+[13:10:39] [Server thread/INFO]: <Cartelex> mira
+[13:10:40] [Server thread/INFO]: [diegov_9: Teleported Cartelex to diegov_9]
+[13:10:49] [Server thread/INFO]: <diegov_9> xd
+[13:11:03] [Server thread/INFO]: <Cartelex> la torreta
+[13:11:07] [Server thread/INFO]: <diegov_9> chiquita torre de vigilancia
+[13:12:21] [Server thread/INFO]: /advancement (grant|revoke)
+[13:12:21] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[13:12:21] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[13:12:21] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[13:12:21] [Server thread/INFO]: /clear [<targets>]
+[13:12:21] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[13:12:21] [Server thread/INFO]: /data (merge|get|remove|modify)
+[13:12:21] [Server thread/INFO]: /datapack (enable|disable|list)
+[13:12:21] [Server thread/INFO]: /debug (start|stop|function)
+[13:12:21] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
+[13:12:21] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[13:12:21] [Server thread/INFO]: /effect (clear|give)
+[13:12:21] [Server thread/INFO]: /me <action>
+[13:12:21] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[13:12:21] [Server thread/INFO]: /experience (add|set|query)
+[13:12:21] [Server thread/INFO]: /xp -> experience
+[13:12:21] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[13:12:21] [Server thread/INFO]: /forceload (add|remove|query)
+[13:12:21] [Server thread/INFO]: /function <name>
+[13:12:21] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
+[13:12:21] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[13:12:21] [Server thread/INFO]: /give <targets> <item> [<count>]
+[13:12:21] [Server thread/INFO]: /help [<command>]
+[13:12:21] [Server thread/INFO]: /item (replace|modify)
+[13:12:21] [Server thread/INFO]: /kick <targets> [<reason>]
+[13:12:21] [Server thread/INFO]: /kill [<targets>]
+[13:12:21] [Server thread/INFO]: /list [uuids]
+[13:12:21] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
+[13:12:21] [Server thread/INFO]: /locatebiome <biome>
+[13:12:21] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[13:12:21] [Server thread/INFO]: /msg <targets> <message>
+[13:12:21] [Server thread/INFO]: /tell -> msg
+[13:12:21] [Server thread/INFO]: /w -> msg
+[13:12:21] [Server thread/INFO]: /particle <name> [<pos>]
+[13:12:21] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[13:12:21] [Server thread/INFO]: /reload
+[13:12:21] [Server thread/INFO]: /recipe (give|take)
+[13:12:21] [Server thread/INFO]: /say <message>
+[13:12:21] [Server thread/INFO]: /schedule (function|clear)
+[13:12:21] [Server thread/INFO]: /scoreboard (objectives|players)
+[13:12:21] [Server thread/INFO]: /seed
+[13:12:21] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[13:12:21] [Server thread/INFO]: /spawnpoint [<targets>]
+[13:12:21] [Server thread/INFO]: /setworldspawn [<pos>]
+[13:12:21] [Server thread/INFO]: /spectate [<target>]
+[13:12:21] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[13:12:21] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[13:12:21] [Server thread/INFO]: /summon <entity> [<pos>]
+[13:12:21] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[13:12:21] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[13:12:21] [Server thread/INFO]: /teammsg <message>
+[13:12:21] [Server thread/INFO]: /tm -> teammsg
+[13:12:21] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[13:12:21] [Server thread/INFO]: /tp -> teleport
+[13:12:21] [Server thread/INFO]: /tellraw <targets> <message>
+[13:12:21] [Server thread/INFO]: /time (set|add|query)
+[13:12:21] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[13:12:21] [Server thread/INFO]: /trigger <objective> [add|set]
+[13:12:21] [Server thread/INFO]: /weather (clear|rain|thunder)
+[13:12:21] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[13:12:21] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[13:12:21] [Server thread/INFO]: /banlist [ips|players]
+[13:12:21] [Server thread/INFO]: /ban <targets> [<reason>]
+[13:12:21] [Server thread/INFO]: /deop <targets>
+[13:12:21] [Server thread/INFO]: /op <targets>
+[13:12:21] [Server thread/INFO]: /pardon <targets>
+[13:12:21] [Server thread/INFO]: /pardon-ip <target>
+[13:12:21] [Server thread/INFO]: /perf (start|stop)
+[13:12:21] [Server thread/INFO]: /save-all [flush]
+[13:12:21] [Server thread/INFO]: /save-off
+[13:12:21] [Server thread/INFO]: /save-on
+[13:12:21] [Server thread/INFO]: /setidletimeout <minutes>
+[13:12:21] [Server thread/INFO]: /stop
+[13:12:21] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[13:12:36] [Server thread/INFO]: [Server] os va lag?
+[13:12:44] [User Authenticator #6/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[13:12:44] [Server thread/INFO]: Davavico[/127.0.0.1:50558] logged in with entity id 23242 at (-3552.677809119142, 61.0, 2815.776426026716)
+[13:12:44] [Server thread/INFO]: Davavico joined the game
+[13:12:46] [Server thread/INFO]: <Cartelex> en principio no
+[13:12:47] [Server thread/INFO]: <diegov_9> no
+[13:17:48] [Server thread/INFO]: You whisper to Davavico: hola
+[13:18:14] [Server thread/INFO]: [Server] Calos la mama
+[13:18:35] [Server thread/INFO]: <Cartelex> me puedes dar un huevo de spawn de zombie pls?
+[13:18:39] [Server thread/INFO]: <Cartelex> pa probar una cosa
+[13:18:54] [Server thread/INFO]: <Davavico> a modo de estudio?
+[13:19:03] [Server thread/INFO]: <Cartelex> e
+[13:19:22] [Server thread/INFO]: <Cartelex> ven a mi casa y lo ves
+[13:19:30] [Server thread/INFO]: <Cartelex> lo puedes spawnear tu mismo
+[13:19:41] [Server thread/INFO]: <Davavico> espera
+[13:21:09] [Server thread/INFO]: <Cartelex> jajajajaajaja
+[13:21:28] [Server thread/INFO]: <Cartelex> QUE GUAPOOO
+[13:22:19] [Server thread/INFO]: <Cartelex> ME MUERO
+[13:22:40] [Server thread/INFO]: <Cartelex> jajajajaa
+[13:24:19] [Server thread/WARN]: Cartelex moved too quickly! -5.898308237766287,-1.0013359791121417,8.044529954895097
+[13:24:45] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[13:25:35] [Server thread/INFO]: <Davavico> donde estas
+[13:25:50] [Server thread/INFO]: <Cartelex> ya lo he probao
+[13:26:11] [Server thread/INFO]: <Cartelex> era la torre de golems esa
+[13:26:15] [Server thread/INFO]: <Cartelex> a ver si fufaba
+[13:26:28] [Server thread/INFO]: <Davavico> pero eso que hace
+[13:26:34] [Server thread/INFO]: <Cartelex> infla a los bichos
+[13:27:06] [Server thread/INFO]: <Cartelex> jajajajaa
+[13:27:28] [Server thread/INFO]: <Cartelex> tngo que poner mas
+[13:27:32] [Server thread/INFO]: <Cartelex> pa tanto zombie
+[13:28:09] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[13:28:57] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[13:28:59] [Server thread/INFO]: Davavico lost connection: Disconnected
+[13:28:59] [Server thread/INFO]: Davavico left the game
+[13:32:42] [Server thread/INFO]: <Cartelex> me piro
+[13:32:44] [Server thread/INFO]: <Cartelex> cahito
+[13:32:52] [Server thread/INFO]: Cartelex lost connection: Disconnected
+[13:32:52] [Server thread/INFO]: Cartelex left the game
+[13:33:44] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[13:37:53] [User Authenticator #7/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[13:37:53] [Server thread/INFO]: elkonos[/25.83.178.145:61209] logged in with entity id 31345 at (-3494.234927099494, 70.0, 2771.6295457937435)
+[13:37:53] [Server thread/INFO]: elkonos joined the game
+[13:37:56] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[13:46:05] [User Authenticator #8/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[13:46:05] [Server thread/INFO]: Davavico[/127.0.0.1:57000] logged in with entity id 33410 at (-3544.192875960631, 64.0, 2814.0006718306518)
+[13:46:05] [Server thread/INFO]: Davavico joined the game
+[13:49:47] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[13:50:16] [Server thread/INFO]: [Davavico: Made elkonos a server operator]
+[14:01:02] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[14:03:01] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[14:05:25] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[14:05:59] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[14:06:26] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[14:06:28] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[14:06:38] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[14:07:56] [Server thread/INFO]: [elkonos: Set the weather to rain & thunder]
+[14:09:27] [Server thread/INFO]: [Davavico: Teleported Davavico to elkonos]
+[14:09:27] [Server thread/WARN]: Davavico moved too quickly! 74.83240338516043,8.0,-129.84876861476278
+[14:10:02] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[14:10:03] [Server thread/INFO]: [elkonos: Teleported diegov_9 to elkonos]
+[14:10:22] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[14:10:57] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[14:11:35] [Server thread/INFO]: [diegov_9: Set the weather to clear]
+[14:11:46] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[14:12:04] [Server thread/INFO]: elkonos lost connection: Disconnected
+[14:12:04] [Server thread/INFO]: elkonos left the game
+[14:13:45] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[14:13:45] [Server thread/INFO]: diegov_9 left the game
+[14:14:21] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[14:18:50] [Server thread/INFO]: Davavico lost connection: Disconnected
+[14:18:50] [Server thread/INFO]: Davavico left the game
+[15:17:32] [User Authenticator #9/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[15:17:32] [Server thread/INFO]: Cartelex[/25.85.49.86:58112] logged in with entity id 41182 at (-3514.699999988079, 81.0, 2654.300000011921)
+[15:17:32] [Server thread/INFO]: Cartelex joined the game
+[15:18:19] [Server thread/INFO]: Cartelex lost connection: Disconnected
+[15:18:19] [Server thread/INFO]: Cartelex left the game
+[15:18:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@7491965d[id=<null>,name=Cartelex,properties={},legacy=false] (/25.85.49.86:58131) lost connection: Timed out
+[15:19:08] [User Authenticator #10/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[15:19:08] [Server thread/INFO]: Cartelex[/25.85.49.86:58136] logged in with entity id 41622 at (-3514.699999988079, 81.0, 2654.300000011921)
+[15:19:08] [Server thread/INFO]: Cartelex joined the game
+[16:28:32] [Server thread/INFO]: [Server] Control de actividad. Para mejorar el rendimiento del servidor serán expulsados aquellos usuarios que no manden un mensaje en los próximos 30 segundos.
+[16:28:41] [Server thread/INFO]: <Cartelex> SUBNORMAL
+[16:28:51] [Server thread/INFO]: /advancement (grant|revoke)
+[16:28:51] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[16:28:51] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[16:28:51] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[16:28:51] [Server thread/INFO]: /clear [<targets>]
+[16:28:51] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[16:28:51] [Server thread/INFO]: /data (merge|get|remove|modify)
+[16:28:51] [Server thread/INFO]: /datapack (enable|disable|list)
+[16:28:51] [Server thread/INFO]: /debug (start|stop|function)
+[16:28:51] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
+[16:28:51] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[16:28:51] [Server thread/INFO]: /effect (clear|give)
+[16:28:51] [Server thread/INFO]: /me <action>
+[16:28:51] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[16:28:51] [Server thread/INFO]: /experience (add|set|query)
+[16:28:51] [Server thread/INFO]: /xp -> experience
+[16:28:51] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[16:28:51] [Server thread/INFO]: /forceload (add|remove|query)
+[16:28:51] [Server thread/INFO]: /function <name>
+[16:28:51] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
+[16:28:51] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[16:28:51] [Server thread/INFO]: /give <targets> <item> [<count>]
+[16:28:51] [Server thread/INFO]: /help [<command>]
+[16:28:51] [Server thread/INFO]: /item (replace|modify)
+[16:28:51] [Server thread/INFO]: /kick <targets> [<reason>]
+[16:28:51] [Server thread/INFO]: /kill [<targets>]
+[16:28:51] [Server thread/INFO]: /list [uuids]
+[16:28:51] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
+[16:28:51] [Server thread/INFO]: /locatebiome <biome>
+[16:28:51] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[16:28:51] [Server thread/INFO]: /msg <targets> <message>
+[16:28:51] [Server thread/INFO]: /tell -> msg
+[16:28:51] [Server thread/INFO]: /w -> msg
+[16:28:51] [Server thread/INFO]: /particle <name> [<pos>]
+[16:28:51] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[16:28:51] [Server thread/INFO]: /reload
+[16:28:51] [Server thread/INFO]: /recipe (give|take)
+[16:28:51] [Server thread/INFO]: /say <message>
+[16:28:51] [Server thread/INFO]: /schedule (function|clear)
+[16:28:51] [Server thread/INFO]: /scoreboard (objectives|players)
+[16:28:51] [Server thread/INFO]: /seed
+[16:28:51] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[16:28:51] [Server thread/INFO]: /spawnpoint [<targets>]
+[16:28:51] [Server thread/INFO]: /setworldspawn [<pos>]
+[16:28:51] [Server thread/INFO]: /spectate [<target>]
+[16:28:51] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[16:28:51] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[16:28:51] [Server thread/INFO]: /summon <entity> [<pos>]
+[16:28:51] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[16:28:51] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[16:28:51] [Server thread/INFO]: /teammsg <message>
+[16:28:51] [Server thread/INFO]: /tm -> teammsg
+[16:28:51] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[16:28:51] [Server thread/INFO]: /tp -> teleport
+[16:28:51] [Server thread/INFO]: /tellraw <targets> <message>
+[16:28:51] [Server thread/INFO]: /time (set|add|query)
+[16:28:51] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[16:28:51] [Server thread/INFO]: /trigger <objective> [add|set]
+[16:28:51] [Server thread/INFO]: /weather (clear|rain|thunder)
+[16:28:51] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[16:28:51] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[16:28:51] [Server thread/INFO]: /banlist [ips|players]
+[16:28:51] [Server thread/INFO]: /ban <targets> [<reason>]
+[16:28:51] [Server thread/INFO]: /deop <targets>
+[16:28:51] [Server thread/INFO]: /op <targets>
+[16:28:51] [Server thread/INFO]: /pardon <targets>
+[16:28:51] [Server thread/INFO]: /pardon-ip <target>
+[16:28:51] [Server thread/INFO]: /perf (start|stop)
+[16:28:51] [Server thread/INFO]: /save-all [flush]
+[16:28:51] [Server thread/INFO]: /save-off
+[16:28:51] [Server thread/INFO]: /save-on
+[16:28:51] [Server thread/INFO]: /setidletimeout <minutes>
+[16:28:51] [Server thread/INFO]: /stop
+[16:28:51] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[16:29:24] [Server thread/INFO]: No player was found
+[16:29:36] [Server thread/INFO]: Kicked Cartelex: Lenguaje ofensivo
+[16:29:36] [Server thread/INFO]: Cartelex lost connection: Lenguaje ofensivo
+[16:29:36] [Server thread/INFO]: Cartelex left the game
+[16:29:46] [User Authenticator #11/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[16:29:46] [Server thread/INFO]: Cartelex[/25.85.49.86:63364] logged in with entity id 55282 at (-3499.860236034292, -34.0, 2710.1040522183525)
+[16:29:46] [Server thread/INFO]: Cartelex joined the game
+[16:29:51] [User Authenticator #12/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[16:29:51] [Server thread/INFO]: Davavico[/127.0.0.1:59027] logged in with entity id 55654 at (-3494.937290134469, 71.0, 2761.348300823291)
+[16:29:51] [Server thread/INFO]: Davavico joined the game
+[16:29:58] [Server thread/INFO]: <Cartelex> gilipollas que me tarda en cargar xddd
+[16:30:03] [Server thread/INFO]: <Davavico> jajajaja
+[16:30:34] [Server thread/INFO]: <Cartelex> estoy haciendo la granja de experiencia
+[16:32:44] [Server thread/INFO]: <Davavico> donde
+[16:33:03] [Server thread/INFO]: <Cartelex> en el spawn que encontrasteis, pa bajar mira al lao del puente que he hecho esta mañana una marca de piedras que hay
+[16:33:09] [Server thread/INFO]: <Cartelex> donde los arboles
+[16:33:12] [Server thread/INFO]: <Cartelex> he hecho una bajada
+[16:35:22] [Server thread/INFO]: <Cartelex> he gastao 4 picos de hierro ya xd
+[16:35:28] [Server thread/INFO]: <Davavico> ahhaha
+[16:35:47] [Server thread/INFO]: <Cartelex> la puta piedra esta que dura esta
+[16:37:08] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[16:39:39] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[16:39:47] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[16:39:51] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[16:45:15] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[16:51:55] [Server thread/INFO]: Davavico lost connection: Disconnected
+[16:51:55] [Server thread/INFO]: Davavico left the game
+[17:09:15] [User Authenticator #13/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[17:09:15] [Server thread/INFO]: diegov_9[/25.86.43.161:60121] logged in with entity id 62445 at (-3539.468044593768, 80.0, 2707.42108986602)
+[17:09:15] [Server thread/INFO]: diegov_9 joined the game
+[17:09:28] [Server thread/INFO]: <diegov_9> hola¿
+[17:09:30] [Server thread/INFO]: <Cartelex> alo
+[17:10:23] [Server thread/INFO]: <Cartelex> necesitamos arena de almas, puedes sacar 1 del creativo pls? por no ponerme ahora a picar obsidiana y to el rollo
+[17:12:07] [Server thread/INFO]: <diegov_9> onda tas
+[17:12:15] [Server thread/INFO]: <Cartelex> bu
+[17:12:20] [Server thread/INFO]: <Cartelex> espera subo
+[17:12:56] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:13:34] [Server thread/INFO]: <Cartelex> ven
+[17:14:09] [Server thread/INFO]: <diegov_9> con arena es pabajo o parriba
+[17:15:21] [Server thread/INFO]: <diegov_9> aaamegu
+[17:15:28] [Server thread/INFO]: <Cartelex> llevo una puta hora picando
+[17:15:34] [Server thread/INFO]: <Cartelex> mira ese cofre
+[17:15:45] [Server thread/INFO]: <diegov_9> yo tenia pensao hacer una granja de mobs
+[17:15:49] [Server thread/INFO]: <diegov_9> de esas altas
+[17:15:59] [Server thread/INFO]: <diegov_9> sabes las que digo¿?
+[17:16:01] [Server thread/INFO]: <Cartelex> cuanto tiene que caer el zombie 22¿
+[17:16:07] [Server thread/INFO]: <diegov_9> no me acuerdo
+[17:16:08] [Server thread/INFO]: <Cartelex> si, pero teniendo esto aqui justo debajo nose
+[17:16:45] [Server thread/INFO]: <diegov_9> ya, tenemos que ver como de eficaz es
+[17:16:51] [Server thread/INFO]: <diegov_9> cuando se haga
+[17:17:00] [Server thread/INFO]: <diegov_9> porque escucho esqueletos
+[17:17:13] [Server thread/INFO]: <Cartelex> ya, esta to rodeao de cuevas es lo malo
+[17:18:51] [Server thread/INFO]: <Cartelex> ilumina
+[17:19:35] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:22:16] [Server thread/INFO]: <diegov_9> esto es una locura
+[17:23:45] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:27:07] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:27:35] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to Cartelex]
+[17:27:45] [Server thread/INFO]: <Cartelex> hay un problema
+[17:27:46] [Server thread/INFO]: <diegov_9> creo que al lao ya no hay na
+[17:27:52] [Server thread/INFO]: <Cartelex> habria que bajar aqui
+[17:28:00] [Server thread/INFO]: <Cartelex> pero da a la camara
+[17:28:01] [Server thread/INFO]: <Cartelex> xd
+[17:28:06] [Server thread/INFO]: <diegov_9> que camara
+[17:28:08] [Server thread/INFO]: <diegov_9> ah
+[17:28:10] [Server thread/INFO]: <Cartelex> donde esta el spawn
+[17:28:19] [Server thread/INFO]: <Cartelex> hace falta 2 bloques mas pa alla pero no llega el agua
+[17:29:09] [Server thread/INFO]: diegov_9 fell from a high place
+[17:29:13] [Server thread/INFO]: <Cartelex> xddddd
+[17:29:17] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to Cartelex]
+[17:29:23] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:29:34] [Server thread/INFO]: <diegov_9> madre
+[17:29:39] [Server thread/INFO]: <Cartelex> es que suben de la camara y caen a donde estaba la mesa de crafteo por eso mueres xd
+[17:29:46] [Server thread/INFO]: <Cartelex> esta mas alto
+[17:30:47] [Server thread/INFO]: <Cartelex> ah ok me he equivocao
+[17:30:53] [Server thread/INFO]: <Cartelex> por eso no me salian las cuentas
+[17:30:56] [Server thread/INFO]: <Cartelex> es pal otro lao
+[17:31:07] [Server thread/INFO]: <diegov_9> xdddddd
+[17:32:58] [Server thread/INFO]: Cartelex has made the advancement [Hot Stuff]
+[17:33:13] [Server thread/INFO]: <Cartelex> he caido justo en lava xdddddddddd
+[17:33:18] [Server thread/INFO]: <diegov_9> xdddddddd
+[17:33:26] [Server thread/INFO]: <Cartelex> demigrante
+[17:33:54] [User Authenticator #14/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[17:33:54] [Server thread/INFO]: Davavico[/127.0.0.1:57704] logged in with entity id 66542 at (-3545.000085291816, 64.0, 2815.2060114126507)
+[17:33:54] [Server thread/INFO]: Davavico joined the game
+[17:38:00] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:38:22] [Server thread/INFO]: <Cartelex> aaaaaa
+[17:38:27] [Server thread/INFO]: <Cartelex> dadme creativo porfi
+[17:39:14] [Server thread/INFO]: <Cartelex> ./gamemode creative Cartelex
+[17:39:18] [Server thread/INFO]: diegov_9 has made the advancement [Ice Bucket Challenge]
+[17:39:27] [Server thread/INFO]: [Davavico: Set Cartelex's game mode to Creative Mode]
+[17:39:30] [Server thread/INFO]: <Cartelex> ty
+[17:45:39] [User Authenticator #15/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[17:45:40] [Server thread/INFO]: elkonos[/25.83.178.145:57364] logged in with entity id 69610 at (-3465.3938430817857, 73.0, 2699.9208268171096)
+[17:45:40] [Server thread/INFO]: elkonos joined the game
+[17:50:28] [Server thread/INFO]: Davavico lost connection: Disconnected
+[17:50:28] [Server thread/INFO]: Davavico left the game
+[17:59:40] [Server thread/INFO]: <Cartelex> la granja ya esta
+[17:59:44] [Server thread/INFO]: <Cartelex> funciona diego
+[18:00:44] [Server thread/INFO]: <elkonos> podias haber hecho caida libre a agua
+[18:00:50] [Server thread/INFO]: <Cartelex> y pa subir?
+[18:00:56] [Server thread/INFO]: <elkonos> ascensor de agua
+[18:01:04] [Server thread/INFO]: <Cartelex> llevo 2 putas horas picando demaisado
+[18:01:31] [Server thread/INFO]: <elkonos> nais
+[18:01:49] [Server thread/INFO]: <Cartelex> los barriles son para meter la carne de zombie
+[18:01:57] [Server thread/INFO]: <elkonos> me imagino
+[18:02:04] [Server thread/INFO]: <Cartelex> suben o que
+[18:02:15] [Server thread/INFO]: <elkonos> el que=?
+[18:03:13] [Server thread/INFO]: <Cartelex> has visto la torre de vigilancia que he hecho?
+[18:03:22] [Server thread/INFO]: <elkonos> voy
+[18:04:18] [Server thread/INFO]: <elkonos> eso es?
+[18:04:20] [Server thread/INFO]: <Cartelex> y los golems?
+[18:04:23] [Server thread/INFO]: <Cartelex> han desaparacio?
+[18:04:27] [Server thread/INFO]: <Cartelex> vaya mierda
+[18:04:32] [Server thread/INFO]: <elkonos> majare
+[18:04:37] [Server thread/INFO]: <elkonos> májar
+[18:04:56] [Server thread/INFO]: <elkonos> eso que se supone que hacia?
+[18:04:56] [Server thread/INFO]: <Cartelex> ahi arriba iban los golems de nieve, y se lian a tirar bolazos cuando ven un zombie xd
+[18:05:05] [Server thread/INFO]: <Cartelex> pero han desaparecio
+[18:05:12] [Server thread/INFO]: <elkonos> igual tienen que estar en nieve
+[18:05:19] [Server thread/INFO]: <Cartelex> este bioma es el suyo
+[18:05:29] [Server thread/INFO]: diegov_9 has made the advancement [We Need to Go Deeper]
+[18:05:32] [Server thread/INFO]: Cartelex has made the advancement [We Need to Go Deeper]
+[18:05:34] [Server thread/INFO]: <diegov_9> bua
+[18:05:43] [Server thread/INFO]: <Cartelex> esto que pollas es
+[18:05:45] [Server thread/INFO]: <diegov_9> en el bioma mierda
+[18:05:48] [Server thread/INFO]: elkonos has made the advancement [We Need to Go Deeper]
+[18:05:52] [Server thread/INFO]: <Cartelex> esto es el nether ahora?
+[18:05:57] [Server thread/INFO]: <diegov_9> hay biomas
+[18:06:01] [Server thread/INFO]: <diegov_9> y este es el feo este
+[18:06:11] [Server thread/INFO]: <diegov_9> hay ahotra arboles y to
+[18:06:12] [Server thread/INFO]: <Cartelex> que guapo
+[18:06:27] [Server thread/INFO]: <Cartelex> parece lo de strangers things
+[18:06:44] [Server thread/INFO]: <Cartelex> quitadme el creativo pls
+[18:06:47] [Server thread/INFO]: <Cartelex> el que tenga admin
+[18:07:12] [Server thread/INFO]: [diegov_9: Set Cartelex's game mode to Survival Mode]
+[18:07:18] [Server thread/INFO]: <diegov_9> pa onde tiramos
+[18:07:19] [Server thread/INFO]: <Cartelex> ostia comida teneis?
+[18:07:23] [Server thread/INFO]: <diegov_9> pa salir de aqui
+[18:07:41] [Server thread/INFO]: <elkonos> he traido gallinas
+[18:07:42] [Server thread/INFO]: <elkonos> jajajajaja
+[18:07:43] [Server thread/INFO]: <diegov_9> que este es el peor bioma no hay na
+[18:08:01] [Server thread/INFO]: <Cartelex> piedra negra
+[18:08:24] [Server thread/INFO]: <Cartelex> para con los putos pollos
+[18:09:08] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[18:09:23] [Server thread/INFO]: <Cartelex> la que ha liado de pollos el subnormal
+[18:09:29] [Server thread/INFO]: <elkonos> jajajajaja
+[18:09:32] [Server thread/INFO]: <elkonos> no querias comida?
+[18:09:37] [Server thread/INFO]: <Cartelex> no se me genera el mundo no paro de caer
+[18:10:09] [Server thread/INFO]: <Cartelex> pero gilipollas
+[18:10:20] [Server thread/INFO]: <Cartelex> molestan los putos pollos
+[18:10:30] [Server thread/WARN]: Cartelex moved too quickly! 9.83776436594053,1.604424101326714,-1.4854568625078173
+[18:10:54] [Server thread/INFO]: <Cartelex> yo sabeis que haria empezaria mundo nuevo esta semana, hardcore, sin creativos ni pollas que aqui nos hemos venido arriba
+[18:11:16] [Server thread/INFO]: <elkonos> arriba de que?
+[18:11:37] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[18:13:43] [Server thread/INFO]: <elkonos> vamos a hacer el matadero de vacuno
+[18:13:55] [Server thread/INFO]: <elkonos> apenas les de trigo las pelo mas de la mitad
+[18:15:01] [Server thread/INFO]: <elkonos> ya esta el matadero hecho
+[18:15:50] [Server thread/INFO]: <Cartelex> un esqueleto montao
+[18:15:54] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[18:15:54] [Server thread/INFO]: <elkonos> onde
+[18:16:18] [Server thread/INFO]: <Cartelex> xdd tu sabes la probablidad que salga eso
+[18:16:34] [Server thread/INFO]: <elkonos> que guapo
+[18:17:08] [Server thread/INFO]: <elkonos> la matanza va a empezar en 5 minutos
+[18:20:05] [Server thread/INFO]: <Cartelex> vamos a darles matariles
+[18:20:15] [Server thread/INFO]: <elkonos> hay que alimentarlas primero
+[18:20:20] [Server thread/INFO]: <elkonos> para dejar las crias
+[18:20:26] [Server thread/INFO]: <Cartelex> pa que si las crias no dan na
+[18:20:33] [Server thread/INFO]: <Cartelex> pero se te van a colar
+[18:20:34] [Server thread/INFO]: <elkonos> coño, cuando crezcan
+[18:21:17] [Server thread/INFO]: <elkonos> les doy de comer y nos liamos con ellas
+[18:21:26] [Server thread/INFO]: <Cartelex> yo las atraigo y tu les da
+[18:22:26] [Server thread/INFO]: <elkonos> diooooooos cuanta vaca
+[18:22:32] [Server thread/INFO]: <Cartelex> me da lag xd
+[18:22:42] [Server thread/INFO]: <elkonos> la idea es
+[18:22:50] [Server thread/INFO]: <elkonos> abres la primera puerta
+[18:22:56] [Server thread/INFO]: <elkonos> y vas atrayendo
+[18:23:05] [Server thread/INFO]: <elkonos> cuando se llene el pasillo, matarile
+[18:23:13] [Server thread/INFO]: <elkonos> cierras atras y matarile
+[18:23:28] [Server thread/INFO]: <Cartelex> dioooos
+[18:23:31] [Server thread/INFO]: <elkonos> jajajajajajjaja
+[18:23:38] [Server thread/INFO]: <elkonos> se te han colado todas las chicas
+[18:23:41] [Server thread/INFO]: <Cartelex> to los terneros ves
+[18:23:53] [Server thread/INFO]: <Cartelex> y al reves¿
+[18:23:58] [Server thread/INFO]: <Cartelex> enciarras aqui los terneros
+[18:23:59] [Server thread/INFO]: <elkonos> tamien
+[18:24:02] [Server thread/INFO]: <Cartelex> y el resto muertas
+[18:24:14] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[18:24:31] [Server thread/INFO]: <elkonos> hay que matar a hacha
+[18:24:43] [Server thread/INFO]: <elkonos> para evitar el espadazo que mata a 5 o 6 de una
+[18:24:44] [Server thread/INFO]: <Cartelex> yo ya mataba a todas las que queden
+[18:24:52] [Server thread/INFO]: <Cartelex> dentro del cercao
+[18:26:25] [Server thread/INFO]: <Cartelex> me recuerda al capitulo de los simsons que dice troy mclure que las vacas nos harian lo mismo xdd
+[18:26:33] [Server thread/INFO]: <elkonos> jajajajaja
+[18:26:35] [Server thread/INFO]: <elkonos> que guapo
+[18:26:58] [Server thread/INFO]: <elkonos> que cosa tan guapa
+[18:27:20] [Server thread/INFO]: <Cartelex> a ver lo que hmos sacao amos a juntarlo
+[18:27:20] [Server thread/INFO]: <elkonos> jajajajajajajja
+[18:27:26] [Server thread/INFO]: <diegov_9> 46
+[18:27:28] [Server thread/INFO]: <elkonos> hemos dejado solo a los terneros
+[18:27:46] [Server thread/INFO]: <elkonos> aqui
+[18:28:16] [Server thread/INFO]: <Cartelex> no esta mal
+[18:28:19] [Server thread/INFO]: <elkonos> ni tanl mal
+[18:28:30] [Server thread/INFO]: <Cartelex> ahora los cerdos?
+[18:28:34] [Server thread/INFO]: <elkonos> voy a sembrar el trigo
+[18:28:37] [Server thread/INFO]: <elkonos> bueno vale
+[18:28:50] [Server thread/INFO]: <Cartelex> misma operacion
+[18:28:53] [Server thread/INFO]: <elkonos> ok
+[18:29:08] [Server thread/INFO]: <Cartelex> vayas tienes?
+[18:29:09] [Server thread/INFO]: <Cartelex> vallas
+[18:29:13] [Server thread/INFO]: <elkonos> mas no
+[18:29:26] [Server thread/INFO]: <Cartelex> espera que yo tengo
+[18:29:26] [Server thread/INFO]: <elkonos> lo hacemos aqui
+[18:29:46] [Server thread/INFO]: <elkonos> mira, aqui hay una puerta puesta
+[18:29:47] [Server thread/INFO]: <Cartelex> si pero como las traes habra que partir
+[18:31:09] [Server thread/INFO]: <elkonos> espera que voy por trigo
+[18:31:32] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[18:32:26] [Server thread/INFO]: <elkonos> IRSE AL FINAL
+[18:32:30] [Server thread/INFO]: <Cartelex> han follao?
+[18:32:34] [Server thread/INFO]: <elkonos> sip
+[18:32:45] [Server thread/INFO]: <Cartelex> dame una zanajoria
+[18:33:46] [Server thread/INFO]: <Cartelex> jajajajajajja
+[18:34:03] [Server thread/INFO]: <Cartelex> yo creo que ya estan todas
+[18:34:08] [Server thread/INFO]: <Cartelex> las crias
+[18:35:02] [Server thread/INFO]: <elkonos> al lio
+[18:37:10] [Server thread/INFO]: <Cartelex> que guapo xddd
+[18:37:14] [Server thread/INFO]: <elkonos> jajajajaja
+[18:37:17] [Server thread/INFO]: <elkonos> impresionante
+[18:37:47] [Server thread/INFO]: <elkonos> quieres ver el pararrayos funcionar?
+[18:37:55] [Server thread/INFO]: <Cartelex> tu casa arder? si
+[18:38:05] [Server thread/INFO]: [elkonos: Set the weather to rain & thunder]
+[18:38:49] [Server thread/INFO]: <Cartelex> acaba de caer uno
+[18:38:57] [Server thread/INFO]: <elkonos> todos los rayos caen
+[18:39:09] [Server thread/INFO]: <Cartelex> phantoms
+[18:39:43] [Server thread/INFO]: <elkonos> dormimos?
+[18:39:49] [Server thread/INFO]: <Cartelex> zi
+[18:40:18] [Server thread/INFO]: <elkonos> zzzzz
+[18:41:13] [Server thread/INFO]: <Cartelex> luego te entretienes y matas los pollos que has puesto aqui
+[18:41:19] [Server thread/INFO]: <elkonos> onde?
+[18:41:23] [Server thread/INFO]: <Cartelex> acaba de salir un pigman del portal
+[18:41:44] [Server thread/INFO]: <diegov_9> eso no hace na
+[18:42:13] [Server thread/INFO]: <Cartelex> los pollos que has puesto aqui en eljardin de diego y mio
+[18:42:21] [Server thread/WARN]: Cartelex moved too quickly! 3.3844583720424453,-6.0,-7.343146100465674
+[18:42:22] [Server thread/INFO]: <elkonos> ahh
+[18:43:20] [Server thread/INFO]: <elkonos> alguien ha cogido carbon del generador de carbvon?
+[18:43:35] [Server thread/INFO]: <Cartelex> hay un generador de carbon?
+[18:43:41] [Server thread/INFO]: <elkonos> si
+[18:43:51] [Server thread/INFO]: <diegov_9> carlos la torreta
+[18:44:06] [Server thread/INFO]: <Cartelex> ya, han desaparecio los muñecos
+[18:44:18] [Server thread/INFO]: <Cartelex> :(
+[18:44:42] [Server thread/INFO]: <Cartelex> y el comerciante que tenia encerrao tambien
+[18:44:52] [Server thread/INFO]: <Cartelex> habra que ponerle etiqueta para que no desaparezca
+[18:45:02] [Server thread/INFO]: <Cartelex> por que el ajolote sigue aqui
+[18:45:05] [Server thread/INFO]: <elkonos> mira cartelex
+[18:45:30] [Server thread/INFO]: <Cartelex> dodne
+[18:45:35] [Server thread/INFO]: <elkonos> detras de mi casa
+[18:45:43] [Server thread/INFO]: <elkonos> aqui al lado del mar
+[18:45:46] [Server thread/INFO]: <elkonos> donde el puente
+[18:46:08] [Server thread/INFO]: <elkonos> arriba se le mete combustible
+[18:46:13] [Server thread/INFO]: <elkonos> y troncos
+[18:46:17] [Server thread/INFO]: <elkonos> y se encarga solo
+[18:46:32] [Server thread/INFO]: <Cartelex> xdddd vaya mierda loco, eso lo hace un horno
+[18:46:44] [Server thread/INFO]: <elkonos> aqui hay 6 funcionando al unisono
+[18:49:05] [Server thread/WARN]: Cartelex moved too quickly! -0.6377558919239164,0.25799910351527444,-10.121059464929658
+[18:51:26] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[18:54:49] [Server thread/INFO]: <Cartelex> se me ha ocurrido una idea para gastar los huevos
+[18:54:55] [Server thread/INFO]: <elkonos> a ver
+[18:54:59] [Server thread/INFO]: <diegov_9> tortilla?
+[18:55:00] [Server thread/INFO]: <Cartelex> crueldades na mas
+[18:55:13] [Server thread/INFO]: <Cartelex> propio de hitler
+[18:56:00] [Server thread/INFO]: <Cartelex> donde estais
+[18:56:05] [Server thread/INFO]: <elkonos> en la carbonera
+[18:56:16] [Server thread/INFO]: <Cartelex> vente pa mi casa con tos los huevos que puedas
+[18:56:56] [Server thread/INFO]: <elkonos> ya no hay mas
+[18:57:02] [Server thread/INFO]: <Cartelex> me he llevao todos
+[18:57:28] [Server thread/INFO]: <Cartelex> aqui
+[18:57:44] [Server thread/INFO]: <diegov_9> se oye un aldeano
+[18:57:55] [Server thread/INFO]: <Cartelex> a lo mejor esta por ahi
+[18:57:59] [Server thread/INFO]: <elkonos> pnde estas
+[18:58:32] [Server thread/INFO]: <elkonos> jajajajajajjajajajajajajajajjaja
+[18:58:36] [Server thread/INFO]: <Cartelex> cuando crezcan cubito de lava y se cocinan
+[18:58:43] [Server thread/INFO]: <elkonos> XDDDD
+[18:58:50] [Server thread/INFO]: <Cartelex> que no caigan fuera coño
+[18:58:53] [Server thread/INFO]: <diegov_9> se quemara no¿?
+[18:59:01] [Server thread/INFO]: <Cartelex> lo pones y lo quitas
+[18:59:07] [Server thread/INFO]: <Cartelex> pa que se cocinen solo
+[18:59:50] [Server thread/INFO]: <elkonos> esta tronando, desconecto la maquina
+[19:00:58] [Server thread/INFO]: <elkonos> adios, luego vengo si eso
+[19:01:06] [Server thread/INFO]: elkonos lost connection: Disconnected
+[19:01:06] [Server thread/INFO]: elkonos left the game
+[19:01:09] [Server thread/INFO]: <Cartelex> yo cuando cocine los pollos estos me salgo
+[19:01:11] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[19:01:11] [Server thread/INFO]: <Cartelex> voy a corre
+[19:02:09] [Server thread/INFO]: <Cartelex> diego, hay un tio en la puerta que quiere hablar contigo
+[19:02:32] [Server thread/INFO]: <diegov_9> elooool
+[19:02:41] [Server thread/INFO]: <Cartelex> como escupen
+[19:02:43] [Server thread/INFO]: <diegov_9> porque escupen
+[19:02:45] [Server thread/INFO]: <diegov_9> jajajajaja
+[19:02:53] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[19:02:56] [Server thread/INFO]: <diegov_9> que le has hecho
+[19:03:06] [Server thread/INFO]: <Cartelex> es escupen entre ellas xd
+[19:03:25] [Server thread/INFO]: <diegov_9> pero porqiue estan asi?
+[19:03:29] [Server thread/INFO]: <Cartelex> yo que se
+[19:03:39] [Server thread/INFO]: <Cartelex> a lo mejor les ha atacado un mob y se han dado sin querer
+[19:04:32] [Server thread/INFO]: <Cartelex> me das lava?
+[19:04:35] [Server thread/INFO]: <diegov_9> una rienda
+[19:04:42] [Server thread/INFO]: <diegov_9> abajo
+[19:04:43] [Server thread/INFO]: <diegov_9> hay
+[19:04:47] [Server thread/INFO]: <Cartelex> si esque eso suelta riendas
+[19:04:50] [Server thread/INFO]: <diegov_9> aqui
+[19:05:37] [Server thread/INFO]: <Cartelex> son aun crias se oye
+[19:06:32] [Server thread/INFO]: <Cartelex> se ve guapo el caminillo eh
+[19:06:36] [Server thread/INFO]: <diegov_9> aqui
+[19:06:36] [Server thread/INFO]: <Cartelex> lo de mi hermano lo afea
+[19:06:56] [Server thread/INFO]: <diegov_9> lo mas feo es lo de los pollos
+[19:07:02] [Server thread/INFO]: <Cartelex> tu veras
+[19:07:17] [Server thread/INFO]: <Cartelex> a ver eso pa que vale
+[19:07:22] [Server thread/INFO]: <Cartelex> si los pollos no valen pa na
+[19:08:00] [Server thread/INFO]: <diegov_9> lo malo que no tenemos etiquetas
+[19:08:09] [Server thread/INFO]: <Cartelex> eso es inviable tu sabes
+[19:08:10] [Server thread/INFO]: <diegov_9> ni aldeanos pa tradearlas
+[19:08:18] [Server thread/INFO]: <Cartelex> si habia 20 moñecos por lo menos
+[19:09:13] [Server thread/INFO]: <Cartelex> estan ya?
+[19:09:31] [Server thread/INFO]: <Cartelex> los primeros que meti si
+[19:10:42] [Server thread/INFO]: <Cartelex> xddddddddd
+[19:10:43] [Server thread/INFO]: <diegov_9> f
+[19:10:48] [Server thread/INFO]: <Cartelex> se han desintegrao
+[19:10:53] [Server thread/INFO]: <Cartelex> quizas con un mechero?
+[19:11:07] [Server thread/INFO]: <diegov_9> se que hay una forma pero no se como es
+[19:11:17] [Server thread/INFO]: <Cartelex> otro dia lo pruebo
+[19:12:57] [Server thread/INFO]: <diegov_9> lag?
+[19:13:00] [Server thread/INFO]: Cartelex lost connection: Timed out
+[19:13:00] [Server thread/INFO]: Cartelex left the game
+[19:19:23] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[19:19:23] [Server thread/INFO]: diegov_9 left the game
+[20:05:33] [Server thread/INFO]: Stopping the server
+[20:05:33] [Server thread/INFO]: Stopping server
+[20:05:33] [Server thread/INFO]: Saving players
+[20:05:33] [Server thread/INFO]: Saving worlds
+[20:05:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[20:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:05:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[20:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:05:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[20:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
