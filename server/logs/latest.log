@@ -1,399 +1,192 @@
-[08:13:13] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[08:13:13] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[08:13:13] [main/WARN]: Disabling further attempts to query Paging File.
-[08:13:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:13:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:13:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:13:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:13:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:13:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:13:23] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[08:13:24] [Worker-Main-4/INFO]: Loaded 7 recipes
-[08:13:25] [Worker-Main-4/INFO]: Loaded 1138 advancements
-[08:13:28] [Server thread/INFO]: Starting minecraft server version 1.17
-[08:13:28] [Server thread/INFO]: Loading properties
-[08:13:28] [Server thread/INFO]: Default game type: SURVIVAL
-[08:13:28] [Server thread/INFO]: Generating keypair
-[08:13:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:13:28] [Server thread/INFO]: Using default channel type
-[08:13:29] [Server thread/INFO]: Preparing level "world"
-[08:13:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:13:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:13:29] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[08:13:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:13:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[08:13:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[08:13:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:13:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[08:13:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[08:13:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[08:13:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[08:13:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[08:13:35] [Worker-Main-5/INFO]: Preparing spawn area: 56%
-[08:13:35] [Worker-Main-5/INFO]: Preparing spawn area: 82%
-[08:13:35] [Worker-Main-6/INFO]: Preparing spawn area: 82%
-[08:13:36] [Worker-Main-4/INFO]: Preparing spawn area: 99%
-[08:13:37] [Server thread/INFO]: Time elapsed: 8125 ms
-[08:13:37] [Server thread/INFO]: Done (8.230s)! For help, type "help"
-[08:16:21] [User Authenticator #1/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[08:16:22] [Server thread/INFO]: elkonos[/25.83.178.145:54713] logged in with entity id 90 at (-3462.4330408605765, 73.0, 2703.895484339782)
-[08:16:22] [Server thread/INFO]: elkonos joined the game
-[08:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
-[08:16:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
-[08:19:42] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[08:32:54] [Server thread/INFO]: elkonos has reached the goal [Sky's the Limit]
-[08:33:56] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[08:35:13] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[08:40:41] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[08:44:31] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[08:46:09] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[08:47:44] [Server thread/INFO]: elkonos has made the advancement [Not Today, Thank You]
-[08:52:15] [Server thread/INFO]: elkonos has made the advancement [Take Aim]
-[08:58:55] [Server thread/INFO]: elkonos has made the advancement [Best Friends Forever]
-[09:25:21] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.26439395139504995
-[09:26:30] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.3920686448777815
-[09:28:21] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[09:31:36] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.3397945024389628
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.3105333669038281
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4888797242246778
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.47436029280208014
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4647434667248769
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4570744602640012
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4527409872781118
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4451193302990746
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4499533394499249
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4551977825808368
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.45887908104572106
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4610507850339181
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.46236442643229014
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.46311866233884963
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.46351973100613614
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4637649752814071
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4637809443661799
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4634156609383996
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4630552547982764
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4631975018789768
-[09:35:43] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.46346985952493996
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4637038553629174
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4638293894542252
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.46392966425907056
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.46399279090335577
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4640296529492895
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4639259839745557
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.46387351475185024
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4633844719635345
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.4626564002937152
-[09:35:44] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.6754332822141577
-[09:37:37] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[09:43:28] [Server thread/WARN]: Horse (vehicle of elkonos) moved wrongly! 0.2788426815420735
-[09:46:44] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[09:52:39] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[09:54:02] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[09:56:31] [Server thread/INFO]: elkonos has made the advancement [Fishy Business]
-[09:56:41] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[10:05:36] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[10:09:13] [Server thread/INFO]: elkonos has made the advancement [Bee Our Guest]
-[10:09:52] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[10:10:10] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[10:38:36] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[10:39:19] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[10:40:25] [Server thread/INFO]: elkonos lost connection: Disconnected
-[10:40:25] [Server thread/INFO]: elkonos left the game
-[10:51:30] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[10:51:31] [Server thread/INFO]: elkonos[/25.83.178.145:55155] logged in with entity id 36149 at (-3466.3370679560403, 74.0, 2701.699999988079)
-[10:51:31] [Server thread/INFO]: elkonos joined the game
-[11:13:13] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[11:18:43] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[11:19:32] [User Authenticator #3/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[11:19:32] [Server thread/INFO]: diegov_9[/25.86.43.161:51516] logged in with entity id 41915 at (-3572.1805243431545, 81.0, 2710.602966722903)
-[11:19:32] [Server thread/INFO]: diegov_9 joined the game
-[11:23:36] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[11:27:51] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[11:28:27] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[11:31:21] [Server thread/INFO]: Villager bjq['Villager'/46748, l='ServerLevel[Cuevas]', x=-3848.63, y=67.00, z=1219.72] died, message: 'Villager suffocated in a wall'
-[11:34:12] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[11:37:53] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[11:37:54] [Server thread/INFO]: Cartelex[/25.85.49.86:55946] logged in with entity id 48434 at (-3575.830874113296, 82.5, 2711.33151930415)
-[11:37:54] [Server thread/INFO]: Cartelex joined the game
-[11:38:54] [Server thread/INFO]: <Cartelex> YUUUU KLK
-[11:40:08] [Worker-Main-154/ERROR]: Detected setBlock in a far chunk [-15, 39], pos: a{x=-225, y=50, z=632}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure_feature / minecraft:ruined_portal]
-[11:40:08] [Worker-Main-154/ERROR]: Detected setBlock in a far chunk [-15, 39], pos: a{x=-225, y=49, z=632}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure_feature / minecraft:ruined_portal]
-[11:40:08] [Worker-Main-154/ERROR]: Detected setBlock in a far chunk [-15, 39], pos: a{x=-225, y=48, z=632}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure_feature / minecraft:ruined_portal]
-[11:40:08] [Worker-Main-154/ERROR]: Detected setBlock in a far chunk [-15, 39], pos: a{x=-225, y=47, z=632}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure_feature / minecraft:ruined_portal]
-[11:40:14] [Server thread/INFO]: <Cartelex> YA HABEIS SPAWNEAO ALDEANOS¿
-[11:40:14] [Server thread/INFO]: <elkonos> EYY
-[11:40:52] [Server thread/INFO]: elkonos has made the advancement [A Terrible Fortress]
-[11:41:22] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[11:41:22] [Server thread/INFO]: Cartelex left the game
-[11:42:46] [Server thread/INFO]: Villager bjq['Villager'/51832, l='ServerLevel[Cuevas]', x=-364.50, y=28.18, z=345.50] died, message: 'Villager tried to swim in lava'
-[11:42:52] [Server thread/INFO]: Villager bjq['Villager'/51850, l='ServerLevel[Cuevas]', x=-367.50, y=27.36, z=345.50] died, message: 'Villager tried to swim in lava'
-[11:42:52] [Server thread/INFO]: Villager bjq['Villager'/51851, l='ServerLevel[Cuevas]', x=-366.50, y=27.18, z=345.50] died, message: 'Villager tried to swim in lava'
-[11:42:53] [Server thread/INFO]: Villager bjq['Villager'/51852, l='ServerLevel[Cuevas]', x=-365.50, y=27.25, z=345.50] died, message: 'Villager tried to swim in lava'
-[11:44:18] [Server thread/INFO]: Villager bjq['Farmer'/52119, l='ServerLevel[Cuevas]', x=-3473.90, y=72.00, z=2688.11] died, message: 'Farmer was slain by elkonos'
-[11:45:02] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[11:45:44] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[11:49:28] [User Authenticator #5/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[11:49:28] [Server thread/INFO]: Davavico[/25.81.65.195:51467] logged in with entity id 53599 at (-3548.519712508089, 64.0, 2812.5079186643356)
-[11:49:28] [Server thread/INFO]: Davavico joined the game
-[11:49:39] [Server thread/INFO]: <diegov_9> -490 54 160
-[11:50:05] [User Authenticator #6/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[11:50:05] [Server thread/INFO]: Cartelex[/25.85.49.86:61675] logged in with entity id 54300 at (-3441.4773085081924, 71.0, 2699.6269502234363)
-[11:50:05] [Server thread/INFO]: Cartelex joined the game
-[11:50:46] [Server thread/INFO]: Cartelex lost connection: Timed out
-[11:50:46] [Server thread/INFO]: Cartelex left the game
-[11:50:54] [User Authenticator #7/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[11:50:55] [Server thread/INFO]: Cartelex[/25.85.49.86:61682] logged in with entity id 54685 at (-3440.6291814644082, 71.0, 2698.300000011921)
-[11:50:55] [Server thread/INFO]: Cartelex joined the game
-[11:51:05] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[11:51:12] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[11:51:31] [Server thread/INFO]: <elkonos> nether carletex
-[11:53:03] [Server thread/INFO]: <elkonos> piedra que no useas
-[11:53:19] [Server thread/INFO]: <Cartelex> y me roba
-[11:54:18] [Server thread/WARN]: Cartelex moved too quickly! -1.7583723861821454,-4.252203340253729,-8.895250426691291
-[11:59:48] [Server thread/INFO]: <elkonos> aldea en esta direccion
-[12:00:29] [Server thread/INFO]: <diegov_9> -490 54 160
-[12:01:15] [Server thread/INFO]: <Cartelex> netherite?
-[12:01:27] [Server thread/INFO]: <elkonos> no
-[12:04:45] [Server thread/INFO]: <elkonos> atras
-[12:04:59] [Server thread/INFO]: Cartelex fell from a high place
-[12:05:08] [Server thread/INFO]: <Cartelex> joputa me has picao debajo de los pies
-[12:05:08] [Server thread/INFO]: <elkonos> mira que eres maquina
-[12:05:19] [Server thread/INFO]: <elkonos> te lo estoy diciendo que tires patras
-[12:05:30] [Server thread/INFO]: [elkonos: Teleported Cartelex to elkonos]
-[12:05:36] [Server thread/INFO]: <Cartelex> pero por que no habeis hecho el portal arriba?
-[12:05:41] [Server thread/INFO]: <Cartelex> no sabeis que se puede?
-[12:05:42] [Server thread/INFO]: <elkonos> ponte creativo y baja
-[12:05:53] [Server thread/INFO]: <Cartelex> no tengo creativo
-[12:05:58] [Server thread/INFO]: [elkonos: Set Cartelex's game mode to Creative Mode]
-[12:06:05] [Server thread/INFO]: <Cartelex> mis cosas estan en la lava
-[12:06:10] [Server thread/INFO]: <diegov_9> si pero pa no tener que comunicarlos
-[12:06:18] [Server thread/INFO]: <diegov_9> y to el roollo
-[12:07:19] [Server thread/INFO]: <Cartelex> el resto lo he perdido
-[12:07:26] [Server thread/INFO]: Davavico has made the advancement [We Need to Go Deeper]
-[12:07:28] [Server thread/INFO]: <elkonos> COGETELO DEL CREATRIVO
-[12:07:37] [Server thread/INFO]: <Cartelex> que va he muerto pos he muerto quitame el creativo
-[12:08:01] [Server thread/INFO]: [elkonos: Set Cartelex's game mode to Survival Mode]
-[12:08:19] [Server thread/INFO]: <diegov_9> hay que bajar a romper ese
-[12:08:28] [Server thread/INFO]: <Cartelex> yo no tengo pico de diamente
-[12:08:41] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[12:08:42] [Server thread/INFO]: <Cartelex> antes de activarlo apagad el otro
-[12:08:43] [Server thread/INFO]: <Cartelex> nooooo
-[12:08:47] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[12:08:49] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[12:08:50] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[12:08:52] [Server thread/INFO]: <Cartelex> asi no se crea otro
-[12:09:07] [Server thread/INFO]: <diegov_9> tengo que bajar
-[12:09:16] [Server thread/INFO]: <Cartelex> pos baja
-[12:09:21] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[12:10:21] [Server thread/INFO]: <Cartelex> ay ahi hielo aquii
-[12:11:17] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[12:11:32] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[12:12:26] [Server thread/INFO]: <Cartelex> hay que hacer un sitio pa meterlos alli
-[12:13:40] [Server thread/INFO]: <Cartelex> dame el barco
-[12:14:13] [Server thread/INFO]: <Cartelex> no se puede subir bloques con el barco asi que hay que pillarlos de arrib
-[12:16:46] [Server thread/INFO]: <elkonos> jajajajajajajajajajajaja
-[12:16:46] [Server thread/INFO]: <Cartelex> comida pls
-[12:17:23] [Server thread/INFO]: <diegov_9> tenemos ya 4
-[12:17:29] [Server thread/INFO]: <diegov_9> dejamos al resto por si
-[12:17:30] [Server thread/INFO]: <diegov_9> ?
-[12:17:33] [Server thread/INFO]: <Cartelex> si
-[12:17:40] [Server thread/INFO]: <Cartelex> dejalos ya
-[12:17:45] [Server thread/INFO]: <Cartelex> no le pegueee
-[12:17:50] [Server thread/INFO]: <Cartelex> F elkonos
-[12:18:07] [Server thread/INFO]: <Cartelex> soy un pedofilo xddd
-[12:18:31] [Server thread/INFO]: <Cartelex> no sep uede
-[12:18:35] [Server thread/INFO]: <elkonos> menuda atraccion de circo
-[12:18:35] [Server thread/INFO]: <Cartelex> ahi que meterlos bajaos
-[12:18:37] [Server thread/INFO]: <elkonos> jajajajajajaja
-[12:18:40] [Server thread/INFO]: <diegov_9> hay que quiar
-[12:18:52] [Server thread/INFO]: <elkonos> exaaaactro
-[12:19:28] [Server thread/INFO]: <Cartelex> id metiendolos
-[12:19:48] [Server thread/INFO]: <elkonos> en que casa los metemos?
-[12:20:00] [Server thread/INFO]: <Cartelex> dejalos en la barca en el tunel y les preparamos un sitio
-[12:20:21] [Server thread/INFO]: <Cartelex> se me ha echo mayor el mio
-[12:20:24] [Server thread/INFO]: <Cartelex> :(
-[12:20:26] [Server thread/INFO]: <elkonos> jajajajaj
-[12:20:55] [Server thread/INFO]: <Cartelex> los podemos meter casa diego
-[12:20:58] [Server thread/INFO]: <Cartelex> que pilla al lao
-[12:21:04] [Server thread/INFO]: <elkonos> si, en la caverna
-[12:21:09] [Server thread/INFO]: <elkonos> quitamos puertas y listo
-[12:21:15] [Server thread/INFO]: <diegov_9> hacemos directamente la granja
-[12:21:16] [Server thread/INFO]: <elkonos> o puertas de boton
-[12:21:23] [Server thread/INFO]: <Cartelex> si pero la hacemos en tu tunel
-[12:23:17] [Server thread/INFO]: <Cartelex> esperad que les proteja aqui al otro lado
-[12:23:21] [Server thread/INFO]: <Cartelex> que hay fuego y eso
-[12:23:23] [Server thread/INFO]: Davavico was slain by Magma Cube
-[12:23:38] [Server thread/INFO]: [Davavico: Teleported Davavico to elkonos]
-[12:24:44] [Server thread/INFO]: <Cartelex> esto esta lleno de zombies
-[12:24:56] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[12:25:04] [Server thread/INFO]: <Cartelex> menos mal que he puesto la barca
-[12:25:32] [Server thread/INFO]: <elkonos> treer otro
-[12:26:21] [Server thread/INFO]: <Cartelex> F
-[12:26:26] [Server thread/INFO]: <Cartelex> a donde los lelvais
-[12:26:48] [Server thread/INFO]: <elkonos> haceis los portales en estos lares...es dificil pa esta tarea
-[12:27:18] [Server thread/INFO]: <Cartelex> pero que hace diego
-[12:27:25] [Server thread/INFO]: <elkonos> el mercado
-[12:27:25] [Server thread/INFO]: <diegov_9> la granja
-[12:27:35] [Server thread/INFO]: <diegov_9> la suyo es crstal
-[12:27:37] [Server thread/INFO]: <Cartelex> si solo hay que meterlos en una pared
-[12:27:43] [Server thread/INFO]: <Cartelex> y ponerles mesas delante
-[12:27:48] [Server thread/INFO]: <diegov_9> no te enteras
-[12:28:03] [Server thread/INFO]: <diegov_9> lo suyo es tener 2 y que se reproduzcan
-[12:28:08] [Server thread/INFO]: <diegov_9> en la granha
-[12:28:33] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[12:29:06] [Server thread/INFO]: elkonos burned to death
-[12:29:10] [Server thread/INFO]: Davavico has made the advancement [A Seedy Place]
-[12:29:55] [Server thread/INFO]: Davavico has made the advancement [The Parrots and the Bats]
-[12:30:31] [Server thread/INFO]: <Cartelex> pero aunque los reproduzcas, pa ir cambiando los tradeos hasta que te den el que quieres, los metes en una pared y les vas poniendo y quitando la mesa esa
-[12:30:47] [Server thread/INFO]: <diegov_9> pero tendremos que tener aldeanos infinitos no?
-[12:30:53] [Server thread/INFO]: <Cartelex> con 5 que tengas ya vale
-[12:31:23] [Server thread/INFO]: <diegov_9> pero aunqie le cambies la profesion sigue siendo de una forma
-[12:31:32] [Server thread/INFO]: <diegov_9> te va a dar los tradeos mierda siempre
-[12:31:47] [Server thread/INFO]: <Cartelex> no, cada vez que le rompes la mesa, los cambia, o eso he visto yo en videos
-[12:32:28] [Server thread/INFO]: Davavico lost connection: Disconnected
-[12:32:28] [Server thread/INFO]: Davavico left the game
-[12:34:30] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[12:34:43] [Server thread/INFO]: <elkonos> has visto las colmenas?
-[12:34:55] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[12:37:24] [Server thread/INFO]: <Cartelex> con vias tb se puede
-[12:37:31] [Server thread/INFO]: <elkonos> pero no tenemos
-[12:38:23] [Server thread/INFO]: <elkonos> donde vas?
-[12:42:53] [Server thread/INFO]: <Cartelex> como se hace la mesa del librero lo sabeis?
-[12:43:41] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[12:44:21] [Server thread/INFO]: <Cartelex> noche
-[12:44:25] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[12:45:49] [Server thread/INFO]: <Cartelex> mira diego
-[12:46:04] [Server thread/INFO]: <diegov_9> si ya
-[12:46:16] [Server thread/INFO]: <diegov_9> pero yo queria una granja pa tener 500
-[12:46:49] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[12:47:05] [Server thread/INFO]: <Cartelex> pero es mucho mas facil asi, le vas rompiendo y buscas el que quieras
-[12:47:38] [Server thread/INFO]: <elkonos> siiiiiu
-[12:47:49] [Server thread/INFO]: <Cartelex> claro con el creativo, haberlo spawneao arriba y ya
-[12:48:27] [Server thread/INFO]: <diegov_9> ha sido pa no ir a craftear
-[12:49:55] [Server thread/INFO]: <Cartelex> conductividad que coño es
-[12:50:04] [Server thread/INFO]: <elkonos> algo pa los rayos?
-[12:52:31] [Server thread/INFO]: <Cartelex> toque de seda me acaba de dar este
-[12:53:47] [Server thread/INFO]: <elkonos> uuuu, el del papel es clave
-[12:53:51] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[12:54:05] [Server thread/INFO]: <Cartelex> papel por esmeralda y toque de seda
-[12:57:03] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[12:58:17] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[12:58:36] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[12:59:40] [Server thread/INFO]: <diegov_9> no entiendo porque le salen corazones y luego enfadaos
-[13:01:13] [Server thread/INFO]: Villager bjq['Villager'/68180, l='ServerLevel[Cuevas]', x=-3560.30, y=88.50, z=2670.30] died, message: 'Villager was slain by elkonos'
-[13:01:27] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[13:01:57] [Server thread/INFO]: <Cartelex> yo al mio estaba enfadao y al ponerle la mesa ya estaba feliz
-[13:02:07] [Server thread/INFO]: <diegov_9> eso le pasaba a uno
-[13:02:08] [Server thread/INFO]: <Cartelex> igual poniendoles una mesa
-[13:02:28] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[13:02:42] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[13:04:13] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[13:04:28] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[13:05:03] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[13:06:08] [Server thread/INFO]: <Cartelex> quien le ha cambiado la mesa a este tioo
-[13:06:15] [Server thread/INFO]: <elkonos> yo no
-[13:06:20] [Server thread/INFO]: <diegov_9> ni yo
-[13:07:23] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[13:07:23] [Server thread/INFO]: Cartelex left the game
-[13:07:42] [User Authenticator #8/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[13:07:42] [Server thread/INFO]: Cartelex[/25.85.49.86:61939] logged in with entity id 79083 at (-3564.8529650385685, 89.0, 2692.6712192327873)
-[13:07:42] [Server thread/INFO]: Cartelex joined the game
-[13:09:20] [Server thread/INFO]: elkonos lost connection: Disconnected
-[13:09:20] [Server thread/INFO]: elkonos left the game
-[13:09:50] [Server thread/INFO]: <Cartelex> un cegalillo
-[13:09:53] [Server thread/INFO]: <diegov_9> siii
-[13:10:03] [Server thread/INFO]: <diegov_9> oeri como no esta dentro de esto salen fuera
-[13:10:15] [Server thread/INFO]: <Cartelex> ha subido solo xd
-[13:10:42] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to Cartelex]
-[13:10:46] [Server thread/INFO]: <diegov_9> xd
-[13:10:54] [Server thread/INFO]: <diegov_9> noo
-[13:11:02] [Server thread/INFO]: <diegov_9> que se sale
-[13:11:10] [Server thread/INFO]: <Cartelex> pero el agua le empuja
-[13:11:31] [Server thread/INFO]: <Cartelex> y pa sacarlo de ahi
-[13:11:35] [Server thread/INFO]: <Cartelex> rompo el cristal?
-[13:12:00] [Server thread/INFO]: <diegov_9> noo
-[13:12:17] [Server thread/INFO]: <diegov_9> tio
-[13:12:26] [Server thread/INFO]: <diegov_9> ya la has liao
-[13:12:52] [Server thread/INFO]: <Cartelex> que cosa mas fea
-[13:13:05] [Server thread/INFO]: <diegov_9> hay que hacer corriente
-[13:13:22] [Server thread/INFO]: <Cartelex> pa que lao
-[13:13:29] [Server thread/INFO]: <diegov_9> pa el vagon
-[13:14:20] [Server thread/INFO]: <Cartelex> y a traves de la pared se sube¿
-[13:14:29] [Server thread/INFO]: <diegov_9> se supoone
-[13:14:36] [Server thread/INFO]: <Cartelex> tendras que poner el vagon aqui
-[13:15:13] [Server thread/INFO]: <Cartelex> dale ponlo ahi
-[13:15:18] [Server thread/INFO]: <diegov_9> sin catarata se puede hacer corriente?
-[13:15:26] [Server thread/INFO]: <Cartelex> asi
-[13:15:42] [Server thread/INFO]: <Cartelex> pero es la misma
-[13:15:46] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[13:15:46] [Server thread/INFO]: <Cartelex> no se va a montar atravesando
-[13:16:45] [Server thread/INFO]: <Cartelex> y si pones medio bloque
-[13:18:59] [Server thread/INFO]: <Cartelex> yo creo que asi puede fufar
-[13:19:35] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[13:20:09] [Server thread/INFO]: <Cartelex> haz que follen otra ve
-[13:20:15] [Server thread/INFO]: <diegov_9> deberian de entrar
-[13:21:06] [Server thread/INFO]: <Cartelex> FOLLAAAH
-[13:22:09] [Server thread/INFO]: Villager bjq['Villager'/68557, l='ServerLevel[Cuevas]', x=-3560.30, y=88.50, z=2670.30] died, message: 'Villager was slain by diegov_9'
-[13:22:59] [Server thread/INFO]: <diegov_9> sera cabron
-[13:23:31] [Server thread/INFO]: <Cartelex> ni asi
-[13:23:35] [Server thread/INFO]: <diegov_9> jajajaja
-[13:23:38] [Server thread/INFO]: <diegov_9> niñoo
-[13:24:06] [Server thread/INFO]: <diegov_9> a ver sin corriente
-[13:24:22] [Server thread/INFO]: <Cartelex> con estos dos completo el mercao
-[13:24:42] [Server thread/INFO]: <diegov_9> no entiendo porque uno se cabrea
-[13:24:55] [Server thread/INFO]: <Cartelex> porque es la mujer
-[13:25:45] [Server thread/INFO]: Villager bjq['Villager'/81977, l='ServerLevel[Cuevas]', x=-3559.39, y=90.19, z=2671.13] died, message: 'Villager was slain by diegov_9'
-[13:25:49] [Server thread/INFO]: Villager bjq['Villager'/82033, l='ServerLevel[Cuevas]', x=-3560.85, y=80.00, z=2670.85] died, message: 'Villager hit the ground too hard whilst trying to escape diegov_9'
-[13:26:04] [Server thread/INFO]: <Cartelex> pero ponle agua abajo que mueren
-[13:26:09] [Server thread/INFO]: Villager bjq['Villager'/82128, l='ServerLevel[Cuevas]', x=-3558.15, y=78.00, z=2662.99] died, message: 'Villager hit the ground too hard whilst trying to escape diegov_9'
-[13:26:12] [Server thread/INFO]: Villager bjq['Villager'/82130, l='ServerLevel[Cuevas]', x=-3557.76, y=78.00, z=2662.72] died, message: 'Villager hit the ground too hard whilst trying to escape diegov_9'
-[13:26:24] [Server thread/INFO]: <Cartelex> WTF
-[13:26:31] [Server thread/INFO]: <Cartelex> que se vaaaa
-[13:26:32] [Server thread/INFO]: <Cartelex> que cojones
-[13:26:34] [Server thread/INFO]: <diegov_9> si no tienen trabajo se enfadan o que
-[13:26:37] [Server thread/INFO]: <diegov_9> jajajaja
-[13:26:39] [Server thread/INFO]: <Cartelex> diego mmira esto
-[13:26:41] [Server thread/INFO]: <Cartelex> to bugi
-[13:26:42] [Server thread/INFO]: <diegov_9> si si
-[13:26:46] [Server thread/INFO]: <Cartelex> a onde aaa
-[13:27:21] [Server thread/INFO]: Villager bjq['Villager'/82381, l='ServerLevel[Cuevas]', x=-3561.26, y=90.19, z=2669.78] died, message: 'Villager was slain by diegov_9'
-[13:27:31] [Server thread/INFO]: Villager bjq['Villager'/81477, l='ServerLevel[Cuevas]', x=-3560.70, y=88.50, z=2670.70] died, message: 'Villager was slain by diegov_9'
-[13:28:10] [Server thread/INFO]: <Cartelex> me aburro
-[13:28:24] [Server thread/INFO]: Villager bjq['Villager'/82133, l='ServerLevel[Cuevas]', x=-3576.51, y=80.54, z=2671.64] died, message: 'Villager was slain by Cartelex'
-[13:28:59] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[13:29:03] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[13:29:03] [Server thread/INFO]: Cartelex left the game
-[13:29:14] [Server thread/INFO]: Villager bjq['Villager'/81527, l='ServerLevel[Cuevas]', x=-3561.50, y=80.00, z=2673.50] died, message: 'Villager was slain by diegov_9'
-[13:29:18] [Server thread/INFO]: Villager bjq['Villager'/81458, l='ServerLevel[Cuevas]', x=-3567.86, y=82.00, z=2674.62] died, message: 'Villager was slain by diegov_9'
-[13:31:32] [Server thread/INFO]: Villager bjq['Villager'/82636, l='ServerLevel[Cuevas]', x=-3560.70, y=88.50, z=2670.70] died, message: 'Villager was slain by diegov_9'
-[13:33:04] [User Authenticator #9/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[13:33:04] [Server thread/INFO]: elkonos[/25.83.178.145:55689] logged in with entity id 83447 at (-3554.8360060224163, 87.0, 2691.699999988079)
-[13:33:04] [Server thread/INFO]: elkonos joined the game
-[13:35:01] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[13:35:13] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[13:36:00] [Server thread/INFO]: Villager bjq['Villager'/78546, l='ServerLevel[Cuevas]', x=-3560.70, y=88.50, z=2670.70] died, message: 'Villager was slain by diegov_9'
-[13:38:00] [Server thread/INFO]: diegov_9 has made the advancement [What a Deal!]
-[13:38:14] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[13:38:29] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[13:42:16] [Server thread/INFO]: Villager bjq['Villager'/85712, l='ServerLevel[Cuevas]', x=-3569.50, y=82.00, z=2673.21] died, message: 'Villager was slain by diegov_9'
-[13:43:45] [Server thread/INFO]: [elkonos: Set the time to 13000]
-[13:44:02] [Server thread/INFO]: elkonos lost connection: Disconnected
-[13:44:02] [Server thread/INFO]: elkonos left the game
-[14:01:22] [Server thread/INFO]: Villager bjq['Farmer'/87614, l='ServerLevel[Cuevas]', x=-3560.70, y=88.50, z=2670.41] died, message: 'Farmer was slain by diegov_9'
-[14:01:25] [Server thread/INFO]: Villager bjq['Farmer'/87615, l='ServerLevel[Cuevas]', x=-3560.70, y=88.50, z=2670.30] died, message: 'Farmer was slain by diegov_9'
-[14:18:14] [Server thread/INFO]: [diegov_9: Set the weather to clear]
-[14:22:39] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[14:22:39] [Server thread/INFO]: diegov_9 left the game
-[14:45:09] [Server thread/INFO]: Stopping the server
-[14:45:09] [Server thread/INFO]: Stopping server
-[14:45:09] [Server thread/INFO]: Saving players
-[14:45:09] [Server thread/INFO]: Saving worlds
-[14:45:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[14:45:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:45:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[14:45:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:45:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[14:45:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:45:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:45:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:45:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:39:29] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[15:39:29] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[15:39:29] [main/WARN]: Disabling further attempts to query Paging File.
+[15:39:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:39:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:39:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:39:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:39:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:39:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:39:35] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[15:39:36] [Worker-Main-11/INFO]: Loaded 7 recipes
+[15:39:36] [Worker-Main-11/INFO]: Loaded 1138 advancements
+[15:39:39] [Server thread/INFO]: Starting minecraft server version 1.17
+[15:39:39] [Server thread/INFO]: Loading properties
+[15:39:39] [Server thread/INFO]: Default game type: SURVIVAL
+[15:39:39] [Server thread/INFO]: Generating keypair
+[15:39:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:39:39] [Server thread/INFO]: Using default channel type
+[15:39:40] [Server thread/INFO]: Preparing level "world"
+[15:39:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:39:41] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:39:41] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:39:42] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:39:42] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:39:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:39:47] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[15:39:47] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[15:39:47] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[15:39:47] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[15:39:47] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[15:39:47] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[15:39:47] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[15:39:47] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[15:39:47] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[15:39:48] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[15:39:48] [Worker-Main-9/INFO]: Preparing spawn area: 42%
+[15:39:49] [Worker-Main-13/INFO]: Preparing spawn area: 82%
+[15:39:49] [Worker-Main-9/INFO]: Preparing spawn area: 97%
+[15:39:50] [Server thread/INFO]: Time elapsed: 8937 ms
+[15:39:50] [Server thread/INFO]: Done (9.121s)! For help, type "help"
+[15:40:49] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[15:40:49] [Server thread/INFO]: Davavico[/127.0.0.1:59834] logged in with entity id 92 at (-3551.018639967231, 79.0, 2667.4339146868615)
+[15:40:49] [Server thread/INFO]: Davavico joined the game
+[16:07:51] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[16:07:51] [Server thread/INFO]: elkonos[/25.83.178.145:51081] logged in with entity id 5968 at (-3561.2566521730014, 92.0, 2668.9429745992766)
+[16:07:52] [Server thread/INFO]: elkonos joined the game
+[16:08:52] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[16:18:07] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[16:18:54] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[16:19:17] [Server thread/INFO]: [elkonos: Removed 146 items from player elkonos]
+[16:19:34] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[16:22:14] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[16:28:38] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[16:35:29] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[16:35:37] [Server thread/INFO]: elkonos has made the advancement [Hot Stuff]
+[16:36:18] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[16:38:34] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[16:40:49] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[16:40:53] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[16:43:13] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[16:43:21] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[16:44:25] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[16:44:50] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[16:47:48] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[16:49:00] [Server thread/INFO]: [Davavico: Teleported Davavico to elkonos]
+[16:49:00] [Server thread/WARN]: Davavico moved too quickly! 151.08609801045532,-6.032600855036364,58.461069407044306
+[16:49:05] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[16:50:56] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[16:52:44] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[16:52:58] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[16:53:10] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[16:53:34] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[16:55:52] [Server thread/INFO]: [Davavico: Reloading!]
+[16:55:52] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:52] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:52] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:55:52] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:55:52] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:52] [Server thread/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[16:55:52] [Server thread/INFO]: Loaded 7 recipes
+[16:55:52] [Server thread/INFO]: Loaded 1138 advancements
+[16:56:02] [Server thread/INFO]: Davavico has made the advancement [Take Aim]
+[16:59:43] [Server thread/INFO]: Davavico has made the advancement [Hot Stuff]
+[17:15:17] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[17:15:37] [Server thread/INFO]: [Davavico: Teleported Davavico to -3279.500000, 100.000000, 2842.500000]
+[17:15:37] [Server thread/WARN]: Davavico moved too quickly! 0.49975388645316343,55.0,0.17329584852632252
+[17:16:20] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[17:16:32] [Server thread/INFO]: [elkonos: Teleported Davavico to elkonos]
+[17:16:32] [Server thread/WARN]: Davavico moved too quickly! -97.60860265790097,-19.0,12.267361165453622
+[17:17:56] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[17:18:14] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[17:18:28] [Server thread/INFO]: [Davavico: Reloading!]
+[17:18:28] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:18:28] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:18:28] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:18:28] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:18:28] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:18:28] [Server thread/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[17:18:28] [Server thread/INFO]: Loaded 7 recipes
+[17:18:29] [Server thread/INFO]: Loaded 1138 advancements
+[18:00:47] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[18:06:43] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[18:07:16] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3361917124670981
+[18:08:02] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:08:21] [Server thread/INFO]: elkonos has made the advancement [Whatever Floats Your Goat!]
+[18:08:27] [Server thread/INFO]: Davavico has made the advancement [Whatever Floats Your Goat!]
+[18:08:41] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:09:58] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:10:24] [Server thread/INFO]: Davavico has reached the goal [Sky's the Limit]
+[18:10:40] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:12:14] [Server thread/INFO]: [elkonos: Set the weather to clear]
+[18:15:30] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.33827116019892856
+[18:17:06] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[18:18:11] [Server thread/INFO]: [elkonos: Set the weather to clear]
+[18:18:20] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:18:54] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:19:59] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[18:20:12] [Server thread/INFO]: Davavico has made the advancement [Ice Bucket Challenge]
+[18:21:03] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[18:22:52] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3556054141968161
+[18:25:13] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[18:30:13] [Server thread/INFO]: [elkonos: Set the weather to clear]
+[18:32:54] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[18:35:32] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[18:38:22] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:38:52] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:54:05] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:54:27] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:10:01] [User Authenticator #3/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:10:01] [Server thread/INFO]: Cartelex[/25.85.49.86:52057] logged in with entity id 49162 at (-3552.5445927515575, 79.0, 2669.653068446418)
+[19:10:01] [Server thread/INFO]: Cartelex joined the game
+[19:10:21] [Server thread/INFO]: <elkonos> diego se ha ido ya?
+[19:11:21] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[19:11:25] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:14:20] [Server thread/INFO]: <elkonos> jajajajajajajajajajaj
+[19:14:27] [Server thread/INFO]: <Cartelex> le pego fuego
+[19:14:35] [Server thread/INFO]: <Davavico> nooo les gallines
+[19:14:36] [Server thread/INFO]: <elkonos> pero a la casa entera jajajajajaja
+[19:14:46] [Server thread/INFO]: <Cartelex> eso digo, me pones gallinas le pego fuego
+[19:15:48] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[19:17:04] [Server thread/INFO]: Davavico has made the advancement [What a Deal!]
+[19:17:12] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:18:57] [Server thread/INFO]: <Cartelex> este tio vende tierra enrraizada
+[19:19:00] [Server thread/INFO]: elkonos has made the advancement [What a Deal!]
+[19:19:02] [Server thread/INFO]: <Cartelex> y hielo
+[19:19:27] [Server thread/INFO]: <Cartelex> nos interesan sacerdotes y los de los libros, el resto son mierda
+[19:20:14] [Server thread/INFO]: <elkonos> pa que se cura como es?
+[19:20:20] [Server thread/INFO]: <Cartelex> no se que mesa es
+[19:22:40] [Server thread/INFO]: <elkonos> me piro a sacar a esta
+[19:22:59] [Server thread/INFO]: <elkonos> te he dejado 2 stack de chicha y 1 de panes carletex
+[19:23:01] [Server thread/INFO]: <Cartelex> las losas sobre los aldeanos tienen un sentido
+[19:23:08] [Server thread/INFO]: <Cartelex> no las quiteis
+[19:23:24] [Server thread/INFO]: <Cartelex> pa ir cambiando los encantamientos
+[19:23:35] [Server thread/INFO]: <elkonos> me piro
+[19:23:38] [Server thread/INFO]: elkonos lost connection: Disconnected
+[19:23:38] [Server thread/INFO]: elkonos left the game
+[19:24:25] [Server thread/INFO]: <Cartelex> pero no lo bustees que tiene encantamoentos de mierda :(
+[19:24:40] [Server thread/INFO]: <Davavico> hahah
+[19:24:44] [Server thread/INFO]: <Davavico> Pero eso mejora no?
+[19:24:45] [Server thread/INFO]: <Cartelex> hay que buscar reparacion o eficiencia o toque de sed
+[19:24:52] [Server thread/INFO]: <Cartelex> y una vez que lo tengas lo busteas
+[19:25:19] [Server thread/INFO]: <Cartelex> por lo menos al de los libros
+[19:25:46] [Server thread/INFO]: <Davavico> ahora vas a mi casa y ves el camino
+[19:25:50] [Server thread/INFO]: <Cartelex> ya lo he visto
+[19:25:59] [Server thread/INFO]: <Cartelex> ponle farolas jajaja
+[19:26:02] [Server thread/INFO]: <Davavico> Ya
+[19:26:31] [Server thread/INFO]: <Cartelex> y dejale cambios de nivel que haya escalones y eso que mola
+[19:26:39] [Server thread/INFO]: <Cartelex> que esto lo has aplanado todo
+[19:26:59] [Server thread/INFO]: <Davavico> Es porque estaba plano
+[19:27:02] [Server thread/INFO]: <Davavico> luego lo cambio
+[19:27:13] [Server thread/INFO]: <Cartelex> ya lo aplané yo pa sacar la tierra que metí aqui xd
+[19:27:18] [Server thread/INFO]: <Davavico> me piro, te dejo esto abierto, luego me avisas para cerrarolo
+[19:27:20] [Server thread/INFO]: <Davavico> hahahah
+[19:27:22] [Server thread/INFO]: <Cartelex> yo me voy
+[19:27:23] [Server thread/INFO]: <Cartelex> cierra
+[19:27:28] [Server thread/INFO]: Cartelex lost connection: Disconnected
+[19:27:28] [Server thread/INFO]: Cartelex left the game
+[19:27:31] [Server thread/INFO]: Davavico lost connection: Disconnected
+[19:27:31] [Server thread/INFO]: Davavico left the game
+[19:27:41] [Server thread/INFO]: Stopping the server
+[19:27:41] [Server thread/INFO]: Stopping server
+[19:27:41] [Server thread/INFO]: Saving players
+[19:27:41] [Server thread/INFO]: Saving worlds
+[19:27:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[19:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:27:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[19:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:27:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[19:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
