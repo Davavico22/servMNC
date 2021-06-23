@@ -1,81 +1,78 @@
-[17:16:26] [main/INFO]: Loading for game Minecraft 1.17
-[17:16:26] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
-[17:16:31] [main/INFO]: [FabricLoader] Loading 3 mods:
-	- fabricloader@0.11.6
-	- java@16
-	- minecraft@1.17
-[17:16:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/deivi/Documents/ServidorMinecraft/server/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[17:16:32] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[17:16:32] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[17:16:32] [main/WARN]: Disabling further attempts to query Paging File.
-[17:16:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:16:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:16:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:16:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:16:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:16:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:16:42] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[17:16:43] [Worker-Main-13/INFO]: Loaded 7 recipes
-[17:16:44] [Worker-Main-13/INFO]: Loaded 1138 advancements
-[17:16:46] [Server thread/INFO]: Starting minecraft server version 1.17
-[17:16:46] [Server thread/INFO]: Loading properties
-[17:16:46] [Server thread/INFO]: Default game type: SURVIVAL
-[17:16:46] [Server thread/INFO]: Generating keypair
-[17:16:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:16:46] [Server thread/INFO]: Using default channel type
-[17:16:47] [Server thread/INFO]: Preparing level "world"
-[17:16:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:16:47] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[17:16:51] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[17:16:52] [Worker-Main-13/INFO]: Preparing spawn area: 31%
-[17:16:52] [Worker-Main-8/INFO]: Preparing spawn area: 69%
-[17:16:53] [Worker-Main-13/INFO]: Preparing spawn area: 84%
-[17:16:53] [Worker-Main-12/INFO]: Preparing spawn area: 86%
-[17:16:54] [Worker-Main-13/INFO]: Preparing spawn area: 99%
-[17:16:54] [Server thread/INFO]: Time elapsed: 7103 ms
-[17:16:54] [Server thread/INFO]: Done (7.231s)! For help, type "help"
-[17:18:11] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[17:18:11] [Server thread/INFO]: diegov_9[/25.85.248.83:56649] logged in with entity id 91 at (-3565.5226823660473, 84.0, 2662.6721602227094)
-[17:18:12] [Server thread/INFO]: diegov_9 joined the game
-[17:18:58] [User Authenticator #2/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[17:18:58] [Server thread/INFO]: Davavico[/127.0.0.1:64192] logged in with entity id 752 at (-3562.4352843633483, 80.5, 2711.08689112131)
-[17:18:58] [Server thread/INFO]: Davavico joined the game
-[17:21:34] [Server thread/INFO]: <Davavico> fasfa
-[17:26:23] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to Davavico]
-[17:30:07] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[17:32:25] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[17:40:09] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[17:40:09] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[17:44:28] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[17:45:12] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[17:45:42] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[17:46:05] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[17:48:36] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[17:48:46] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[17:49:09] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[17:51:50] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[17:52:46] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[17:52:46] [Server thread/INFO]: diegov_9 left the game
-[17:58:36] [Server thread/INFO]: Davavico lost connection: Disconnected
-[17:58:36] [Server thread/INFO]: Davavico left the game
-[18:04:04] [Server thread/INFO]: Stopping the server
-[18:04:04] [Server thread/INFO]: Stopping server
-[18:04:04] [Server thread/INFO]: Saving players
-[18:04:04] [Server thread/INFO]: Saving worlds
-[18:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[18:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[18:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[18:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:49:04] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[20:49:04] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[20:49:04] [main/WARN]: Disabling further attempts to query Paging File.
+[20:49:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:49:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:49:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:49:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:49:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:49:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:49:07] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[20:49:08] [Worker-Main-12/INFO]: Loaded 7 recipes
+[20:49:08] [Worker-Main-12/INFO]: Loaded 1138 advancements
+[20:49:09] [Server thread/INFO]: Starting minecraft server version 1.17
+[20:49:09] [Server thread/INFO]: Loading properties
+[20:49:10] [Server thread/INFO]: Default game type: SURVIVAL
+[20:49:10] [Server thread/INFO]: Generating keypair
+[20:49:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:49:10] [Server thread/INFO]: Using default channel type
+[20:49:10] [Server thread/INFO]: Preparing level "world"
+[20:49:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:49:10] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:49:10] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:49:11] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:49:13] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:49:13] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:49:13] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:49:13] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:49:13] [Worker-Main-13/INFO]: Preparing spawn area: 20%
+[20:49:14] [Worker-Main-12/INFO]: Preparing spawn area: 96%
+[20:49:14] [Server thread/INFO]: Time elapsed: 4367 ms
+[20:49:14] [Server thread/INFO]: Done (4.432s)! For help, type "help"
+[20:51:54] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[20:51:54] [Server thread/INFO]: diegov_9[/25.85.248.83:53699] logged in with entity id 91 at (-3561.1974327980784, 83.0, 2678.1603349958245)
+[20:51:54] [Server thread/INFO]: diegov_9 joined the game
+[20:54:31] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:54:55] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:05:27] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:05:45] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:06:34] [Server thread/INFO]: diegov_9 fell from a high place
+[21:06:41] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:08:01] [User Authenticator #2/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[21:08:02] [Server thread/INFO]: Davavico[/25.81.65.195:60825] logged in with entity id 4061 at (-3566.541110960308, 84.0, 2667.245123767059)
+[21:08:02] [Server thread/INFO]: Davavico joined the game
+[21:08:12] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to Davavico]
+[21:09:45] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:17:15] [Server thread/INFO]: diegov_9 fell from a high place
+[21:17:20] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to Davavico]
+[21:17:32] [Server thread/INFO]: <diegov_9> los muertos
+[21:17:39] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to Davavico]
+[21:17:48] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:22:10] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:26:02] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[21:27:04] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[21:28:38] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[21:28:41] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:28:51] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:29:20] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[21:30:03] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:31:04] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:34:17] [Server thread/INFO]: Davavico fell from a high place
+[21:34:28] [Server thread/INFO]: [Davavico: Teleported Davavico to diegov_9]
+[21:39:35] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[21:39:35] [Server thread/INFO]: diegov_9 left the game
+[21:39:38] [Server thread/INFO]: Davavico lost connection: Disconnected
+[21:39:38] [Server thread/INFO]: Davavico left the game
+[21:39:50] [Server thread/INFO]: Stopping the server
+[21:39:50] [Server thread/INFO]: Stopping server
+[21:39:50] [Server thread/INFO]: Saving players
+[21:39:50] [Server thread/INFO]: Saving worlds
+[21:39:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[21:39:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[21:39:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:39:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[21:39:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:39:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:39:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
