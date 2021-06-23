@@ -1,108 +1,51 @@
-[18:15:00] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[18:15:00] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[18:15:00] [main/WARN]: Disabling further attempts to query Paging File.
-[18:15:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:15:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:15:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:15:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:15:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:15:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:15:07] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[18:15:08] [Worker-Main-14/INFO]: Loaded 7 recipes
-[18:15:08] [Worker-Main-14/INFO]: Loaded 1138 advancements
-[18:15:09] [Server thread/INFO]: Starting minecraft server version 1.17
-[18:15:09] [Server thread/INFO]: Loading properties
-[18:15:09] [Server thread/INFO]: Default game type: SURVIVAL
-[18:15:09] [Server thread/INFO]: Generating keypair
-[18:15:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:15:10] [Server thread/INFO]: Using default channel type
-[18:15:10] [Server thread/INFO]: Preparing level "world"
-[18:15:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:15:10] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:15:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:15:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:15:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:15:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:15:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:15:13] [Worker-Main-14/INFO]: Preparing spawn area: 94%
-[18:15:13] [Worker-Main-12/INFO]: Preparing spawn area: 99%
-[18:15:13] [Server thread/INFO]: Time elapsed: 3533 ms
-[18:15:13] [Server thread/INFO]: Done (3.598s)! For help, type "help"
-[18:16:13] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[18:16:14] [Server thread/INFO]: diegov_9[/25.85.248.83:59811] logged in with entity id 89 at (-3570.4157110564406, 86.0, 2680.625730056432)
-[18:16:14] [Server thread/INFO]: diegov_9 joined the game
-[18:26:01] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[18:33:19] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[18:35:33] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[18:37:59] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[18:39:32] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[18:39:32] [Server thread/INFO]: diegov_9 left the game
-[18:44:21] [User Authenticator #2/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[18:44:21] [Server thread/INFO]: diegov_9[/25.85.248.83:49814] logged in with entity id 5293 at (-3541.159491242421, 78.0, 2688.801024152153)
-[18:44:21] [Server thread/INFO]: diegov_9 joined the game
-[18:45:34] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[18:57:59] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:02:04] [Server thread/INFO]: Villager bjq['Villager'/5300, l='ServerLevel[Cuevas]', x=-3569.50, y=80.06, z=2662.49] died, message: 'Villager was slain by Zombie'
-[19:05:39] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[19:07:37] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:16:00] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[19:16:51] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:21:51] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[19:22:50] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:28:09] [Server thread/INFO]: [diegov_9: Set the time to 13000]
-[19:28:32] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[19:30:16] [Server thread/INFO]: Villager bjq['Villager'/5332, l='ServerLevel[Cuevas]', x=-3642.61, y=81.00, z=2659.79] died, message: 'Villager hit the ground too hard whilst trying to escape Choutonino'
-[19:30:19] [Server thread/INFO]: Villager bjq['Villager'/5336, l='ServerLevel[Cuevas]', x=-3642.79, y=81.00, z=2659.09] died, message: 'Villager hit the ground too hard whilst trying to escape Choutonino'
-[19:30:24] [Server thread/INFO]: Villager bjq['Villager'/13024, l='ServerLevel[Cuevas]', x=-3599.17, y=83.00, z=2730.15] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
-[19:30:56] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:31:22] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[19:31:33] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:32:24] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[19:32:31] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:40:51] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[19:40:58] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:42:50] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[19:52:01] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:06:30] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:06:51] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:06:59] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:29:36] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:30:52] [Server thread/INFO]: [diegov_9: Set the weather to clear]
-[20:31:25] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:32:45] [Server thread/INFO]: Villager bjq['Villager'/18043, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2669.81] died, message: 'Villager tried to swim in lava'
-[20:32:45] [Server thread/INFO]: Villager bjq['Villager'/32260, l='ServerLevel[Cuevas]', x=-3563.85, y=85.00, z=2671.09] died, message: 'Villager tried to swim in lava'
-[20:32:45] [Server thread/INFO]: Villager bjq['Villager'/18036, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2670.70] died, message: 'Villager tried to swim in lava'
-[20:32:45] [Server thread/INFO]: Villager bjq['Villager'/20257, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2670.70] died, message: 'Villager tried to swim in lava'
-[20:32:46] [Server thread/INFO]: Villager bjq['Villager'/18847, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2669.74] died, message: 'Villager tried to swim in lava'
-[20:32:46] [Server thread/INFO]: Villager bjq['Villager'/18042, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2670.69] died, message: 'Villager tried to swim in lava'
-[20:32:46] [Server thread/INFO]: Villager bjq['Villager'/18048, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2670.70] died, message: 'Villager tried to swim in lava'
-[20:32:46] [Server thread/INFO]: Villager bjq['Villager'/30047, l='ServerLevel[Cuevas]', x=-3563.15, y=85.00, z=2670.16] died, message: 'Villager tried to swim in lava'
-[20:32:47] [Server thread/INFO]: Villager bjq['Villager'/18044, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2669.73] died, message: 'Villager burned to death'
-[20:32:51] [Server thread/INFO]: Villager bjq['Villager'/18041, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2669.30] died, message: 'Villager burned to death'
-[20:32:57] [Server thread/INFO]: Villager bjq['Villager'/18034, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2669.30] died, message: 'Villager burned to death'
-[20:32:57] [Server thread/INFO]: Villager bjq['Villager'/18038, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2669.30] died, message: 'Villager burned to death'
-[20:33:07] [Server thread/INFO]: Villager bjq['Villager'/18047, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2670.64] died, message: 'Villager tried to swim in lava'
-[20:33:07] [Server thread/INFO]: Villager bjq['Villager'/18046, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2670.35] died, message: 'Villager tried to swim in lava'
-[20:33:43] [Server thread/INFO]: Villager bjq['Villager'/18045, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2670.04] died, message: 'Villager tried to swim in lava'
-[20:33:43] [Server thread/INFO]: Villager bjq['Villager'/28656, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2670.70] died, message: 'Villager tried to swim in lava'
-[20:33:44] [Server thread/INFO]: Villager bjq['Villager'/24486, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2670.63] died, message: 'Villager tried to swim in lava'
-[20:34:22] [Server thread/INFO]: Villager bjq['Villager'/18037, l='ServerLevel[Cuevas]', x=-3563.70, y=85.25, z=2670.70] died, message: 'Villager tried to swim in lava'
-[20:34:23] [Server thread/INFO]: Villager bjq['Villager'/18033, l='ServerLevel[Cuevas]', x=-3563.30, y=85.13, z=2670.25] died, message: 'Villager tried to swim in lava'
-[20:34:23] [Server thread/INFO]: Villager bjq['Villager'/18031, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2669.30] died, message: 'Villager tried to swim in lava'
-[20:34:23] [Server thread/INFO]: Villager bjq['Villager'/18035, l='ServerLevel[Cuevas]', x=-3563.30, y=85.31, z=2669.92] died, message: 'Villager tried to swim in lava'
-[20:34:50] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:36:30] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[20:36:30] [Server thread/INFO]: diegov_9 left the game
-[20:36:41] [Server thread/INFO]: Stopping the server
-[20:36:41] [Server thread/INFO]: Stopping server
-[20:36:41] [Server thread/INFO]: Saving players
-[20:36:41] [Server thread/INFO]: Saving worlds
-[20:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[20:36:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[20:36:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[20:36:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:36:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:36:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:36:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:59:46] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[16:59:46] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[16:59:46] [main/WARN]: Disabling further attempts to query Paging File.
+[16:59:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:59:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:59:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:59:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:59:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:59:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:59:50] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[16:59:51] [Worker-Main-10/INFO]: Loaded 7 recipes
+[16:59:51] [Worker-Main-10/INFO]: Loaded 1138 advancements
+[16:59:54] [Server thread/INFO]: Starting minecraft server version 1.17
+[16:59:54] [Server thread/INFO]: Loading properties
+[16:59:54] [Server thread/INFO]: Default game type: SURVIVAL
+[16:59:54] [Server thread/INFO]: Generating keypair
+[16:59:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:59:54] [Server thread/INFO]: Using default channel type
+[16:59:55] [Server thread/INFO]: Preparing level "world"
+[16:59:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:59:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[16:59:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[16:59:56] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:59:57] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:59:57] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[17:00:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:00:01] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:00:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:00:01] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[17:00:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:00:01] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:00:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:00:01] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:00:02] [Worker-Main-12/INFO]: Preparing spawn area: 48%
+[17:00:02] [Worker-Main-14/INFO]: Preparing spawn area: 84%
+[17:00:03] [Worker-Main-12/INFO]: Preparing spawn area: 98%
+[17:00:03] [Server thread/INFO]: Time elapsed: 8030 ms
+[17:00:03] [Server thread/INFO]: Done (8.147s)! For help, type "help"
+[17:00:21] [Server thread/INFO]: Stopping the server
+[17:00:21] [Server thread/INFO]: Stopping server
+[17:00:21] [Server thread/INFO]: Saving players
+[17:00:21] [Server thread/INFO]: Saving worlds
+[17:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[17:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:00:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[17:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[17:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
