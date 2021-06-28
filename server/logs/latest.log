@@ -1,267 +1,102 @@
-[17:10:47] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[17:10:47] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[17:10:47] [main/WARN]: Disabling further attempts to query Paging File.
-[17:10:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:10:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:10:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:10:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:10:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:10:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:10:50] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[17:10:50] [Worker-Main-10/INFO]: Loaded 7 recipes
-[17:10:51] [Worker-Main-10/INFO]: Loaded 1138 advancements
-[17:10:52] [Server thread/INFO]: Starting minecraft server version 1.17
-[17:10:52] [Server thread/INFO]: Loading properties
-[17:10:52] [Server thread/INFO]: Default game type: SURVIVAL
-[17:10:52] [Server thread/INFO]: Generating keypair
-[17:10:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:10:52] [Server thread/INFO]: Using default channel type
-[17:10:52] [Server thread/INFO]: Preparing level "world"
-[17:10:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:10:53] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[17:10:53] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[17:10:53] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[17:10:55] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[17:10:55] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[17:10:55] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[17:10:55] [Worker-Main-8/INFO]: Preparing spawn area: 5%
-[17:10:56] [Worker-Main-10/INFO]: Preparing spawn area: 99%
-[17:10:56] [Server thread/INFO]: Time elapsed: 3761 ms
-[17:10:56] [Server thread/INFO]: Done (3.835s)! For help, type "help"
-[17:12:32] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[17:12:32] [Server thread/INFO]: diegov_9[/25.85.248.83:52385] logged in with entity id 86 at (-3639.418295687108, 112.5, 2657.673230275335)
-[17:12:32] [Server thread/INFO]: diegov_9 joined the game
-[17:13:17] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[17:14:49] [User Authenticator #2/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[17:14:49] [Server thread/INFO]: Cartelex[/25.85.49.86:61516] logged in with entity id 803 at (-3557.7785851719436, 80.5, 2709.435626332226)
-[17:14:49] [Server thread/INFO]: Cartelex joined the game
-[17:15:21] [Server thread/INFO]: Cartelex lost connection: Timed out
-[17:15:21] [Server thread/INFO]: Cartelex left the game
-[17:15:30] [User Authenticator #3/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[17:15:30] [Server thread/INFO]: Cartelex[/25.85.49.86:61519] logged in with entity id 1236 at (-3557.7785851719436, 80.5, 2709.435626332226)
-[17:15:30] [Server thread/INFO]: Cartelex joined the game
-[17:16:42] [User Authenticator #4/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
-[17:16:42] [Server thread/INFO]: Ivanchut[/25.95.4.156:55368] logged in with entity id 1868 at (-3342.4773009030823, 69.0, 2593.729411468737)
-[17:16:42] [Server thread/INFO]: Ivanchut joined the game
-[17:17:09] [Server thread/INFO]: <Ivanchut> estais durmiendo?
-[17:17:24] [Server thread/INFO]: <Cartelex> no, un aldeano me ha usurpado la cama
-[17:17:30] [Server thread/INFO]: Villager bjq['Butcher'/267, l='ServerLevel[Cuevas]', x=-3522.30, y=85.00, z=2654.93] died, message: 'Butcher was slain by Cartelex'
-[17:17:32] [Server thread/INFO]: Ivanchut has made the advancement [Monster Hunter]
-[17:17:56] [Server thread/INFO]: <Cartelex> tio que feo queda el generador de aldeanos sus muertos diego
-[17:18:07] [Server thread/INFO]: <Ivanchut> jajajaja
-[17:18:18] [Server thread/INFO]: <Ivanchut> hay que hacerlo en plan casa de la edad media
-[17:18:28] [Server thread/INFO]: <diegov_9> puta carlos
-[17:18:35] [Server thread/INFO]: <Ivanchut> a dormir putos
-[17:18:39] [Server thread/INFO]: <diegov_9> esta guapisimo
-[17:18:44] [Server thread/INFO]: <diegov_9> e
-[17:18:44] [Server thread/INFO]: <Cartelex> me da lag encima
-[17:18:51] [Server thread/INFO]: <diegov_9> mira
-[17:18:54] [Server thread/INFO]: <diegov_9> ven
-[17:19:20] [Server thread/INFO]: <diegov_9> este da pico buenioç
-[17:20:05] [Server thread/INFO]: <diegov_9> me salgo pa el tema de dormir
-[17:20:13] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[17:20:13] [Server thread/INFO]: diegov_9 left the game
-[17:20:17] [Server thread/INFO]: <Ivanchut> venga
-[17:21:02] [Server thread/INFO]: <Cartelex> con lo guapo que me quedaron los caminos estos, y los subnormales construyen la cosa esa fea
-[17:21:15] [Server thread/INFO]: <Ivanchut> que cosa fea? lo de los aldeanos?
-[17:21:17] [Server thread/INFO]: <Cartelex> aro
-[17:21:43] [Server thread/INFO]: <Cartelex> yo hice los caminos estos con farolas
-[17:21:56] [Server thread/INFO]: <Cartelex> aplanando to pa que quedara guapo
-[17:22:08] [Server thread/INFO]: <Ivanchut> los caminos estan guapos
-[17:22:15] [Server thread/INFO]: <Cartelex> donde te vas a hacer la casa?
-[17:22:17] [Server thread/INFO]: <Ivanchut> ahora falta uno pa conectar pa mi casa
-[17:22:31] [Server thread/INFO]: <Ivanchut> en mitad de una explanada
-[17:22:39] [Server thread/INFO]: <Cartelex> arriba de la montaña o abajo
-[17:22:54] [Server thread/INFO]: <Ivanchut> primero abajo
-[17:22:58] [Server thread/INFO]: <Ivanchut> y luego me cambio arriba
-[17:23:05] [Server thread/INFO]: <Cartelex> a ver ven al puente central y me llevas
-[17:23:22] [Server thread/INFO]: <Ivanchut> ve a la casa de ut hermano
-[17:23:49] [Server thread/INFO]: <Cartelex> estoy
-[17:23:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:23:52] [Server thread/INFO]: que te calles hombre<--[HERE]
-[17:24:35] [Server thread/INFO]: <Cartelex> ostia pos si que te has ido lejos
-[17:24:48] [Server thread/INFO]: <Ivanchut> eso con tranvia se llega rapido a tos laos
-[17:25:13] [Server thread/INFO]: <Cartelex> que guapo, voy a transformar mi casa en la montaña a una casa medieval, voy a picar la montaña entera
-[17:25:18] [Server thread/INFO]: [Server] que te calles puto carletes
-[17:25:26] [Server thread/INFO]: <Ivanchut> jajajajaj
-[17:25:29] [Server thread/INFO]: <Cartelex> comeme los cojones diego
-[17:25:30] [Server thread/INFO]: [Server] los aldeanos son necesarios
-[17:25:42] [Server thread/INFO]: <Cartelex> lo de los aldeanos le voy a pegar fuego cuando tenga dinaminta
-[17:25:51] [Server thread/INFO]: <Cartelex> o eso o lo poneis bonico
-[17:26:23] [Server thread/INFO]: <Ivanchut> me salen millones de creeper de debajo de mi casa jajaja
-[17:26:24] [Server thread/INFO]: <Cartelex> que encima esta al lao de mi casa
-[17:29:11] [Server thread/INFO]: [Server] ok se tira hombre
-[17:30:00] [Server thread/INFO]: [Server] por cierto la tienda de tradeos la pusiste tu xd
-[17:30:09] [Server thread/INFO]: <Cartelex> la tienda no esta mal, es el generador
-[17:30:29] [Server thread/INFO]: <Cartelex> la tienda con un par de retoques queda guapa
-[17:30:44] [Server thread/INFO]: <Cartelex> pero el generador con eso de las zanahorias y todo
-[17:30:48] [Server thread/INFO]: <Cartelex> yo que se
-[17:31:02] [Server thread/INFO]: [Server] el generador se puede cerrar
-[17:31:18] [Server thread/INFO]: [Server] hacerlo un continuo de la tienda
-[17:31:57] [Server thread/INFO]: <Ivanchut> a dormi
-[17:32:05] [Server thread/INFO]: <Ivanchut> se hace muy rapido denoche
-[17:32:15] [Server thread/INFO]: <Cartelex> espera ivan que me he liao
-[17:32:21] [Server thread/INFO]: <Ivanchut> deja la hortaliza
-[17:32:31] [Server thread/INFO]: <Cartelex> me cago en to
-[17:33:44] [Server thread/INFO]: <Cartelex> ya he salio voy a domrir
-[17:33:48] [Server thread/INFO]: <Ivanchut> venga
-[17:35:07] [Server thread/WARN]: Cartelex moved too quickly! -10.208490834207623,0.01896437985249122,-0.016197078561162925
-[17:35:48] [Server thread/INFO]: Cartelex has made the advancement [What a Deal!]
-[17:44:59] [Server thread/INFO]: <Ivanchut> dale
-[17:47:24] [Server thread/INFO]: <Cartelex> ivan si vas matando creepers y tienes polvora damela pls
-[17:47:34] [Server thread/INFO]: <Ivanchut> valee
-[17:47:44] [Server thread/INFO]: <Ivanchut> ahora mismo no tengo
-[17:48:00] [Server thread/INFO]: <Cartelex> ok ok, cuando vayas teniendo es pa dinamitar mi montaña
-[17:56:45] [Server thread/INFO]: <Cartelex> ZZZZ
-[17:56:56] [Server thread/INFO]: <Ivanchut> go
-[17:57:50] [Server thread/INFO]: <Cartelex> ivan tengo TNT vente a mi casa si quieres ver el espectaculo
-[17:57:57] [Server thread/INFO]: <Ivanchut> voy xd
-[17:58:58] [Server thread/INFO]: <Cartelex> vente detras
-[17:59:00] [Server thread/INFO]: <Cartelex> xdd
-[17:59:40] [Server thread/INFO]: <Ivanchut> que quieres hacer
-[17:59:42] [Server thread/INFO]: <Cartelex> bua no hacen tanto daño como antes
-[17:59:50] [Server thread/INFO]: <Cartelex> eliminar la montaña
-[17:59:50] [Server thread/INFO]: <Ivanchut> junta varias
-[17:59:59] [Server thread/INFO]: <Cartelex> solo tengo 2
-[18:00:08] [Server thread/INFO]: <Ivanchut> que necesits polvora?
-[18:00:21] [Server thread/INFO]: <Cartelex> creo que lo voy a picar sin mas, aun me queda una espera
-[18:00:30] [Server thread/INFO]: <Ivanchut> si
-[18:01:17] [Server thread/INFO]: <Cartelex> donde esta mi casa, quiero construir otra cas xd
-[18:01:26] [Server thread/INFO]: <Ivanchut> pero medieval o como?
-[18:01:33] [Server thread/INFO]: <Cartelex> claro de estilo medieval
-[18:01:40] [Server thread/INFO]: <Ivanchut> que guapo tio
-[18:01:50] [Server thread/INFO]: <Ivanchut> desde cuando nieva en las cuevas?
-[18:01:57] [Server thread/INFO]: <Cartelex> que nieva?
-[18:02:18] [Server thread/INFO]: <Cartelex> no nieva creo
-[18:02:19] [Server thread/INFO]: <Ivanchut> de la grava cae
-[18:02:29] [Server thread/INFO]: <Cartelex> sera polvo o algo asi
-[18:02:39] [Server thread/INFO]: <Cartelex> las cuevas es que estan mejoradas y ahora hay mil cosas
-[18:02:40] [Server thread/INFO]: <Ivanchut> claro
-[18:04:52] [Server thread/INFO]: <Ivanchut> avisa cuando sea de noche que estoy en una cueva
-[18:04:56] [Server thread/INFO]: <Cartelex> ok
-[18:05:27] [Server thread/INFO]: <Cartelex> si encuentras unas piedras con cristales morados me avisas pls
-[18:05:33] [Server thread/INFO]: <Ivanchut> vale
-[18:05:42] [Server thread/INFO]: <Ivanchut> para que sirve el raw puper
-[18:05:49] [Server thread/INFO]: <Cartelex> no se que es
-[18:05:49] [Server thread/INFO]: <Ivanchut> copper
-[18:05:55] [Server thread/INFO]: <Cartelex> ah cobre
-[18:06:02] [Server thread/INFO]: <Cartelex> cuatro crafteos hay
-[18:06:12] [Server thread/INFO]: <Cartelex> para el pararrayos y poco mas
-[18:07:41] [Server thread/INFO]: <Cartelex> zzzz
-[18:08:08] [Server thread/INFO]: <Ivanchut> lo del pararrayos que ha pasado david esta guapo
-[18:13:36] [Server thread/INFO]: Ivanchut has made the advancement [Take Aim]
-[18:19:26] [Server thread/INFO]: <Cartelex> ZZZ
-[18:19:28] [Server thread/INFO]: <Ivanchut> zzz
-[18:28:06] [Server thread/INFO]: Cartelex drowned
-[18:28:13] [Server thread/INFO]: <Cartelex> xdddd
-[18:28:16] [Server thread/INFO]: <Ivanchut> XDDD
-[18:28:25] [Server thread/INFO]: <Ivanchut> QUE TA PASAO
-[18:30:16] [Server thread/INFO]: <Ivanchut> zzz
-[18:35:39] [Server thread/INFO]: <Cartelex> me he ahogao en mi pecera xd
-[18:35:51] [Server thread/INFO]: <Ivanchut> que dices jajaja
-[18:36:04] [Server thread/INFO]: <Ivanchut> pero no has muerto no?
-[18:36:09] [Server thread/INFO]: <Cartelex> si
-[18:36:13] [Server thread/INFO]: <Cartelex> pero he respawneao
-[18:36:16] [Server thread/INFO]: <Ivanchut> aaaah vale
-[18:41:06] [Server thread/INFO]: <Cartelex> ZZZZ
-[18:41:13] [Server thread/INFO]: <Ivanchut> zz
-[18:51:44] [Server thread/INFO]: <Cartelex> ZZZZ
-[18:57:40] [Server thread/INFO]: <Cartelex> dios ivan
-[18:57:44] [Server thread/INFO]: <Cartelex> pasate por mi cas
-[18:57:44] [Server thread/INFO]: <Ivanchut> eei
-[18:57:52] [Server thread/INFO]: <Ivanchut> vpy
-[18:58:54] [Server thread/INFO]: <Cartelex> xddd
-[18:58:56] [Server thread/INFO]: <Ivanchut> madreee
-[18:59:00] [Server thread/INFO]: <Ivanchut> donde esta el monte
-[18:59:06] [Server thread/INFO]: <Ivanchut> tienes piedra?
-[18:59:10] [Server thread/INFO]: <Cartelex> aqui metio en el cofre
-[18:59:14] [Server thread/INFO]: <Cartelex> esta el monte
-[18:59:19] [Server thread/INFO]: <Cartelex> pilla una poca
-[18:59:31] [Server thread/INFO]: <Ivanchut> que buenos los carteles jajaj
-[18:59:42] [Server thread/INFO]: <Cartelex> aqui auqi
-[18:59:46] [Server thread/INFO]: <Cartelex> pilla
-[18:59:49] [Server thread/INFO]: <Ivanchut> ya
-[18:59:53] [Server thread/INFO]: <Ivanchut> la mia ya tiene los cimientos
-[18:59:53] [Server thread/INFO]: <Cartelex> pero mas
-[19:00:03] [Server thread/INFO]: <Ivanchut> ya ta
-[19:00:07] [Server thread/INFO]: <Cartelex> mira este
-[19:00:14] [Server thread/INFO]: <Ivanchut> lol
-[19:00:18] [Server thread/INFO]: <Ivanchut> no tienes ahi ni na
-[19:00:26] [Server thread/INFO]: <Cartelex> mientras me dejes 3 o 4 stacks el resto los puedes usar
-[19:00:36] [Server thread/INFO]: <Ivanchut> los iré cogiendo poco a poco
-[19:01:43] [Server thread/INFO]: <Cartelex> illo que guapaa tu casa
-[19:01:52] [Server thread/INFO]: <Ivanchut> no ta mal
-[19:01:57] [Server thread/INFO]: <Ivanchut> poco apoco
-[19:02:08] [Server thread/INFO]: <Cartelex> yo me voy a salir ya, luego otro dia construire la casa
-[19:02:11] [Server thread/INFO]: <Cartelex> nos vemo
-[19:02:14] [Server thread/INFO]: <Ivanchut> venga tioo
-[19:02:17] [Server thread/INFO]: <Ivanchut> no vemo
-[19:02:48] [Server thread/INFO]: Cartelex lost connection: Disconnected
-[19:02:48] [Server thread/INFO]: Cartelex left the game
-[19:08:33] [Server thread/INFO]: Ivanchut has made the advancement [Acquire Hardware]
-[19:15:09] [Server thread/INFO]: [Server] entra discord ivan
-[19:15:23] [Server thread/INFO]: Ivanchut has made the advancement [A Seedy Place]
-[19:15:36] [User Authenticator #5/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[19:15:36] [Server thread/INFO]: diegov_9[/25.85.248.83:64249] logged in with entity id 39322 at (-3638.8732758437195, 112.5, 2656.6013927962385)
-[19:15:36] [Server thread/INFO]: diegov_9 joined the game
-[19:25:41] [Server thread/INFO]: Villager bjq['Villager'/40101, l='ServerLevel[Cuevas]', x=-3563.30, y=85.03, z=2671.70] died, message: 'Villager tried to swim in lava'
-[19:25:41] [Server thread/INFO]: Villager bjq['Villager'/40102, l='ServerLevel[Cuevas]', x=-3563.30, y=85.05, z=2671.70] died, message: 'Villager tried to swim in lava'
-[19:25:41] [Server thread/INFO]: Villager bjq['Villager'/40108, l='ServerLevel[Cuevas]', x=-3563.30, y=85.05, z=2671.57] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40097, l='ServerLevel[Cuevas]', x=-3563.30, y=85.39, z=2670.24] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40098, l='ServerLevel[Cuevas]', x=-3563.30, y=85.34, z=2670.70] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40104, l='ServerLevel[Cuevas]', x=-3563.30, y=85.32, z=2670.70] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40110, l='ServerLevel[Cuevas]', x=-3563.70, y=85.17, z=2669.61] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40111, l='ServerLevel[Cuevas]', x=-3563.85, y=85.31, z=2670.08] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40103, l='ServerLevel[Cuevas]', x=-3563.30, y=85.41, z=2670.70] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40100, l='ServerLevel[Cuevas]', x=-3563.30, y=85.39, z=2670.70] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40093, l='ServerLevel[Cuevas]', x=-3563.70, y=85.23, z=2670.70] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40095, l='ServerLevel[Cuevas]', x=-3563.30, y=85.41, z=2670.70] died, message: 'Villager tried to swim in lava'
-[19:25:42] [Server thread/INFO]: Villager bjq['Villager'/40105, l='ServerLevel[Cuevas]', x=-3563.30, y=85.42, z=2670.26] died, message: 'Villager tried to swim in lava'
-[19:25:43] [Server thread/INFO]: Villager bjq['Villager'/40106, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2669.30] died, message: 'Villager tried to swim in lava'
-[19:25:44] [Server thread/INFO]: Villager bjq['Villager'/40090, l='ServerLevel[Cuevas]', x=-3563.30, y=85.40, z=2670.70] died, message: 'Villager tried to swim in lava'
-[19:25:44] [Server thread/INFO]: Villager bjq['Villager'/40096, l='ServerLevel[Cuevas]', x=-3563.31, y=85.01, z=2670.70] died, message: 'Villager tried to swim in lava'
-[19:25:44] [Server thread/INFO]: Villager bjq['Villager'/40091, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2669.30] died, message: 'Villager tried to swim in lava'
-[19:25:44] [Server thread/INFO]: Villager bjq['Villager'/40109, l='ServerLevel[Cuevas]', x=-3563.30, y=85.32, z=2669.98] died, message: 'Villager tried to swim in lava'
-[19:25:44] [Server thread/INFO]: Villager bjq['Villager'/40088, l='ServerLevel[Cuevas]', x=-3563.30, y=85.00, z=2669.30] died, message: 'Villager tried to swim in lava'
-[19:25:44] [Server thread/INFO]: Villager bjq['Villager'/40099, l='ServerLevel[Cuevas]', x=-3563.41, y=85.13, z=2669.89] died, message: 'Villager tried to swim in lava'
-[19:25:44] [Server thread/INFO]: Villager bjq['Villager'/40089, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2669.41] died, message: 'Villager tried to swim in lava'
-[19:25:44] [Server thread/INFO]: Villager bjq['Villager'/40107, l='ServerLevel[Cuevas]', x=-3563.70, y=85.00, z=2669.30] died, message: 'Villager tried to swim in lava'
-[19:33:14] [Server thread/INFO]: Villager bjq['Villager'/47271, l='ServerLevel[Cuevas]', x=-3563.20, y=85.20, z=2670.06] died, message: 'Villager tried to swim in lava'
-[19:33:38] [Server thread/INFO]: Villager bjq['Villager'/47453, l='ServerLevel[Cuevas]', x=-3556.86, y=84.94, z=2694.54] died, message: 'Villager was slain by diegov_9'
-[19:37:05] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[19:40:41] [Server thread/INFO]: Villager bjq['Villager'/48003, l='ServerLevel[Cuevas]', x=-3567.30, y=81.00, z=2698.50] died, message: 'Villager tried to swim in lava'
-[19:42:51] [Server thread/INFO]: Ivanchut has made the advancement [Getting an Upgrade]
-[19:43:27] [Server thread/INFO]: Villager bjq['Farmer'/40084, l='ServerLevel[Cuevas]', x=-3563.50, y=89.00, z=2668.70] died, message: 'Farmer was slain by diegov_9'
-[19:43:30] [Server thread/INFO]: Villager bjq['Farmer'/40083, l='ServerLevel[Cuevas]', x=-3560.39, y=88.94, z=2666.94] died, message: 'Farmer was slain by diegov_9'
-[19:52:14] [Server thread/INFO]: Villager bjq['Villager'/52597, l='ServerLevel[Cuevas]', x=-3566.99, y=81.00, z=2695.22] died, message: 'Villager was slain by diegov_9'
-[19:52:18] [Server thread/INFO]: Villager bjq['Villager'/52587, l='ServerLevel[Cuevas]', x=-3566.45, y=85.00, z=2682.02] died, message: 'Villager burned to death'
-[19:52:18] [Server thread/INFO]: Villager bjq['Villager'/50906, l='ServerLevel[Cuevas]', x=-3568.08, y=82.25, z=2678.35] died, message: 'Villager was burnt to a crisp whilst fighting diegov_9'
-[19:53:35] [Server thread/INFO]: Villager bjq['Villager'/52590, l='ServerLevel[Cuevas]', x=-3568.49, y=81.06, z=2697.50] died, message: 'Villager was slain by diegov_9'
-[19:53:54] [Server thread/INFO]: Villager bjq['Villager'/52589, l='ServerLevel[Cuevas]', x=-3567.21, y=81.00, z=2698.49] died, message: 'Villager was slain by diegov_9'
-[19:55:19] [Server thread/INFO]: Villager bjq['Villager'/52583, l='ServerLevel[Cuevas]', x=-3570.44, y=81.00, z=2695.26] died, message: 'Villager was slain by Ivanchut'
-[19:55:39] [Server thread/INFO]: Villager bjq['Villager'/52598, l='ServerLevel[Cuevas]', x=-3570.85, y=87.00, z=2685.85] died, message: 'Villager was slain by diegov_9'
-[19:55:42] [Server thread/INFO]: Villager bjq['Villager'/52602, l='ServerLevel[Cuevas]', x=-3563.39, y=85.00, z=2683.74] died, message: 'Villager was slain by diegov_9'
-[19:55:44] [Server thread/INFO]: Villager bjq['Villager'/52593, l='ServerLevel[Cuevas]', x=-3568.15, y=85.00, z=2681.31] died, message: 'Villager was slain by diegov_9'
-[19:56:30] [Server thread/INFO]: Villager bjq['Villager'/53228, l='ServerLevel[Cuevas]', x=-3570.57, y=81.00, z=2695.81] died, message: 'Villager was slain by diegov_9'
-[19:56:45] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[19:57:30] [Server thread/INFO]: Villager bjq['Villager'/52595, l='ServerLevel[Cuevas]', x=-3565.97, y=80.00, z=2655.65] died, message: 'Villager was slain by diegov_9'
-[19:58:22] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[19:58:44] [Server thread/INFO]: Villager bjq['Villager'/52596, l='ServerLevel[Cuevas]', x=-3555.51, y=84.00, z=2685.64] died, message: 'Villager was burnt to a crisp whilst fighting diegov_9'
-[19:58:54] [Server thread/INFO]: Villager bjq['Villager'/52601, l='ServerLevel[Cuevas]', x=-3533.51, y=75.00, z=2678.69] died, message: 'Villager was burnt to a crisp whilst fighting diegov_9'
-[20:00:40] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[20:00:40] [Server thread/INFO]: Ivanchut left the game
-[20:00:42] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[20:00:42] [Server thread/INFO]: diegov_9 left the game
-[20:00:56] [Server thread/INFO]: Stopping the server
-[20:00:56] [Server thread/INFO]: Stopping server
-[20:00:56] [Server thread/INFO]: Saving players
-[20:00:56] [Server thread/INFO]: Saving worlds
-[20:00:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[20:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:00:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[20:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:00:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[20:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:00:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:18:46] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[14:18:46] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[14:18:46] [main/WARN]: Disabling further attempts to query Paging File.
+[14:18:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:18:57] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[14:18:58] [Worker-Main-11/INFO]: Loaded 7 recipes
+[14:18:58] [Worker-Main-11/INFO]: Loaded 1138 advancements
+[14:19:01] [Server thread/INFO]: Starting minecraft server version 1.17
+[14:19:01] [Server thread/INFO]: Loading properties
+[14:19:01] [Server thread/INFO]: Default game type: SURVIVAL
+[14:19:01] [Server thread/INFO]: Generating keypair
+[14:19:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:19:01] [Server thread/INFO]: Using default channel type
+[14:19:02] [Server thread/INFO]: Preparing level "world"
+[14:19:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:19:03] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:19:03] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:19:03] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:19:04] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:19:04] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[14:19:08] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[14:19:08] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[14:19:08] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 32%
+[14:19:09] [Worker-Main-9/INFO]: Preparing spawn area: 90%
+[14:19:09] [Worker-Main-14/INFO]: Preparing spawn area: 99%
+[14:19:09] [Server thread/INFO]: Time elapsed: 7100 ms
+[14:19:09] [Server thread/INFO]: Done (7.235s)! For help, type "help"
+[14:20:37] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[14:20:37] [Server thread/INFO]: Davavico[/127.0.0.1:51433] logged in with entity id 84 at (-3584.300000011921, 64.0, 2658.390928490246)
+[14:20:37] [Server thread/INFO]: Davavico joined the game
+[14:28:52] [User Authenticator #2/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
+[14:28:52] [Server thread/INFO]: Ivanchut[/25.95.4.156:54451] logged in with entity id 2613 at (-3458.303418056792, 69.0, 2612.4109096754823)
+[14:28:52] [Server thread/INFO]: Ivanchut joined the game
+[14:37:56] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[14:39:12] [Server thread/INFO]: Villager bjq['Villager'/6815, l='ServerLevel[Cuevas]', x=-3565.70, y=81.00, z=2698.20] died, message: 'Villager suffocated in a wall'
+[14:51:27] [Server thread/INFO]: Ivanchut has made the advancement [The Parrots and the Bats]
+[15:32:29] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[15:39:40] [Server thread/INFO]: Davavico drowned
+[15:52:17] [User Authenticator #3/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[15:52:18] [Server thread/INFO]: diegov_9[/25.85.248.83:56246] logged in with entity id 33365 at (-3471.536568726613, 81.0, 2606.4453255036888)
+[15:52:18] [Server thread/INFO]: diegov_9 joined the game
+[15:54:38] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[15:55:41] [Server thread/INFO]: Ivanchut has made the advancement [We Need to Go Deeper]
+[16:00:23] [Server thread/INFO]: Ivanchut lost connection: Disconnected
+[16:00:23] [Server thread/INFO]: Ivanchut left the game
+[16:02:30] [Server thread/INFO]: Davavico lost connection: Disconnected
+[16:02:30] [Server thread/INFO]: Davavico left the game
+[16:09:40] [Server thread/INFO]: diegov_9 has made the advancement [A Terrible Fortress]
+[16:14:14] [Server thread/INFO]: diegov_9 has made the advancement [Surge Protector]
+[16:19:24] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[16:19:33] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:38:46] [Server thread/INFO]: Villager bjq['Villager'/40611, l='ServerLevel[Cuevas]', x=-3559.43, y=80.00, z=2655.49] died, message: 'Villager suffocated in a wall'
+[16:43:31] [Server thread/INFO]: Villager bjq['Librarian'/40602, l='ServerLevel[Cuevas]', x=-3560.30, y=80.00, z=2659.35] died, message: 'Librarian was slain by diegov_9'
+[16:46:06] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[16:46:20] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40607, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40608, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40612, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40613, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40616, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40618, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40619, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40620, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40621, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40622, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40623, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/45372, l='ServerLevel[Cuevas]', x=-3566.85, y=81.00, z=2698.15] died, message: 'Villager burned to death'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40606, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40617, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40914, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:54:19] [Server thread/INFO]: Villager bjq['Villager'/47686, l='ServerLevel[Cuevas]', x=-3566.85, y=81.26, z=2698.51] died, message: 'Villager tried to swim in lava'
+[16:55:52] [Server thread/INFO]: Villager bjq['Librarian'/40596, l='ServerLevel[Cuevas]', x=-3567.70, y=80.00, z=2665.32] died, message: 'Librarian was slain by diegov_9'
+[17:09:16] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:09:45] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:27:34] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:27:57] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:29:15] [Server thread/WARN]: diegov_9 moved too quickly! 5.521101184654981,-0.756759288177264,8.746617310809597
+[17:32:08] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[17:32:08] [Server thread/INFO]: diegov_9 left the game
+[18:48:49] [Server thread/INFO]: Stopping the server
+[18:48:49] [Server thread/INFO]: Stopping server
+[18:48:49] [Server thread/INFO]: Saving players
+[18:48:49] [Server thread/INFO]: Saving worlds
+[18:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[18:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[18:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[18:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
