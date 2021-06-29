@@ -649,9 +649,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2021-06-29 19:19:09 +0200",
       "minecraft:skeleton": "2021-06-15 20:52:16 +0200",
       "minecraft:magma_cube": "2021-06-19 19:05:07 +0200",
       "minecraft:spider": "2021-06-15 20:48:05 +0200",
+      "minecraft:creeper": "2021-06-29 20:01:59 +0200",
+      "minecraft:wither_skeleton": "2021-06-29 19:25:39 +0200",
       "minecraft:enderman": "2021-06-14 20:18:48 +0200",
       "minecraft:zombie": "2021-06-14 20:18:28 +0200",
       "minecraft:drowned": "2021-06-17 20:53:55 +0200"
@@ -868,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-06-29 19:19:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2021-06-27 14:15:59 +0200"
@@ -931,6 +940,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2021-06-18 21:44:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2021-06-29 21:34:38 +0200"
     },
     "done": true
   },
@@ -1862,6 +1877,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-06-29 21:35:48 +0200",
       "honey_bottle": "2021-06-20 11:21:05 +0200",
       "cooked_mutton": "2021-06-14 19:40:53 +0200",
       "cooked_beef": "2021-06-15 21:00:34 +0200",
@@ -2339,6 +2355,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2021-06-29 19:13:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2021-06-15 21:26:22 +0200"
@@ -2789,6 +2811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-06-29 19:19:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-06-19 18:25:08 +0200"
@@ -2813,6 +2841,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-06-29 19:19:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2021-06-15 21:07:09 +0200"
@@ -2834,6 +2868,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2021-06-19 18:25:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2021-06-29 21:34:38 +0200"
     },
     "done": true
   },

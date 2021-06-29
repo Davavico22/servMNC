@@ -1,147 +1,233 @@
-[13:11:08] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[13:11:08] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[13:11:08] [main/WARN]: Disabling further attempts to query Paging File.
-[13:11:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:11:18] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[13:11:19] [Worker-Main-10/INFO]: Loaded 7 recipes
-[13:11:20] [Worker-Main-10/INFO]: Loaded 1138 advancements
-[13:11:23] [Server thread/INFO]: Starting minecraft server version 1.17
-[13:11:23] [Server thread/INFO]: Loading properties
-[13:11:23] [Server thread/INFO]: Default game type: SURVIVAL
-[13:11:23] [Server thread/INFO]: Generating keypair
-[13:11:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:11:23] [Server thread/INFO]: Using default channel type
-[13:11:23] [Server thread/INFO]: Preparing level "world"
-[13:11:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:11:24] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[13:11:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[13:11:24] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[13:11:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[13:11:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[13:11:29] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[13:11:29] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[13:11:29] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[13:11:29] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[13:11:29] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[13:11:29] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[13:11:29] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[13:11:29] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[13:11:30] [Worker-Main-14/INFO]: Preparing spawn area: 47%
-[13:11:30] [Worker-Main-13/INFO]: Preparing spawn area: 96%
-[13:11:31] [Worker-Main-11/INFO]: Preparing spawn area: 99%
-[13:11:31] [Server thread/INFO]: Time elapsed: 7723 ms
-[13:11:31] [Server thread/INFO]: Done (7.869s)! For help, type "help"
-[13:12:48] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[13:12:48] [Server thread/INFO]: Davavico[/127.0.0.1:64428] logged in with entity id 84 at (-3558.805143518808, 59.0, 2815.775332693361)
-[13:12:48] [Server thread/INFO]: Davavico joined the game
-[13:13:16] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[13:15:27] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.27803977930489054
-[13:15:27] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.2680767681267753
-[13:15:27] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.2533925957613974
-[13:15:28] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.41026349149478847
-[13:15:28] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3937571494443546
-[13:15:28] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.37720243935382314
-[13:15:28] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3608160665289688
-[13:15:29] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.34445189107646
-[13:15:29] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.2772033200685655
-[13:17:11] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.37237382326838997
-[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.4311101639068511
-[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.4161252710255212
-[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.40016602015293756
-[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.33459928330648836
-[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.2682793886910986
-[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.251695776800716
-[13:23:05] [Server thread/INFO]: Davavico has made the advancement [Surge Protector]
-[13:23:54] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[13:24:52] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[13:25:05] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[13:42:52] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[14:01:23] [User Authenticator #2/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[14:01:23] [Server thread/INFO]: Cartelex[/25.85.49.86:55562] logged in with entity id 9599 at (-3515.321867543553, 79.0, 2675.335876495299)
-[14:01:23] [Server thread/INFO]: Cartelex joined the game
-[14:02:31] [Server thread/INFO]: <Davavico> HOLA
-[14:02:40] [Server thread/INFO]: <Cartelex> pa ti mi cola
-[14:10:21] [Server thread/INFO]: <Cartelex> que ases
-[14:10:28] [Server thread/INFO]: <Davavico> miu casa
-[14:10:34] [Server thread/INFO]: <Cartelex> am
-[14:10:39] [Server thread/INFO]: <Cartelex> neesitas sacar tierra?
-[14:10:49] [Server thread/INFO]: <Davavico> nop
-[14:11:30] [Server thread/INFO]: <Cartelex> ok es que necesito mucha tierra, voy a cavar
-[14:11:50] [Server thread/INFO]: <Davavico> si necesitas luego cristal hay en el horno grande
-[14:12:25] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[14:13:42] [Server thread/INFO]: <Davavico> Como se pilla a un pez?
-[14:13:55] [Server thread/INFO]: <Davavico> Que tengo otra pecera
-[14:14:20] [Server thread/INFO]: <Cartelex> con un cubo
-[14:14:25] [Server thread/INFO]: <Cartelex> de agua
-[14:15:17] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[14:15:24] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[14:16:00] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3436, y=72, z=2635} gg{x=-3438, y=71, z=2636}
-[14:16:38] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[14:16:40] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[14:18:10] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3435, y=72, z=2624} gg{x=-3436, y=71, z=2624}
-[14:18:12] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3439, y=72, z=2622} gg{x=-3438, y=71, z=2621}
-[14:18:14] [Server thread/INFO]: Davavico has made the advancement [Tactical Fishing]
-[14:18:25] [Server thread/INFO]: <Cartelex> madre mia y encima tactica
-[14:18:38] [Server thread/INFO]: <Davavico> hahaha
-[14:22:10] [Server thread/INFO]: <Cartelex> ZZZZZ
-[14:22:14] [Server thread/INFO]: <Davavico> voy
-[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.4200758320971545
-[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.38297861238288533
-[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3507782369006236
-[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3318379404540792
-[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.316284549699958
-[14:26:05] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.45530872381777954
-[14:26:05] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3883281891817205
-[14:30:22] [Server thread/INFO]: <Cartelex> hola?
-[14:30:26] [Server thread/INFO]: <Davavico> hola
-[14:30:33] [Server thread/INFO]: <Cartelex> ah vale que me habia dado un lagazo
-[14:33:29] [Server thread/INFO]: <Davavico> toma
-[14:33:39] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[14:33:41] [Server thread/INFO]: <Cartelex> duermee
-[14:33:54] [Server thread/INFO]: <Cartelex> que me has dado?
-[14:33:58] [Server thread/INFO]: <Davavico> tierra ajajj
-[14:34:05] [Server thread/INFO]: <Cartelex> ah vale es que tengo tanta que no la habia visto xd
-[14:36:16] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[14:36:22] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[14:36:41] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[14:36:46] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[14:43:48] [Server thread/INFO]: <Davavico> TZZZZZZZ
-[14:48:19] [Server thread/WARN]: Cartelex moved too quickly! 7.896824460802236,1.7967356006687112,-6.204181935202541
-[14:52:13] [Server thread/INFO]: Cartelex lost connection: Timed out
-[14:52:13] [Server thread/INFO]: Cartelex left the game
-[14:52:27] [User Authenticator #3/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[14:52:28] [Server thread/INFO]: Cartelex[/25.85.49.86:55695] logged in with entity id 25521 at (-3514.5600437382495, 80.0, 2664.684822426214)
-[14:52:28] [Server thread/INFO]: Cartelex joined the game
-[14:52:38] [Server thread/INFO]: <Cartelex> me se cayo
-[14:55:04] [Server thread/INFO]: Cartelex lost connection: Timed out
-[14:55:04] [Server thread/INFO]: Cartelex left the game
-[14:55:49] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
-[14:55:49] [Server thread/INFO]: Cartelex[/25.85.49.86:55716] logged in with entity id 26257 at (-3517.5, 79.0, 2675.5)
-[14:55:49] [Server thread/INFO]: Cartelex joined the game
-[14:56:09] [Server thread/INFO]: <Cartelex> duerme
-[14:57:38] [Server thread/WARN]: Cartelex moved too quickly! -9.885630720925292,-0.756759288177264,2.3125765777272136
-[15:00:19] [Server thread/WARN]: Cartelex moved too quickly! -10.097281385241786,-0.604424101326714,-0.2001765648556102
-[15:02:49] [Server thread/INFO]: Cartelex lost connection: Timed out
-[15:02:49] [Server thread/INFO]: Cartelex left the game
-[15:23:14] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[15:30:30] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[15:30:41] [Server thread/INFO]: Davavico lost connection: Disconnected
-[15:30:41] [Server thread/INFO]: Davavico left the game
-[15:30:52] [Server thread/INFO]: Stopping the server
-[15:30:52] [Server thread/INFO]: Stopping server
-[15:30:52] [Server thread/INFO]: Saving players
-[15:30:52] [Server thread/INFO]: Saving worlds
-[15:30:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:30:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:30:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:04:37] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[19:04:37] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[19:04:37] [main/WARN]: Disabling further attempts to query Paging File.
+[19:04:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:04:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:04:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:04:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:04:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:04:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:04:44] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[19:04:44] [Worker-Main-10/INFO]: Loaded 7 recipes
+[19:04:45] [Worker-Main-10/INFO]: Loaded 1138 advancements
+[19:04:46] [Server thread/INFO]: Starting minecraft server version 1.17
+[19:04:46] [Server thread/INFO]: Loading properties
+[19:04:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:46] [Server thread/INFO]: Generating keypair
+[19:04:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:04:46] [Server thread/INFO]: Using default channel type
+[19:04:46] [Server thread/INFO]: Preparing level "world"
+[19:04:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:04:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:04:48] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:04:48] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:04:48] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:04:48] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:04:49] [Worker-Main-13/INFO]: Preparing spawn area: 45%
+[19:04:49] [Worker-Main-12/INFO]: Preparing spawn area: 99%
+[19:04:50] [Server thread/INFO]: Time elapsed: 3410 ms
+[19:04:50] [Server thread/INFO]: Done (3.475s)! For help, type "help"
+[19:06:07] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[19:06:07] [Server thread/INFO]: diegov_9[/25.85.248.83:52683] logged in with entity id 85 at (-3563.371197675268, 80.5, 2711.6891145797185)
+[19:06:07] [Server thread/INFO]: diegov_9 joined the game
+[19:13:56] [Server thread/INFO]: diegov_9 has made the advancement [Bee Our Guest]
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2402, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2403, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2405, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2406, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2407, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2408, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2409, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2410, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2411, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2412, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2414, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2415, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2416, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2417, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2418, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2419, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2420, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2421, l='ServerLevel[Cuevas]', x=-3566.85, y=81.00, z=2698.15] died, message: 'Villager burned to death'
+[19:16:44] [Server thread/INFO]: Villager bjq['Villager'/2665, l='ServerLevel[Cuevas]', x=-3566.85, y=81.00, z=2698.15] died, message: 'Villager burned to death'
+[19:16:45] [Server thread/INFO]: Villager bjq['Villager'/2404, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.70] died, message: 'Villager burned to death'
+[19:16:45] [Server thread/INFO]: Villager bjq['Villager'/2413, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
+[19:19:11] [Server thread/INFO]: diegov_9 has made the advancement [Into Fire]
+[19:23:33] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[19:25:57] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[19:28:48] [User Authenticator #2/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:28:48] [Server thread/INFO]: Cartelex[/25.85.49.86:60693] logged in with entity id 6026 at (-3515.137948253322, 80.0, 2644.6979769011346)
+[19:28:48] [Server thread/INFO]: Cartelex joined the game
+[19:28:57] [Server thread/INFO]: <diegov_9> eee cortao
+[19:29:18] [Server thread/INFO]: Cartelex lost connection: Timed out
+[19:29:18] [Server thread/INFO]: Cartelex left the game
+[19:29:27] [User Authenticator #3/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:29:27] [Server thread/INFO]: Cartelex[/25.85.49.86:60699] logged in with entity id 6220 at (-3515.137948253322, 80.0, 2644.6979769011346)
+[19:29:27] [Server thread/INFO]: Cartelex joined the game
+[19:29:47] [Server thread/INFO]: Cartelex lost connection: Timed out
+[19:29:47] [Server thread/INFO]: Cartelex left the game
+[19:29:59] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:29:59] [Server thread/INFO]: Cartelex[/25.85.49.86:60712] logged in with entity id 6397 at (-3515.137948253322, 80.0, 2644.6979769011346)
+[19:29:59] [Server thread/INFO]: Cartelex joined the game
+[19:30:41] [Server thread/INFO]: <Cartelex> eee feo luis
+[19:31:07] [Server thread/INFO]: <diegov_9> eeee mostri
+[19:31:54] [Server thread/INFO]: <diegov_9> casi la palmo dos o tres veces
+[19:32:00] [Server thread/INFO]: <diegov_9> eso es una locura
+[19:32:10] [Server thread/INFO]: <diegov_9> hay 3 respawn de blazes
+[19:32:48] [Server thread/INFO]: <diegov_9> voy a hacer la cabaña del druida en lo alto pa las pociones
+[19:33:02] [Server thread/INFO]: <Cartelex> hay que hacer biblioteca pa ir encantando
+[19:33:13] [Server thread/INFO]: <diegov_9> has visto la tienda¿
+[19:33:23] [Server thread/INFO]: <Cartelex> puedes desencantar las armadauras que vende el manco del aldeano ese, y usarlas pa ponerle lo que tu quieras
+[19:33:42] [Server thread/INFO]: <diegov_9> hay que pillar aldenaos con libro bueno
+[19:33:53] [Server thread/INFO]: <diegov_9> proteccion 4 y demas
+[19:35:47] [Server thread/INFO]: Cartelex lost connection: Timed out
+[19:35:47] [Server thread/INFO]: Cartelex left the game
+[19:37:59] [User Authenticator #5/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:37:59] [Server thread/INFO]: Cartelex[/25.85.49.86:63975] logged in with entity id 7948 at (-3518.803266831442, 80.0, 2648.125671751401)
+[19:37:59] [Server thread/INFO]: Cartelex joined the game
+[19:39:52] [Server thread/INFO]: Cartelex lost connection: Timed out
+[19:39:52] [Server thread/INFO]: Cartelex left the game
+[19:40:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@bb99d72[id=<null>,name=Cartelex,properties={},legacy=false] (/25.85.49.86:56641) lost connection: Disconnected
+[19:47:06] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[19:50:17] [User Authenticator #6/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:50:18] [Server thread/INFO]: Cartelex[/25.85.49.86:54595] logged in with entity id 10823 at (-3515.7026729763284, 79.875, 2678.118272692397)
+[19:50:18] [Server thread/INFO]: Cartelex joined the game
+[19:50:53] [Server thread/INFO]: Cartelex lost connection: Timed out
+[19:50:53] [Server thread/INFO]: Cartelex left the game
+[19:51:03] [User Authenticator #7/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:51:03] [Server thread/INFO]: Cartelex[/25.85.49.86:54598] logged in with entity id 10995 at (-3515.7026729763284, 79.875, 2678.118272692397)
+[19:51:03] [Server thread/INFO]: Cartelex joined the game
+[19:51:33] [Server thread/INFO]: Cartelex lost connection: Timed out
+[19:51:33] [Server thread/INFO]: Cartelex left the game
+[19:51:41] [User Authenticator #8/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:51:41] [Server thread/INFO]: Cartelex[/25.85.49.86:54602] logged in with entity id 11165 at (-3515.7026729763284, 79.875, 2678.118272692397)
+[19:51:41] [Server thread/INFO]: Cartelex joined the game
+[19:52:13] [Server thread/INFO]: Cartelex lost connection: Timed out
+[19:52:13] [Server thread/INFO]: Cartelex left the game
+[19:52:23] [User Authenticator #9/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[19:52:23] [Server thread/INFO]: Cartelex[/25.85.49.86:54607] logged in with entity id 11402 at (-3515.7026729763284, 79.875, 2678.118272692397)
+[19:52:23] [Server thread/INFO]: Cartelex joined the game
+[19:55:33] [Server thread/INFO]: <diegov_9> has pillao caña¿
+[19:55:42] [Server thread/INFO]: <Cartelex> seria lo suyisimo un aldeano que comprara huevos
+[19:55:43] [Server thread/INFO]: <Cartelex> si
+[19:55:59] [Server thread/INFO]: <diegov_9> vava esque digo lleva un rataco y ha saxcao pòllas
+[20:00:05] [Server thread/WARN]: Cartelex moved too quickly! -9.470492348746575,3.249187078744683,0.054837332043462084
+[20:00:22] [Server thread/INFO]: <Cartelex> puedes dormir? tengo a toda la compañia en mi casa xd
+[20:00:32] [Server thread/INFO]: <Cartelex> me haria 0 gracia que explotase un creeper
+[20:00:32] [Server thread/INFO]: <diegov_9> vo
+[20:00:40] [Server thread/WARN]: Cartelex moved too quickly! 2.625740806460726,0.0,-9.805717620422456
+[20:00:57] [Server thread/INFO]: <diegov_9> zZzZ
+[20:01:31] [Server thread/INFO]: <Cartelex> joder
+[20:01:31] [Server thread/INFO]: <Cartelex> puto lag coño
+[20:07:15] [Server thread/WARN]: Cartelex moved too quickly! -1.3209698488039976,-1.8378585789729982,-9.783172314552758
+[20:11:09] [Server thread/INFO]: <Cartelex> duerme ahora
+[20:11:18] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[20:11:31] [Server thread/WARN]: Cartelex moved too quickly! 7.073852058147622,0.42355929454303975,-7.201522309783286
+[20:20:45] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[20:28:45] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:29:57] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:30:03] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[20:37:49] [Server thread/INFO]: <Cartelex> tinte negro tienes?
+[20:37:54] [Server thread/INFO]: <diegov_9> no
+[20:37:57] [Server thread/INFO]: <diegov_9> mira tu bro
+[20:39:26] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[20:39:29] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:40:06] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:43:52] [Server thread/INFO]: <diegov_9> voy a ducharme
+[20:43:56] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:44:01] [Server thread/INFO]: <Cartelex> ok dejalo un ratillo abierto pls
+[20:44:07] [Server thread/INFO]: <diegov_9> si si me salgo pa dormir
+[20:44:56] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[20:44:56] [Server thread/INFO]: diegov_9 left the game
+[20:57:10] [User Authenticator #10/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[20:57:10] [Server thread/INFO]: diegov_9[/25.85.248.83:57362] logged in with entity id 30724 at (-3593.272222697754, 107.0, 2720.9424116994583)
+[20:57:10] [Server thread/INFO]: diegov_9 joined the game
+[20:57:14] [Server thread/INFO]: <diegov_9> im back
+[20:57:27] [Server thread/INFO]: <Cartelex> aqui sigo
+[20:57:50] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:00:15] [Server thread/INFO]: <Cartelex> haz de dia
+[21:00:21] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[21:09:33] [Server thread/INFO]: <Cartelex> dia
+[21:09:36] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[21:11:36] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:12:32] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:17:55] [Server thread/INFO]: <Cartelex> vaya fumada de tejado estoy haciendo chaval
+[21:18:01] [Server thread/INFO]: <diegov_9> xd
+[21:18:08] [Server thread/INFO]: <diegov_9> ahora me acerco
+[21:18:26] [Server thread/INFO]: <diegov_9> voy a fundir piedra que me han tenio que coger estos ladrillos
+[21:18:27] [Server thread/INFO]: <diegov_9> xd
+[21:18:49] [Server thread/INFO]: <Cartelex> dia
+[21:18:57] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[21:20:31] [Server thread/INFO]: <diegov_9> no tendras enredaderas o algo asi
+[21:20:39] [Server thread/INFO]: <Cartelex> no mi hermano tenia
+[21:20:42] [Server thread/INFO]: <Cartelex> en la salida al mar
+[21:20:44] [Server thread/INFO]: <Cartelex> cortale
+[21:27:13] [Server thread/INFO]: <Cartelex> ven y lo ves que me voy a salir ya
+[21:27:30] [Server thread/INFO]: <diegov_9> voy
+[21:27:32] [Server thread/INFO]: <Cartelex> le falta un poco pa terminarlo pero ya se ve cual va a ser el resultado
+[21:27:57] [Server thread/INFO]: <diegov_9> la casa comunal
+[21:28:25] [Server thread/INFO]: <diegov_9> los picos de arriba quiedan guapos
+[21:28:29] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[21:28:36] [Server thread/INFO]: <Cartelex> has visto? de locos, que panza de picar madera
+[21:28:48] [Server thread/INFO]: <diegov_9> si si
+[21:29:02] [Server thread/INFO]: <Cartelex> ya en otro rato la termino por fuera
+[21:29:11] [Server thread/INFO]: <diegov_9> yo aquello lo mismo
+[21:29:17] [Server thread/INFO]: <diegov_9> en otro rato
+[21:29:26] [Server thread/INFO]: <Cartelex> a verlo
+[21:29:48] [Server thread/INFO]: <Cartelex> este cristal donde lo has pillao?
+[21:29:59] [Server thread/INFO]: <diegov_9> eso lo hice con creatuicv
+[21:30:03] [Server thread/INFO]: <Cartelex> :/
+[21:30:07] [Server thread/INFO]: <diegov_9> porquie no tenia ganas de hacerlo 2 veces
+[21:30:17] [Server thread/INFO]: <Cartelex> se necesita cristal de pollas en vinagre de ese nuevo pa conseguirlo
+[21:30:20] [Server thread/INFO]: <diegov_9> pero se hace con amatistas
+[21:30:22] [Server thread/INFO]: <Cartelex> deja pasar la luz solo de un lao
+[21:30:36] [Server thread/INFO]: <Cartelex> ya si es que no he encontrao amatistas
+[21:30:55] [Server thread/INFO]: <diegov_9> por eso puse ese cristal
+[21:31:01] [Server thread/INFO]: <Cartelex> ta guapo, si necesitas mas piedra tengo un cofre lleno de picar la montaña
+[21:31:04] [Server thread/INFO]: <diegov_9> digo paso
+[21:31:07] [Server thread/INFO]: <diegov_9> esta ya
+[21:31:17] [Server thread/INFO]: <diegov_9> ahora tengo que hacer los detallesç
+[21:31:20] [Server thread/INFO]: <diegov_9> asi viejo
+[21:31:30] [Server thread/INFO]: <Cartelex> le pones unas telarañas
+[21:31:31] [Server thread/INFO]: <diegov_9> abajo las verrugas
+[21:31:36] [Server thread/INFO]: <diegov_9> y hojas
+[21:31:37] [Server thread/INFO]: <Cartelex> y unas enredaderas
+[21:31:45] [Server thread/INFO]: <diegov_9> y de puerta queruia pone enrredaderas
+[21:32:00] [Server thread/INFO]: <Cartelex> esa no te gusta?
+[21:32:20] [Server thread/INFO]: <diegov_9> no se, es como si fuera un charnaque
+[21:32:33] [Server thread/INFO]: <diegov_9> le dejare esa
+[21:32:37] [Server thread/INFO]: <diegov_9> por si entra algo
+[21:32:44] [Server thread/INFO]: <Cartelex> aro
+[21:32:46] [Server thread/INFO]: <Cartelex> me piro
+[21:32:49] [Server thread/INFO]: <diegov_9> enga
+[21:32:55] [Server thread/INFO]: <Cartelex> dios que guapa mi casa de lejos que guapo se ve
+[21:32:58] [Server thread/INFO]: <diegov_9> si
+[21:33:03] [Server thread/INFO]: <diegov_9> de lejos parecia paja
+[21:33:30] [Server thread/INFO]: <Cartelex> ale
+[21:33:31] [Server thread/INFO]: <diegov_9> abajo dices qie hay¿
+[21:33:37] [Server thread/INFO]: <Cartelex> que
+[21:33:39] [Server thread/INFO]: <Cartelex> que hay que
+[21:33:43] [Server thread/INFO]: <diegov_9> enrre
+[21:33:48] [Server thread/INFO]: <Cartelex> si en la salida de mi hermano al mar
+[21:34:02] [Server thread/INFO]: <Cartelex> del embarcadero ese de pollas que hizo
+[21:34:12] [Server thread/INFO]: <Cartelex> pero no se la cortes toda que le crezca
+[21:34:16] [Server thread/INFO]: <Cartelex> nos vemo
+[21:34:21] [Server thread/INFO]: <diegov_9> enga
+[21:34:34] [Server thread/INFO]: Cartelex lost connection: Disconnected
+[21:34:34] [Server thread/INFO]: Cartelex left the game
+[21:36:49] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:44:34] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[21:44:34] [Server thread/INFO]: diegov_9 left the game
+[21:44:49] [Server thread/INFO]: Stopping the server
+[21:44:49] [Server thread/INFO]: Stopping server
+[21:44:49] [Server thread/INFO]: Saving players
+[21:44:49] [Server thread/INFO]: Saving worlds
+[21:44:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[21:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:44:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[21:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:44:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[21:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:44:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
