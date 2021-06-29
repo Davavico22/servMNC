@@ -1,102 +1,147 @@
-[14:18:46] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[14:18:46] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[14:18:46] [main/WARN]: Disabling further attempts to query Paging File.
-[14:18:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:18:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:18:57] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[14:18:58] [Worker-Main-11/INFO]: Loaded 7 recipes
-[14:18:58] [Worker-Main-11/INFO]: Loaded 1138 advancements
-[14:19:01] [Server thread/INFO]: Starting minecraft server version 1.17
-[14:19:01] [Server thread/INFO]: Loading properties
-[14:19:01] [Server thread/INFO]: Default game type: SURVIVAL
-[14:19:01] [Server thread/INFO]: Generating keypair
-[14:19:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:19:01] [Server thread/INFO]: Using default channel type
-[14:19:02] [Server thread/INFO]: Preparing level "world"
-[14:19:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:19:03] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[14:19:03] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[14:19:03] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[14:19:04] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:19:04] [Worker-Main-14/INFO]: Preparing spawn area: 1%
-[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[14:19:08] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[14:19:08] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[14:19:08] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[14:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 32%
-[14:19:09] [Worker-Main-9/INFO]: Preparing spawn area: 90%
-[14:19:09] [Worker-Main-14/INFO]: Preparing spawn area: 99%
-[14:19:09] [Server thread/INFO]: Time elapsed: 7100 ms
-[14:19:09] [Server thread/INFO]: Done (7.235s)! For help, type "help"
-[14:20:37] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[14:20:37] [Server thread/INFO]: Davavico[/127.0.0.1:51433] logged in with entity id 84 at (-3584.300000011921, 64.0, 2658.390928490246)
-[14:20:37] [Server thread/INFO]: Davavico joined the game
-[14:28:52] [User Authenticator #2/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
-[14:28:52] [Server thread/INFO]: Ivanchut[/25.95.4.156:54451] logged in with entity id 2613 at (-3458.303418056792, 69.0, 2612.4109096754823)
-[14:28:52] [Server thread/INFO]: Ivanchut joined the game
-[14:37:56] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[14:39:12] [Server thread/INFO]: Villager bjq['Villager'/6815, l='ServerLevel[Cuevas]', x=-3565.70, y=81.00, z=2698.20] died, message: 'Villager suffocated in a wall'
-[14:51:27] [Server thread/INFO]: Ivanchut has made the advancement [The Parrots and the Bats]
-[15:32:29] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[15:39:40] [Server thread/INFO]: Davavico drowned
-[15:52:17] [User Authenticator #3/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[15:52:18] [Server thread/INFO]: diegov_9[/25.85.248.83:56246] logged in with entity id 33365 at (-3471.536568726613, 81.0, 2606.4453255036888)
-[15:52:18] [Server thread/INFO]: diegov_9 joined the game
-[15:54:38] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[15:55:41] [Server thread/INFO]: Ivanchut has made the advancement [We Need to Go Deeper]
-[16:00:23] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[16:00:23] [Server thread/INFO]: Ivanchut left the game
-[16:02:30] [Server thread/INFO]: Davavico lost connection: Disconnected
-[16:02:30] [Server thread/INFO]: Davavico left the game
-[16:09:40] [Server thread/INFO]: diegov_9 has made the advancement [A Terrible Fortress]
-[16:14:14] [Server thread/INFO]: diegov_9 has made the advancement [Surge Protector]
-[16:19:24] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[16:19:33] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[16:38:46] [Server thread/INFO]: Villager bjq['Villager'/40611, l='ServerLevel[Cuevas]', x=-3559.43, y=80.00, z=2655.49] died, message: 'Villager suffocated in a wall'
-[16:43:31] [Server thread/INFO]: Villager bjq['Librarian'/40602, l='ServerLevel[Cuevas]', x=-3560.30, y=80.00, z=2659.35] died, message: 'Librarian was slain by diegov_9'
-[16:46:06] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[16:46:20] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40607, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.70] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40608, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.70] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40612, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40613, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40616, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40618, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40619, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40620, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40621, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40622, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40623, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/45372, l='ServerLevel[Cuevas]', x=-3566.85, y=81.00, z=2698.15] died, message: 'Villager burned to death'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40606, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.30] died, message: 'Villager tried to swim in lava'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40617, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager tried to swim in lava'
-[16:51:36] [Server thread/INFO]: Villager bjq['Villager'/40914, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager tried to swim in lava'
-[16:54:19] [Server thread/INFO]: Villager bjq['Villager'/47686, l='ServerLevel[Cuevas]', x=-3566.85, y=81.26, z=2698.51] died, message: 'Villager tried to swim in lava'
-[16:55:52] [Server thread/INFO]: Villager bjq['Librarian'/40596, l='ServerLevel[Cuevas]', x=-3567.70, y=80.00, z=2665.32] died, message: 'Librarian was slain by diegov_9'
-[17:09:16] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[17:09:45] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[17:27:34] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[17:27:57] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[17:29:15] [Server thread/WARN]: diegov_9 moved too quickly! 5.521101184654981,-0.756759288177264,8.746617310809597
-[17:32:08] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[17:32:08] [Server thread/INFO]: diegov_9 left the game
-[18:48:49] [Server thread/INFO]: Stopping the server
-[18:48:49] [Server thread/INFO]: Stopping server
-[18:48:49] [Server thread/INFO]: Saving players
-[18:48:49] [Server thread/INFO]: Saving worlds
-[18:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[18:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[18:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[18:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:11:08] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[13:11:08] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[13:11:08] [main/WARN]: Disabling further attempts to query Paging File.
+[13:11:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:11:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:11:18] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[13:11:19] [Worker-Main-10/INFO]: Loaded 7 recipes
+[13:11:20] [Worker-Main-10/INFO]: Loaded 1138 advancements
+[13:11:23] [Server thread/INFO]: Starting minecraft server version 1.17
+[13:11:23] [Server thread/INFO]: Loading properties
+[13:11:23] [Server thread/INFO]: Default game type: SURVIVAL
+[13:11:23] [Server thread/INFO]: Generating keypair
+[13:11:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:11:23] [Server thread/INFO]: Using default channel type
+[13:11:23] [Server thread/INFO]: Preparing level "world"
+[13:11:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:11:24] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:11:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:11:24] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:11:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:11:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:11:29] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[13:11:29] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[13:11:29] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[13:11:29] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[13:11:29] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[13:11:29] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[13:11:29] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[13:11:29] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[13:11:30] [Worker-Main-14/INFO]: Preparing spawn area: 47%
+[13:11:30] [Worker-Main-13/INFO]: Preparing spawn area: 96%
+[13:11:31] [Worker-Main-11/INFO]: Preparing spawn area: 99%
+[13:11:31] [Server thread/INFO]: Time elapsed: 7723 ms
+[13:11:31] [Server thread/INFO]: Done (7.869s)! For help, type "help"
+[13:12:48] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[13:12:48] [Server thread/INFO]: Davavico[/127.0.0.1:64428] logged in with entity id 84 at (-3558.805143518808, 59.0, 2815.775332693361)
+[13:12:48] [Server thread/INFO]: Davavico joined the game
+[13:13:16] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[13:15:27] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.27803977930489054
+[13:15:27] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.2680767681267753
+[13:15:27] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.2533925957613974
+[13:15:28] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.41026349149478847
+[13:15:28] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3937571494443546
+[13:15:28] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.37720243935382314
+[13:15:28] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3608160665289688
+[13:15:29] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.34445189107646
+[13:15:29] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.2772033200685655
+[13:17:11] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.37237382326838997
+[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.4311101639068511
+[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.4161252710255212
+[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.40016602015293756
+[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.33459928330648836
+[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.2682793886910986
+[13:18:06] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.251695776800716
+[13:23:05] [Server thread/INFO]: Davavico has made the advancement [Surge Protector]
+[13:23:54] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[13:24:52] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[13:25:05] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[13:42:52] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[14:01:23] [User Authenticator #2/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[14:01:23] [Server thread/INFO]: Cartelex[/25.85.49.86:55562] logged in with entity id 9599 at (-3515.321867543553, 79.0, 2675.335876495299)
+[14:01:23] [Server thread/INFO]: Cartelex joined the game
+[14:02:31] [Server thread/INFO]: <Davavico> HOLA
+[14:02:40] [Server thread/INFO]: <Cartelex> pa ti mi cola
+[14:10:21] [Server thread/INFO]: <Cartelex> que ases
+[14:10:28] [Server thread/INFO]: <Davavico> miu casa
+[14:10:34] [Server thread/INFO]: <Cartelex> am
+[14:10:39] [Server thread/INFO]: <Cartelex> neesitas sacar tierra?
+[14:10:49] [Server thread/INFO]: <Davavico> nop
+[14:11:30] [Server thread/INFO]: <Cartelex> ok es que necesito mucha tierra, voy a cavar
+[14:11:50] [Server thread/INFO]: <Davavico> si necesitas luego cristal hay en el horno grande
+[14:12:25] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[14:13:42] [Server thread/INFO]: <Davavico> Como se pilla a un pez?
+[14:13:55] [Server thread/INFO]: <Davavico> Que tengo otra pecera
+[14:14:20] [Server thread/INFO]: <Cartelex> con un cubo
+[14:14:25] [Server thread/INFO]: <Cartelex> de agua
+[14:15:17] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[14:15:24] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[14:16:00] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3436, y=72, z=2635} gg{x=-3438, y=71, z=2636}
+[14:16:38] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[14:16:40] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[14:18:10] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3435, y=72, z=2624} gg{x=-3436, y=71, z=2624}
+[14:18:12] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3439, y=72, z=2622} gg{x=-3438, y=71, z=2621}
+[14:18:14] [Server thread/INFO]: Davavico has made the advancement [Tactical Fishing]
+[14:18:25] [Server thread/INFO]: <Cartelex> madre mia y encima tactica
+[14:18:38] [Server thread/INFO]: <Davavico> hahaha
+[14:22:10] [Server thread/INFO]: <Cartelex> ZZZZZ
+[14:22:14] [Server thread/INFO]: <Davavico> voy
+[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.4200758320971545
+[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.38297861238288533
+[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3507782369006236
+[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3318379404540792
+[14:26:04] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.316284549699958
+[14:26:05] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.45530872381777954
+[14:26:05] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3883281891817205
+[14:30:22] [Server thread/INFO]: <Cartelex> hola?
+[14:30:26] [Server thread/INFO]: <Davavico> hola
+[14:30:33] [Server thread/INFO]: <Cartelex> ah vale que me habia dado un lagazo
+[14:33:29] [Server thread/INFO]: <Davavico> toma
+[14:33:39] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[14:33:41] [Server thread/INFO]: <Cartelex> duermee
+[14:33:54] [Server thread/INFO]: <Cartelex> que me has dado?
+[14:33:58] [Server thread/INFO]: <Davavico> tierra ajajj
+[14:34:05] [Server thread/INFO]: <Cartelex> ah vale es que tengo tanta que no la habia visto xd
+[14:36:16] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[14:36:22] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[14:36:41] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[14:36:46] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[14:43:48] [Server thread/INFO]: <Davavico> TZZZZZZZ
+[14:48:19] [Server thread/WARN]: Cartelex moved too quickly! 7.896824460802236,1.7967356006687112,-6.204181935202541
+[14:52:13] [Server thread/INFO]: Cartelex lost connection: Timed out
+[14:52:13] [Server thread/INFO]: Cartelex left the game
+[14:52:27] [User Authenticator #3/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[14:52:28] [Server thread/INFO]: Cartelex[/25.85.49.86:55695] logged in with entity id 25521 at (-3514.5600437382495, 80.0, 2664.684822426214)
+[14:52:28] [Server thread/INFO]: Cartelex joined the game
+[14:52:38] [Server thread/INFO]: <Cartelex> me se cayo
+[14:55:04] [Server thread/INFO]: Cartelex lost connection: Timed out
+[14:55:04] [Server thread/INFO]: Cartelex left the game
+[14:55:49] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[14:55:49] [Server thread/INFO]: Cartelex[/25.85.49.86:55716] logged in with entity id 26257 at (-3517.5, 79.0, 2675.5)
+[14:55:49] [Server thread/INFO]: Cartelex joined the game
+[14:56:09] [Server thread/INFO]: <Cartelex> duerme
+[14:57:38] [Server thread/WARN]: Cartelex moved too quickly! -9.885630720925292,-0.756759288177264,2.3125765777272136
+[15:00:19] [Server thread/WARN]: Cartelex moved too quickly! -10.097281385241786,-0.604424101326714,-0.2001765648556102
+[15:02:49] [Server thread/INFO]: Cartelex lost connection: Timed out
+[15:02:49] [Server thread/INFO]: Cartelex left the game
+[15:23:14] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[15:30:30] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[15:30:41] [Server thread/INFO]: Davavico lost connection: Disconnected
+[15:30:41] [Server thread/INFO]: Davavico left the game
+[15:30:52] [Server thread/INFO]: Stopping the server
+[15:30:52] [Server thread/INFO]: Stopping server
+[15:30:52] [Server thread/INFO]: Saving players
+[15:30:52] [Server thread/INFO]: Saving worlds
+[15:30:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:30:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:30:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:30:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
