@@ -719,7 +719,8 @@
       "minecraft:piglin": "2021-06-30 21:24:44 +0200",
       "minecraft:enderman": "2021-06-14 20:18:48 +0200",
       "minecraft:zombie": "2021-06-14 20:18:28 +0200",
-      "minecraft:drowned": "2021-06-17 20:53:55 +0200"
+      "minecraft:drowned": "2021-06-17 20:53:55 +0200",
+      "minecraft:zombie_villager": "2021-07-03 12:36:56 +0200"
     },
     "done": false
   },
@@ -2810,6 +2811,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-06-15 20:43:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2021-07-03 12:42:14 +0200"
     },
     "done": true
   },
