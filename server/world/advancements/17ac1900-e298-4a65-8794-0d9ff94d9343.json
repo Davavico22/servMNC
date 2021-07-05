@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-07-05 20:54:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-14 18:31:05 +0200"
@@ -751,6 +757,7 @@
       "minecraft:magma_cube": "2021-06-19 19:05:07 +0200",
       "minecraft:spider": "2021-06-15 20:48:05 +0200",
       "minecraft:creeper": "2021-06-29 20:01:59 +0200",
+      "minecraft:phantom": "2021-07-05 20:31:55 +0200",
       "minecraft:wither_skeleton": "2021-06-29 19:25:39 +0200",
       "minecraft:piglin": "2021-06-30 21:24:44 +0200",
       "minecraft:enderman": "2021-06-14 20:18:48 +0200",
@@ -1030,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-07-05 20:56:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-06-15 21:26:22 +0200"
@@ -1207,6 +1220,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-06-18 23:37:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-07-05 20:54:02 +0200"
     },
     "done": true
   },
@@ -1480,6 +1499,7 @@
       "minecraft:forest": "2021-06-14 18:27:57 +0200",
       "minecraft:mountains": "2021-06-14 18:36:08 +0200",
       "minecraft:taiga": "2021-06-15 20:55:18 +0200",
+      "minecraft:giant_tree_taiga": "2021-07-05 20:49:43 +0200",
       "minecraft:deep_cold_ocean": "2021-06-14 18:52:30 +0200",
       "minecraft:snowy_tundra": "2021-06-20 11:31:17 +0200",
       "minecraft:frozen_river": "2021-06-20 11:36:30 +0200",
@@ -1493,6 +1513,7 @@
       "minecraft:wooded_mountains": "2021-06-20 11:29:21 +0200",
       "minecraft:wooded_hills": "2021-06-14 18:27:50 +0200",
       "minecraft:stone_shore": "2021-06-14 18:37:57 +0200",
+      "minecraft:giant_tree_taiga_hills": "2021-07-05 20:33:49 +0200",
       "minecraft:swamp": "2021-06-27 14:00:49 +0200",
       "minecraft:plains": "2021-06-14 18:28:25 +0200"
     },
@@ -2106,6 +2127,7 @@
       "cooked_porkchop": "2021-06-29 21:35:48 +0200",
       "honey_bottle": "2021-06-20 11:21:05 +0200",
       "cooked_mutton": "2021-06-14 19:40:53 +0200",
+      "sweet_berries": "2021-07-05 20:51:35 +0200",
       "cooked_beef": "2021-06-15 21:00:34 +0200",
       "baked_potato": "2021-06-19 12:37:49 +0200",
       "apple": "2021-06-14 19:23:02 +0200",
@@ -2317,6 +2339,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:fox": "2021-07-05 21:22:35 +0200",
       "minecraft:pig": "2021-06-17 20:12:54 +0200",
       "minecraft:cow": "2021-06-15 20:27:50 +0200",
       "minecraft:chicken": "2021-06-18 20:52:03 +0200"
@@ -2524,6 +2547,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2021-07-03 19:11:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-07-05 20:56:43 +0200"
     },
     "done": true
   },
@@ -2929,6 +2958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-07-05 20:54:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-06-15 20:43:25 +0200"
@@ -3082,6 +3117,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-06-14 18:39:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-07-05 20:56:43 +0200"
     },
     "done": true
   },
@@ -3313,6 +3354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2021-07-05 21:00:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2021-07-02 22:27:51 +0200"
@@ -3390,6 +3437,13 @@
       "has_stone": "2021-06-14 18:49:14 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/white.png": "2021-07-05 20:57:16 +0200",
+      "textures/entity/cat/black.png": "2021-07-05 21:09:49 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
