@@ -1,75 +1,446 @@
-[19:50:38] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[19:50:38] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[19:50:38] [main/WARN]: Disabling further attempts to query Paging File.
-[19:50:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:50:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:50:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:50:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:50:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:50:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:50:45] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[19:50:45] [Worker-Main-12/INFO]: Loaded 7 recipes
-[19:50:46] [Worker-Main-12/INFO]: Loaded 1138 advancements
-[19:50:47] [Server thread/INFO]: Starting minecraft server version 1.17
-[19:50:47] [Server thread/INFO]: Loading properties
-[19:50:47] [Server thread/INFO]: Default game type: SURVIVAL
-[19:50:47] [Server thread/INFO]: Generating keypair
-[19:50:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:50:47] [Server thread/INFO]: Using default channel type
-[19:50:47] [Server thread/INFO]: Preparing level "world"
-[19:50:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:50:47] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:50:50] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[19:50:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:50:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:50:50] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[19:50:50] [Worker-Main-13/INFO]: Preparing spawn area: 11%
-[19:50:50] [Worker-Main-9/INFO]: Preparing spawn area: 89%
-[19:50:51] [Server thread/INFO]: Time elapsed: 3471 ms
-[19:50:51] [Server thread/INFO]: Done (3.529s)! For help, type "help"
-[19:53:38] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[19:53:38] [Server thread/INFO]: diegov_9[/25.85.248.83:53677] logged in with entity id 84 at (-2952.6094957675687, 36.0, 2646.421682856657)
-[19:53:38] [Server thread/INFO]: diegov_9 joined the game
-[20:01:19] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:01:50] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:03:04] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[20:04:27] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:04:46] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:06:57] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:15:13] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:16:49] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:17:09] [User Authenticator #2/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
-[20:17:09] [Server thread/INFO]: Ivanchut[/25.95.4.156:63822] logged in with entity id 3701 at (-3514.5237255428815, 79.9375, 2665.05199409129)
-[20:17:09] [Server thread/INFO]: Ivanchut joined the game
-[20:17:24] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[20:21:18] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[20:21:42] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[20:40:13] [Server thread/INFO]: Ivanchut has made the advancement [What a Deal!]
-[20:52:59] [Server thread/INFO]: Ivanchut has made the advancement [Who is Cutting Onions?]
-[21:26:07] [Server thread/INFO]: Ivanchut has made the advancement [Hot Stuff]
-[21:28:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3537, y=56, z=2742} gg{x=-3537, y=55, z=2742}
-[21:33:38] [Server thread/INFO]: [diegov_9: Set the time to 1000]
-[21:34:20] [Server thread/INFO]: [diegov_9: Set the weather to clear]
-[21:36:05] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[21:38:23] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[21:39:52] [Server thread/INFO]: [diegov_9: Set the weather to clear]
-[21:40:56] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[21:43:25] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[21:43:25] [Server thread/INFO]: Ivanchut left the game
-[21:43:33] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[21:43:33] [Server thread/INFO]: diegov_9 left the game
-[21:43:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:43:57] [Server thread/INFO]: /stiop<--[HERE]
-[21:44:03] [Server thread/INFO]: Stopping the server
-[21:44:03] [Server thread/INFO]: Stopping server
-[21:44:03] [Server thread/INFO]: Saving players
-[21:44:03] [Server thread/INFO]: Saving worlds
-[21:44:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[21:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:44:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[21:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:44:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[21:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:35:16] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[15:35:16] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[15:35:16] [main/WARN]: Disabling further attempts to query Paging File.
+[15:35:24] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:35:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:35:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:35:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:24] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[15:35:24] [Worker-Main-10/INFO]: Loaded 7 recipes
+[15:35:25] [Worker-Main-10/INFO]: Loaded 1138 advancements
+[15:35:26] [Server thread/INFO]: Starting minecraft server version 1.17
+[15:35:26] [Server thread/INFO]: Loading properties
+[15:35:26] [Server thread/INFO]: Default game type: SURVIVAL
+[15:35:26] [Server thread/INFO]: Generating keypair
+[15:35:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:35:26] [Server thread/INFO]: Using default channel type
+[15:35:27] [Server thread/INFO]: Preparing level "world"
+[15:35:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:35:27] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:35:27] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:35:30] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:35:30] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:35:30] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:35:30] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:35:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:35:31] [Worker-Main-10/INFO]: Preparing spawn area: 99%
+[15:35:31] [Server thread/INFO]: Time elapsed: 3825 ms
+[15:35:31] [Server thread/INFO]: Done (3.984s)! For help, type "help"
+[15:35:58] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[15:35:59] [Server thread/INFO]: diegov_9[/25.85.248.83:56982] logged in with entity id 84 at (-2981.5074891016156, 18.0, 2662.5273955364873)
+[15:35:59] [Server thread/INFO]: diegov_9 joined the game
+[15:37:16] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[15:38:57] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[15:39:06] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[15:39:14] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[15:39:14] [Server thread/INFO]: elkonos[/25.83.178.145:57048] logged in with entity id 576 at (-3466.1942282312125, 73.0, 2705.410176018931)
+[15:39:14] [Server thread/INFO]: elkonos joined the game
+[15:39:18] [Server thread/INFO]: [diegov_9: Set the weather to clear]
+[15:45:18] [Server thread/INFO]: [diegov_9: Set the weather to clear]
+[15:48:00] [Server thread/INFO]: diegov_9 has reached the goal [Hired Help]
+[15:51:03] [User Authenticator #3/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
+[15:51:03] [Server thread/INFO]: Ivanchut[/25.95.4.156:53829] logged in with entity id 6947 at (-3493.3815313643345, 68.0, 2685.2236122505064)
+[15:51:03] [Server thread/INFO]: Ivanchut joined the game
+[15:51:08] [Server thread/INFO]: [diegov_9: Set the weather to clear]
+[15:52:53] [Server thread/INFO]: Villager bjq['Leatherworker'/918, l='ServerLevel[Cuevas]', x=-3520.87, y=80.00, z=2653.08] died, message: 'Leatherworker was slain by Zombie'
+[15:55:23] [User Authenticator #4/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[15:55:23] [Server thread/INFO]: Cartelex[/25.85.49.86:56672] logged in with entity id 9345 at (-3529.770607789003, 76.0, 2720.504947552825)
+[15:55:23] [Server thread/INFO]: Cartelex joined the game
+[15:56:52] [Server thread/INFO]: <elkonos> ZZZZ
+[15:57:05] [Server thread/INFO]: <Ivanchut> ZZZZZ
+[16:01:37] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[16:07:33] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:07:59] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[16:09:03] [Server thread/INFO]: <Cartelex> Ivanchut
+[16:09:05] [Server thread/INFO]: <Cartelex> ZZZ
+[16:09:11] [Server thread/INFO]: <Ivanchut> z<zzzz
+[16:12:59] [User Authenticator #5/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[16:13:00] [Server thread/INFO]: Davavico[/25.63.118.219:57450] logged in with entity id 20766 at (-3531.3516715270407, 83.12050452474764, 2778.3327747823305)
+[16:13:00] [Server thread/INFO]: Davavico joined the game
+[16:15:03] [Server thread/INFO]: <Davavico> a cuentos fps te va Carlos?
+[16:15:30] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:17:55] [Server thread/INFO]: Davavico lost connection: Disconnected
+[16:17:55] [Server thread/INFO]: Davavico left the game
+[16:20:55] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[16:21:36] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[16:21:51] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/979, l='ServerLevel[Cuevas]', x=-3566.30, y=81.42, z=2698.70] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/980, l='ServerLevel[Cuevas]', x=-3566.30, y=81.00, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/981, l='ServerLevel[Cuevas]', x=-3566.70, y=81.14, z=2698.70] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/982, l='ServerLevel[Cuevas]', x=-3566.70, y=81.18, z=2698.70] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/983, l='ServerLevel[Cuevas]', x=-3566.70, y=81.38, z=2698.70] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/985, l='ServerLevel[Cuevas]', x=-3566.70, y=81.01, z=2698.70] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/986, l='ServerLevel[Cuevas]', x=-3566.70, y=81.25, z=2698.70] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/987, l='ServerLevel[Cuevas]', x=-3566.30, y=81.19, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/988, l='ServerLevel[Cuevas]', x=-3566.30, y=81.32, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/4364, l='ServerLevel[Cuevas]', x=-3566.70, y=81.04, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/15597, l='ServerLevel[Cuevas]', x=-3566.70, y=81.07, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/19622, l='ServerLevel[Cuevas]', x=-3566.85, y=81.07, z=2698.15] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/23121, l='ServerLevel[Cuevas]', x=-3566.85, y=81.22, z=2698.15] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/26121, l='ServerLevel[Cuevas]', x=-3566.85, y=81.22, z=2698.15] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/29537, l='ServerLevel[Cuevas]', x=-3566.85, y=81.00, z=2698.15] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/984, l='ServerLevel[Cuevas]', x=-3566.30, y=81.08, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/989, l='ServerLevel[Cuevas]', x=-3566.70, y=81.37, z=2698.70] died, message: 'Villager tried to swim in lava'
+[16:29:36] [Server thread/INFO]: Villager bjq['Villager'/11078, l='ServerLevel[Cuevas]', x=-3566.70, y=81.01, z=2698.30] died, message: 'Villager tried to swim in lava'
+[16:35:37] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[16:36:27] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[16:37:20] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:39:59] [User Authenticator #6/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[16:39:59] [Server thread/INFO]: Davavico[/25.65.112.79:61774] logged in with entity id 36020 at (-3434.9423654241036, 72.0, 2705.677637277279)
+[16:39:59] [Server thread/INFO]: Davavico joined the game
+[16:41:54] [Server thread/INFO]: Cartelex has made the advancement [Enchanter]
+[16:42:23] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[16:46:15] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[16:46:24] [Server thread/INFO]: Villager bjq['Villager'/38474, l='ServerLevel[Cuevas]', x=-3566.85, y=81.24, z=2698.49] died, message: 'Villager tried to swim in lava'
+[16:46:29] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:46:38] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[16:46:56] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:49:26] [Server thread/INFO]: <Ivanchut> zzzzzzzzzzzz
+[16:49:43] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[16:49:51] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[16:51:31] [Server thread/INFO]: Villager bjq['Villager'/41628, l='ServerLevel[Cuevas]', x=-3566.63, y=81.26, z=2698.52] died, message: 'Villager tried to swim in lava'
+[16:52:10] [Server thread/INFO]: Davavico has made the advancement [A Terrible Fortress]
+[16:58:02] [Server thread/INFO]: Villager bjq['Villager'/45320, l='ServerLevel[Cuevas]', x=-3566.85, y=81.22, z=2698.15] died, message: 'Villager tried to swim in lava'
+[16:58:09] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[16:58:54] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:00:32] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[17:01:54] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:02:59] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[17:03:07] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.31783441762536313
+[17:03:08] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.7373086677030187
+[17:03:21] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3794298453876763
+[17:03:21] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.3628374712143341
+[17:03:21] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.8404165185047532
+[17:03:21] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.30019271951186965
+[17:03:21] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.7836206998799753
+[17:03:41] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[17:03:54] [Server thread/INFO]: Villager bjq['Villager'/48512, l='ServerLevel[Cuevas]', x=-3566.57, y=81.43, z=2698.49] died, message: 'Villager tried to swim in lava'
+[17:04:01] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:09:33] [Server thread/INFO]: Davavico has made the advancement [Cover Me with Diamonds]
+[17:10:47] [Server thread/INFO]: Villager bjq['Villager'/53382, l='ServerLevel[Cuevas]', x=-3566.85, y=81.00, z=2698.51] died, message: 'Villager tried to swim in lava'
+[17:12:20] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[17:13:12] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[17:13:40] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:14:27] [Server thread/INFO]: [Davavico: Set Cartelex's game mode to Creative Mode]
+[17:14:40] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[17:14:46] [Server thread/INFO]: [Davavico: Teleported Davavico to Cartelex]
+[17:15:59] [Server thread/INFO]: [Davavico: Set Cartelex's game mode to Survival Mode]
+[17:16:50] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[17:18:35] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[17:21:03] [Server thread/INFO]: diegov_9 has made the advancement [Local Brewery]
+[17:21:12] [Server thread/INFO]: Villager bjq['Villager'/57729, l='ServerLevel[Cuevas]', x=-3566.85, y=81.27, z=2698.15] died, message: 'Villager tried to swim in lava'
+[17:22:46] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[17:24:48] [Server thread/INFO]: [Davavico: Teleported Davavico to diegov_9]
+[17:25:09] [Server thread/INFO]: Villager bjq['Librarian'/1010, l='ServerLevel[Cuevas]', x=-3566.59, y=81.06, z=2685.50] died, message: 'Librarian was slain by El porruo'
+[17:25:38] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[17:26:00] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[17:26:44] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[17:28:45] [Server thread/INFO]: Villager bjq['Librarian'/999, l='ServerLevel[Cuevas]', x=-3566.49, y=81.06, z=2685.50] died, message: 'Librarian was slain by El porruo'
+[17:29:17] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[17:30:08] [Server thread/INFO]: Villager bjq['Villager'/62188, l='ServerLevel[Cuevas]', x=-3566.66, y=81.27, z=2698.66] died, message: 'Villager tried to swim in lava'
+[17:32:25] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[17:33:59] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[17:34:17] [Server thread/INFO]: Cartelex has reached the goal [Zombie Doctor]
+[17:35:55] [Server thread/INFO]: [elkonos: Gamerule playersSleepingPercentage is now set to: 50]
+[17:36:41] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.331323219967544
+[17:36:41] [Server thread/WARN]: Horse (vehicle of Davavico) moved wrongly! 0.7697249931243277
+[17:40:48] [Server thread/INFO]: Villager bjq['Villager'/66332, l='ServerLevel[Cuevas]', x=-3566.85, y=81.43, z=2698.42] died, message: 'Villager tried to swim in lava'
+[17:42:53] [Server thread/INFO]: <Davavico> zzzzzZZZZZZZZZzzzzzzzzzzz
+[17:43:10] [Server thread/INFO]: Davavico lost connection: Disconnected
+[17:43:10] [Server thread/INFO]: Davavico left the game
+[17:43:36] [Server thread/INFO]: <Ivanchut> ZZZZZZZZZZ
+[17:45:46] [Server thread/INFO]: Villager bjq['Villager'/68713, l='ServerLevel[Cuevas]', x=-3566.85, y=81.17, z=2698.85] died, message: 'Villager tried to swim in lava'
+[17:52:09] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:53:05] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:53:12] [Server thread/INFO]: Villager bjq['Villager'/72372, l='ServerLevel[Cuevas]', x=-3566.85, y=81.32, z=2698.85] died, message: 'Villager tried to swim in lava'
+[17:57:36] [Server thread/INFO]: Villager bjq['Villager'/74654, l='ServerLevel[Cuevas]', x=-3566.85, y=81.42, z=2698.85] died, message: 'Villager tried to swim in lava'
+[18:01:50] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[18:01:59] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[18:02:10] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[18:02:32] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[18:02:37] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[18:04:36] [Server thread/INFO]: Villager bjq['Villager'/78754, l='ServerLevel[Cuevas]', x=-3566.85, y=81.31, z=2698.51] died, message: 'Villager tried to swim in lava'
+[18:07:27] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:07:28] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:08:15] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:09:22] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[18:09:59] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:10:05] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[18:13:01] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5964917832775427
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5802896997547577
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5716202878961667
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:27] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5669814584603046
+[18:17:28] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.5005864584604751
+[18:17:28] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.46505981773407257
+[18:17:32] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.4937989843751893
+[18:17:32] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.46030431018471063
+[18:17:35] [Server thread/INFO]: Cartelex has made the advancement [Best Friends Forever]
+[18:18:10] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.31697887442851425
+[18:18:10] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.7520762089711752
+[18:18:10] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 1.1871776657981172
+[18:18:12] [Server thread/WARN]: Horse (vehicle of Cartelex) moved wrongly! 0.2754679204040258
+[18:20:51] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[18:21:10] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:21:16] [Server thread/WARN]: Cartelex moved too quickly! -5.036973494147787,1.2491870787446828,8.827509618573004
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:20] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:21] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:22] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:23] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/WARN]: Cartelex was kicked for floating too long!
+[18:21:24] [Server thread/INFO]: Cartelex lost connection: Flying is not enabled on this server
+[18:21:24] [Server thread/INFO]: Cartelex left the game
+[18:24:18] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[18:24:26] [Server thread/INFO]: Villager bjq['Villager'/89296, l='ServerLevel[Cuevas]', x=-3566.85, y=81.15, z=2698.48] died, message: 'Villager tried to swim in lava'
+[18:25:28] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:34:38] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[18:35:41] [Server thread/INFO]: Villager bjq['Villager'/94490, l='ServerLevel[Cuevas]', x=-3566.85, y=81.22, z=2698.85] died, message: 'Villager tried to swim in lava'
+[18:38:39] [Server thread/INFO]: Ivanchut lost connection: Disconnected
+[18:38:39] [Server thread/INFO]: Ivanchut left the game
+[18:40:19] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:40:59] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:42:14] [Server thread/INFO]: Villager bjq['Villager'/96854, l='ServerLevel[Cuevas]', x=-3566.85, y=81.27, z=2698.85] died, message: 'Villager tried to swim in lava'
+[18:44:57] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[18:48:25] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:48:36] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[18:52:16] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[18:52:33] [Server thread/INFO]: Villager bjq['Villager'/100738, l='ServerLevel[Cuevas]', x=-3566.75, y=81.42, z=2698.61] died, message: 'Villager tried to swim in lava'
+[19:01:41] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:02:09] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[19:04:58] [Server thread/INFO]: Villager bjq['Villager'/104175, l='ServerLevel[Cuevas]', x=-3566.66, y=81.13, z=2698.36] died, message: 'Villager tried to swim in lava'
+[19:11:57] [User Authenticator #7/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[19:11:57] [Server thread/INFO]: Davavico[/25.65.112.79:54827] logged in with entity id 106263 at (-3547.4083473753867, 64.0, 2814.532974109572)
+[19:11:57] [Server thread/INFO]: Davavico joined the game
+[19:12:39] [Server thread/INFO]: Villager bjq['Villager'/106262, l='ServerLevel[Cuevas]', x=-3566.85, y=81.25, z=2698.51] died, message: 'Villager tried to swim in lava'
+[19:14:13] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[19:20:33] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[19:21:50] [Server thread/INFO]: Villager bjq['Villager'/109732, l='ServerLevel[Cuevas]', x=-3566.85, y=81.36, z=2698.85] died, message: 'Villager tried to swim in lava'
+[19:25:47] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[19:30:20] [Server thread/INFO]: [Davavico: Set the time to 13000]
+[19:31:23] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[19:34:49] [Server thread/INFO]: [Davavico: Set the time to 13000]
+[19:36:28] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:36:33] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[19:36:43] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[19:37:02] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:39:20] [Server thread/WARN]: Boat (vehicle of Davavico) moved wrongly! 0.2520938484412909
+[19:40:17] [Server thread/INFO]: Davavico lost connection: Disconnected
+[19:40:17] [Server thread/INFO]: Davavico left the game
+[19:41:20] [Server thread/INFO]: Villager bjq['Villager'/116511, l='ServerLevel[Cuevas]', x=-3566.85, y=81.41, z=2698.42] died, message: 'Villager tried to swim in lava'
+[19:42:58] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[19:45:00] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:46:01] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[19:48:19] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:48:26] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[19:48:46] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[19:49:35] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[19:49:37] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:49:45] [Server thread/INFO]: Villager bjq['Villager'/118837, l='ServerLevel[Cuevas]', x=-3566.85, y=81.41, z=2698.85] died, message: 'Villager tried to swim in lava'
+[19:49:50] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[19:51:40] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[19:51:44] [Server thread/INFO]: elkonos lost connection: Disconnected
+[19:51:44] [Server thread/INFO]: elkonos left the game
+[19:57:26] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[19:58:16] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[19:58:51] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[19:58:57] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:00:31] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:00:39] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:00:54] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:00:57] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:01:22] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:01:58] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:02:03] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:02:36] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:03:02] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:03:20] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:04:45] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:05:07] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:06:40] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:14:31] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:15:44] [User Authenticator #8/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
+[20:15:44] [Server thread/INFO]: elkonos[/25.83.178.145:54582] logged in with entity id 123782 at (-3461.270991887797, 75.0, 2724.6325426723806)
+[20:15:44] [Server thread/INFO]: elkonos joined the game
+[20:16:00] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[20:21:39] [Server thread/INFO]: Villager bjq['Villager'/125837, l='ServerLevel[Cuevas]', x=-3566.63, y=81.25, z=2698.48] died, message: 'Villager tried to swim in lava'
+[20:22:00] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:22:42] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:28:36] [Server thread/INFO]: Villager bjq['Villager'/128302, l='ServerLevel[Cuevas]', x=-3566.85, y=81.18, z=2698.50] died, message: 'Villager tried to swim in lava'
+[20:29:21] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:29:32] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:29:35] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:30:05] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:33:45] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[20:33:55] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[20:34:32] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[20:36:00] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[20:36:03] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[20:36:28] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:36:57] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[20:40:26] [User Authenticator #9/INFO]: UUID of player Cartelex is c3ec643a-c7e2-4898-a336-f93327486a5c
+[20:40:26] [Server thread/INFO]: Cartelex[/25.85.49.86:60804] logged in with entity id 132410 at (-3526.741113974969, 81.16610926093821, 2650.172492496383)
+[20:40:26] [Server thread/INFO]: Cartelex joined the game
+[20:41:02] [Server thread/INFO]: Villager bjq['Villager'/132897, l='ServerLevel[Cuevas]', x=-3566.85, y=81.17, z=2698.48] died, message: 'Villager tried to swim in lava'
+[20:44:39] [Server thread/INFO]: Villager bjq['Farmer'/133018, l='ServerLevel[Cuevas]', x=-3476.63, y=64.50, z=1175.80] died, message: 'Farmer was slain by Zombie'
+[20:45:00] [Server thread/INFO]: Villager bjq['Villager'/133019, l='ServerLevel[Cuevas]', x=-3474.30, y=59.00, z=1181.06] died, message: 'Villager was slain by Zombie'
+[20:45:19] [User Authenticator #10/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
+[20:45:19] [Server thread/INFO]: Ivanchut[/25.95.4.156:55118] logged in with entity id 136050 at (-3333.2919130486093, 74.0, 2593.9589178100146)
+[20:45:19] [Server thread/INFO]: Ivanchut joined the game
+[20:53:17] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[20:53:24] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[20:58:18] [Server thread/INFO]: Ivanchut has made the advancement [Cover Me with Diamonds]
+[21:00:00] [Server thread/INFO]: Villager bjq['Villager'/146415, l='ServerLevel[Cuevas]', x=-3566.85, y=81.27, z=2698.51] died, message: 'Villager tried to swim in lava'
+[21:07:11] [Server thread/INFO]: Cartelex has made the advancement [Who is Cutting Onions?]
+[21:07:52] [Server thread/INFO]: <elkonos> -3500 2700
+[21:08:15] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[21:18:00] [Server thread/INFO]: [elkonos: Set the time to 1000]
+[21:19:00] [Server thread/INFO]: Villager bjq['Villager'/159511, l='ServerLevel[Cuevas]', x=-3566.63, y=81.17, z=2698.66] died, message: 'Villager tried to swim in lava'
+[21:25:08] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[21:25:24] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[21:26:30] [Server thread/INFO]: Villager bjq['Villager'/163051, l='ServerLevel[Cuevas]', x=-3566.85, y=81.24, z=2698.15] died, message: 'Villager tried to swim in lava'
+[21:29:09] [Server thread/INFO]: <diegov_9> zZzzzz
+[21:29:29] [Server thread/INFO]: <Ivanchut> ZZZZZZZZZ
+[21:30:33] [Server thread/INFO]: diegov_9 has made the advancement [Enchanter]
+[21:30:53] [Server thread/INFO]: Villager bjq['Villager'/165265, l='ServerLevel[Cuevas]', x=-3566.85, y=81.17, z=2698.85] died, message: 'Villager tried to swim in lava'
+[21:35:45] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[21:36:01] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[21:41:23] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[21:44:58] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:46:15] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:48:00] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:49:19] [Server thread/INFO]: [diegov_9: Set the weather to rain]
+[21:49:35] [Server thread/INFO]: [diegov_9: Set the weather to rain & thunder]
+[21:49:55] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:50:15] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
+[21:50:18] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
+[21:51:34] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
+[21:51:38] [Server thread/INFO]: elkonos lost connection: Disconnected
+[21:51:38] [Server thread/INFO]: elkonos left the game
+[21:53:00] [Server thread/INFO]: Cartelex has made the advancement [A Throwaway Joke]
+[21:53:31] [Server thread/INFO]: Ivanchut was blown up by Creeper
+[21:53:41] [Server thread/INFO]: [diegov_9: Set the weather to rain]
+[21:53:51] [Server thread/INFO]: [diegov_9: Set the weather to clear]
+[21:58:19] [Server thread/INFO]: Cartelex lost connection: Disconnected
+[21:58:19] [Server thread/INFO]: Cartelex left the game
+[21:58:21] [Server thread/INFO]: Ivanchut lost connection: Disconnected
+[21:58:21] [Server thread/INFO]: Ivanchut left the game
+[21:58:33] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:58:59] [Server thread/INFO]: [diegov_9: Set the weather to clear]
+[22:01:45] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[22:02:43] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[22:02:44] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[22:02:44] [Server thread/INFO]: diegov_9 left the game
+[22:03:00] [Server thread/INFO]: Stopping the server
+[22:03:00] [Server thread/INFO]: Stopping server
+[22:03:00] [Server thread/INFO]: Saving players
+[22:03:00] [Server thread/INFO]: Saving worlds
+[22:03:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[22:03:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:03:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[22:03:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:03:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[22:03:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:03:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:03:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:03:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
