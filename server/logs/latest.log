@@ -1,82 +1,126 @@
-[16:20:52] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[16:20:52] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[16:20:52] [main/WARN]: Disabling further attempts to query Paging File.
-[16:20:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:20:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:20:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:20:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:20:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:20:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:20:55] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[16:20:56] [Worker-Main-11/INFO]: Loaded 7 recipes
-[16:20:56] [Worker-Main-11/INFO]: Loaded 1138 advancements
-[16:20:57] [Server thread/INFO]: Starting minecraft server version 1.17
-[16:20:57] [Server thread/INFO]: Loading properties
-[16:20:57] [Server thread/INFO]: Default game type: SURVIVAL
-[16:20:57] [Server thread/INFO]: Generating keypair
-[16:20:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:20:57] [Server thread/INFO]: Using default channel type
-[16:20:58] [Server thread/INFO]: Preparing level "world"
-[16:20:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:20:58] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[16:20:58] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[16:21:00] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:21:00] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[16:21:00] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[16:21:00] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:21:01] [Worker-Main-10/INFO]: Preparing spawn area: 53%
-[16:21:01] [Server thread/INFO]: Time elapsed: 3560 ms
-[16:21:01] [Server thread/INFO]: Done (3.637s)! For help, type "help"
-[16:24:08] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[16:24:08] [Server thread/INFO]: diegov_9[/25.85.248.83:54402] logged in with entity id 84 at (-3503.6160541243376, 75.0, 2699.7412240291387)
-[16:24:08] [Server thread/INFO]: diegov_9 joined the game
-[16:25:44] [User Authenticator #2/INFO]: UUID of player elkonos is 903735ff-602c-416d-9526-2b499b9e1e63
-[16:25:44] [Server thread/INFO]: elkonos[/25.83.178.145:57381] logged in with entity id 1408 at (-3466.417620464735, 78.0, 2696.699999988079)
-[16:25:44] [Server thread/INFO]: elkonos joined the game
-[16:31:28] [Server thread/INFO]: elkonos has made the advancement [A Throwaway Joke]
-[16:33:13] [Server thread/INFO]: elkonos was blown up by Creeper
-[16:33:13] [Server thread/INFO]: diegov_9 was blown up by Creeper
-[16:34:55] [User Authenticator #3/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
-[16:34:55] [Server thread/INFO]: Ivanchut[/25.95.4.156:51670] logged in with entity id 7502 at (-3329.428975193702, 65.0, 2598.7827396560197)
-[16:34:55] [Server thread/INFO]: Ivanchut joined the game
-[16:53:49] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3731, y=57, z=2817} gg{x=-3731, y=56, z=2817}
-[16:57:55] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[16:57:55] [Server thread/INFO]: diegov_9 left the game
-[17:37:37] [Server thread/WARN]: Boat (vehicle of elkonos) moved wrongly! 0.3612726647497766
-[17:39:33] [Server thread/INFO]: [elkonos: Set the time to 1000]
-[17:39:39] [Server thread/INFO]: [elkonos: Set the weather to clear]
-[17:47:40] [Server thread/INFO]: elkonos has made the advancement [Who is Cutting Onions?]
-[17:49:01] [Server thread/INFO]: [elkonos: Set the weather to clear]
-[18:04:00] [User Authenticator #4/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
-[18:04:00] [Server thread/INFO]: diegov_9[/25.85.248.83:51117] logged in with entity id 36985 at (-3703.9944401573866, 63.0, 2820.4302375353022)
-[18:04:00] [Server thread/INFO]: diegov_9 joined the game
-[18:04:19] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[18:05:50] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[18:08:46] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
-[18:09:17] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[18:09:37] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[18:11:10] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
-[18:13:38] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[18:14:41] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[18:25:21] [Server thread/INFO]: diegov_9 lost connection: Disconnected
-[18:25:21] [Server thread/INFO]: diegov_9 left the game
-[18:25:30] [Server thread/INFO]: [elkonos: Set own game mode to Creative Mode]
-[18:25:33] [Server thread/INFO]: [elkonos: Set own game mode to Spectator Mode]
-[18:25:53] [Server thread/INFO]: [elkonos: Set own game mode to Survival Mode]
-[18:26:05] [Server thread/INFO]: elkonos lost connection: Disconnected
-[18:26:05] [Server thread/INFO]: elkonos left the game
-[18:26:17] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[18:26:17] [Server thread/INFO]: Ivanchut left the game
-[18:26:26] [Server thread/INFO]: Stopping the server
-[18:26:26] [Server thread/INFO]: Stopping server
-[18:26:26] [Server thread/INFO]: Saving players
-[18:26:26] [Server thread/INFO]: Saving worlds
-[18:26:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[18:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:26:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[18:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:26:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[18:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:26:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:51:59] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[19:51:59] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[19:51:59] [main/WARN]: Disabling further attempts to query Paging File.
+[19:52:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:52:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:52:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:52:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:07] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[19:52:09] [Worker-Main-11/INFO]: Loaded 7 recipes
+[19:52:10] [Worker-Main-11/INFO]: Loaded 1138 advancements
+[19:52:15] [Server thread/INFO]: Starting minecraft server version 1.17
+[19:52:15] [Server thread/INFO]: Loading properties
+[19:52:15] [Server thread/INFO]: Default game type: SURVIVAL
+[19:52:15] [Server thread/INFO]: Generating keypair
+[19:52:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:52:15] [Server thread/INFO]: Using default channel type
+[19:52:16] [Server thread/INFO]: Preparing level "world"
+[19:52:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:52:17] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:52:17] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:52:17] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:52:18] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:52:18] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:52:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:52:19] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[19:52:25] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[19:52:25] [Worker-Main-8/INFO]: Preparing spawn area: 17%
+[19:52:26] [Worker-Main-8/INFO]: Preparing spawn area: 62%
+[19:52:26] [Worker-Main-8/INFO]: Preparing spawn area: 99%
+[19:52:27] [Server thread/INFO]: Time elapsed: 10968 ms
+[19:52:27] [Server thread/INFO]: Done (11.086s)! For help, type "help"
+[19:55:28] [User Authenticator #1/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[19:55:29] [Server thread/INFO]: diegov_9[/25.86.43.161:52474] logged in with entity id 85 at (-3577.8239125645405, 83.0, 2718.7818368377116)
+[19:55:29] [Server thread/INFO]: diegov_9 joined the game
+[19:56:02] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[19:58:51] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[19:59:35] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[19:59:35] [Server thread/INFO]: diegov_9 left the game
+[19:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4462ms or 89 ticks behind
+[20:00:10] [User Authenticator #2/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[20:00:11] [Server thread/INFO]: diegov_9[/25.86.43.161:58142] logged in with entity id 1406 at (-411.7897160291403, 62.0, 345.8194707434745)
+[20:00:11] [Server thread/INFO]: diegov_9 joined the game
+[20:01:49] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:02:37] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:07:16] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:10:01] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:15:08] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:15:22] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:15:31] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:28:38] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:29:01] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:29:14] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:31:20] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:31:31] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:31:51] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:32:21] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:33:37] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:36:27] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:39:45] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:39:53] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:45:02] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:45:37] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:46:26] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:46:49] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[20:52:27] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[20:54:16] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[21:00:29] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:08:47] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:10:05] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:11:20] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:11:29] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:22:28] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:23:37] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:27:36] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:28:42] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:49:33] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[21:52:09] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[21:58:08] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19165, l='ServerLevel[Cuevas]', x=-3566.30, y=81.20, z=2698.30] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19166, l='ServerLevel[Cuevas]', x=-3566.30, y=81.05, z=2698.70] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19167, l='ServerLevel[Cuevas]', x=-3566.70, y=81.10, z=2698.30] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19168, l='ServerLevel[Cuevas]', x=-3566.70, y=81.08, z=2698.70] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19169, l='ServerLevel[Cuevas]', x=-3566.70, y=81.06, z=2698.70] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19170, l='ServerLevel[Cuevas]', x=-3566.70, y=81.04, z=2698.70] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19171, l='ServerLevel[Cuevas]', x=-3566.70, y=81.20, z=2698.30] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19172, l='ServerLevel[Cuevas]', x=-3566.70, y=81.01, z=2698.70] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19175, l='ServerLevel[Cuevas]', x=-3566.85, y=81.09, z=2698.15] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19174, l='ServerLevel[Cuevas]', x=-3566.85, y=81.07, z=2698.85] died, message: 'Villager tried to swim in lava'
+[21:59:30] [Server thread/INFO]: Villager bjq['Villager'/19173, l='ServerLevel[Cuevas]', x=-3566.70, y=81.31, z=2698.70] died, message: 'Villager tried to swim in lava'
+[22:02:23] [Server thread/INFO]: Villager bjq['Cleric'/20740, l='ServerLevel[Cuevas]', x=-3566.49, y=81.06, z=2685.50] died, message: 'Cleric was slain by El porruo'
+[22:03:10] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[22:05:09] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[22:05:34] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[22:05:40] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[22:06:00] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[22:06:25] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[22:07:13] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[22:12:58] [Server thread/INFO]: Villager bjq['Villager'/23027, l='ServerLevel[Cuevas]', x=-3566.63, y=81.25, z=2698.52] died, message: 'Villager tried to swim in lava'
+[22:20:49] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[22:25:17] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[22:25:17] [Server thread/INFO]: diegov_9 left the game
+[22:25:29] [Server thread/INFO]: Stopping the server
+[22:25:29] [Server thread/INFO]: Stopping server
+[22:25:29] [Server thread/INFO]: Saving players
+[22:25:29] [Server thread/INFO]: Saving worlds
+[22:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[22:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[22:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[22:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:25:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
