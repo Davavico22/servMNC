@@ -801,6 +801,7 @@
     "criteria": {
       "minecraft:blaze": "2021-06-29 19:19:09 +0200",
       "minecraft:skeleton": "2021-06-15 20:52:16 +0200",
+      "minecraft:ghast": "2021-07-10 16:16:28 +0200",
       "minecraft:hoglin": "2021-06-30 21:42:08 +0200",
       "minecraft:magma_cube": "2021-06-19 19:05:07 +0200",
       "minecraft:spider": "2021-06-15 20:48:05 +0200",
@@ -2051,6 +2052,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2021-06-15 20:48:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-07-10 13:54:57 +0200"
     },
     "done": true
   },
@@ -3339,6 +3346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2021-07-10 13:45:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-06-15 21:33:11 +0200"
@@ -3504,6 +3517,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-06-14 18:27:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-07-10 16:36:20 +0200"
     },
     "done": true
   },
