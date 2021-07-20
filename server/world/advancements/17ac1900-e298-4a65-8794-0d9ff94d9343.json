@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-07-20 21:23:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2021-06-23 21:01:37 +0200"
@@ -896,6 +902,7 @@
       "minecraft:piglin": "2021-06-30 21:24:44 +0200",
       "minecraft:enderman": "2021-06-14 20:18:48 +0200",
       "minecraft:silverfish": "2021-07-13 21:29:44 +0200",
+      "minecraft:stray": "2021-07-20 20:48:20 +0200",
       "minecraft:endermite": "2021-07-09 20:28:55 +0200",
       "minecraft:vex": "2021-07-16 19:58:49 +0200",
       "minecraft:zombie": "2021-06-14 20:18:28 +0200",
@@ -1753,6 +1760,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-06-14 18:43:35 +0200",
+      "minecraft:snowy_mountains": "2021-07-20 20:47:41 +0200",
       "minecraft:forest": "2021-06-14 18:27:57 +0200",
       "minecraft:mountains": "2021-06-14 18:36:08 +0200",
       "minecraft:mushroom_fields": "2021-07-13 18:01:39 +0200",
@@ -1760,6 +1768,7 @@
       "minecraft:giant_tree_taiga": "2021-07-05 20:49:43 +0200",
       "minecraft:deep_cold_ocean": "2021-06-14 18:52:30 +0200",
       "minecraft:snowy_tundra": "2021-06-20 11:31:17 +0200",
+      "minecraft:taiga_hills": "2021-07-20 20:52:10 +0200",
       "minecraft:frozen_river": "2021-06-20 11:36:30 +0200",
       "minecraft:birch_forest": "2021-07-03 19:23:30 +0200",
       "minecraft:snowy_beach": "2021-06-20 11:31:15 +0200",
@@ -1980,6 +1989,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-07-10 01:50:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-07-20 21:08:43 +0200"
     },
     "done": true
   },
@@ -3095,6 +3110,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2021-06-29 19:13:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-07-20 20:45:16 +0200"
     },
     "done": true
   },
