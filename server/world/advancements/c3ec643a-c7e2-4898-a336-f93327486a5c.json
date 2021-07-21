@@ -696,6 +696,7 @@
       "minecraft:magma_cube": "2021-07-08 21:17:29 +0200",
       "minecraft:spider": "2021-06-17 21:29:49 +0200",
       "minecraft:creeper": "2021-06-14 18:54:52 +0200",
+      "minecraft:phantom": "2021-07-21 18:01:37 +0200",
       "minecraft:zombified_piglin": "2021-07-08 20:42:20 +0200",
       "minecraft:piglin": "2021-07-08 21:08:16 +0200",
       "minecraft:enderman": "2021-06-21 19:11:57 +0200",
@@ -2895,6 +2896,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-06-14 15:39:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-07-21 18:00:28 +0200"
     },
     "done": true
   },

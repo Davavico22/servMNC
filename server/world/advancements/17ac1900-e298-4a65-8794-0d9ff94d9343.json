@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2021-07-21 17:42:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-06-14 18:47:55 +0200"
@@ -740,6 +746,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-06-19 12:24:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2021-07-21 17:42:57 +0200"
     },
     "done": true
   },
@@ -1295,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-07-21 17:42:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2021-06-20 13:27:50 +0200"
@@ -1346,6 +1364,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-06-19 18:08:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-07-21 17:31:30 +0200"
     },
     "done": true
   },
@@ -1765,14 +1789,18 @@
       "minecraft:mountains": "2021-06-14 18:36:08 +0200",
       "minecraft:mushroom_fields": "2021-07-13 18:01:39 +0200",
       "minecraft:taiga": "2021-06-15 20:55:18 +0200",
+      "minecraft:desert_hills": "2021-07-21 17:42:44 +0200",
       "minecraft:giant_tree_taiga": "2021-07-05 20:49:43 +0200",
       "minecraft:deep_cold_ocean": "2021-06-14 18:52:30 +0200",
       "minecraft:snowy_tundra": "2021-06-20 11:31:17 +0200",
       "minecraft:taiga_hills": "2021-07-20 20:52:10 +0200",
+      "minecraft:desert": "2021-07-21 17:42:18 +0200",
       "minecraft:frozen_river": "2021-06-20 11:36:30 +0200",
+      "minecraft:deep_frozen_ocean": "2021-07-21 17:37:41 +0200",
       "minecraft:birch_forest": "2021-07-03 19:23:30 +0200",
       "minecraft:snowy_beach": "2021-06-20 11:31:15 +0200",
       "minecraft:deep_lukewarm_ocean": "2021-06-20 11:30:57 +0200",
+      "minecraft:savanna_plateau": "2021-07-21 17:34:36 +0200",
       "minecraft:beach": "2021-06-14 18:43:49 +0200",
       "minecraft:dark_forest": "2021-06-15 21:10:57 +0200",
       "minecraft:river": "2021-06-14 18:28:17 +0200",
@@ -1784,6 +1812,7 @@
       "minecraft:giant_tree_taiga_hills": "2021-07-05 20:33:49 +0200",
       "minecraft:mushroom_field_shore": "2021-07-13 18:01:07 +0200",
       "minecraft:swamp": "2021-06-27 14:00:49 +0200",
+      "minecraft:savanna": "2021-07-21 17:31:28 +0200",
       "minecraft:plains": "2021-06-14 18:28:25 +0200"
     },
     "done": false
@@ -2217,6 +2246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-07-21 17:44:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-06-14 18:38:58 +0200"
@@ -2283,6 +2318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-07-21 17:44:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2021-06-20 11:20:54 +0200"
@@ -2298,6 +2339,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2021-07-13 17:24:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-07-21 17:44:26 +0200"
     },
     "done": true
   },
@@ -2394,6 +2441,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-06-15 21:26:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2021-07-21 18:01:28 +0200"
     },
     "done": true
   },
@@ -2550,6 +2603,7 @@
       "bread": "2021-06-14 18:38:50 +0200",
       "golden_apple": "2021-07-09 22:03:33 +0200",
       "rotten_flesh": "2021-06-15 20:53:42 +0200",
+      "cooked_rabbit": "2021-07-21 18:21:35 +0200",
       "cooked_chicken": "2021-06-27 14:19:37 +0200",
       "cod": "2021-07-13 17:11:25 +0200",
       "cooked_salmon": "2021-07-08 21:03:35 +0200",
@@ -3737,9 +3791,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2021-07-21 17:42:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-06-19 18:25:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-07-21 17:31:30 +0200"
     },
     "done": true
   },
