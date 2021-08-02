@@ -1062,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2021-08-03 00:28:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-07-08 21:15:39 +0200"
@@ -2055,6 +2061,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2021-06-27 17:18:26 +0200",
+      "sweet_berries": "2021-08-03 00:36:53 +0200",
       "cooked_beef": "2021-06-27 13:28:20 +0200",
       "baked_potato": "2021-07-16 23:56:35 +0200",
       "apple": "2021-07-01 20:08:02 +0200",
@@ -3170,6 +3177,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2021-07-10 02:02:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2021-08-03 00:28:29 +0200"
     },
     "done": true
   },
