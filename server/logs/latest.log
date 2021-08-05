@@ -1,16 +1,78 @@
-[00:03:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-3322, y=64, z=2644} gg{x=-3321, y=65, z=2646}
-[00:39:37] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[00:39:37] [Server thread/INFO]: Ivanchut left the game
-[00:40:25] [Server thread/INFO]: Stopping the server
-[00:40:25] [Server thread/INFO]: Stopping server
-[00:40:25] [Server thread/INFO]: Saving players
-[00:40:25] [Server thread/INFO]: Saving worlds
-[00:40:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[00:40:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:40:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[00:40:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:40:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[00:40:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:40:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:02:36] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[17:02:37] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[17:02:37] [main/WARN]: Disabling further attempts to query Paging File.
+[17:02:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:02:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:02:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:02:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:02:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:02:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:02:54] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[17:02:56] [Worker-Main-10/INFO]: Loaded 7 recipes
+[17:02:56] [Worker-Main-10/INFO]: Loaded 1138 advancements
+[17:03:02] [Server thread/INFO]: Starting minecraft server version 1.17
+[17:03:02] [Server thread/INFO]: Loading properties
+[17:03:02] [Server thread/INFO]: Default game type: SURVIVAL
+[17:03:02] [Server thread/INFO]: Generating keypair
+[17:03:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:03:03] [Server thread/INFO]: Using default channel type
+[17:03:03] [Server thread/INFO]: Preparing level "world"
+[17:03:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:03:04] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:03:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[17:03:05] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[17:03:05] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:03:06] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[17:03:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:03:07] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[17:03:07] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[17:03:12] [Worker-Main-13/INFO]: Preparing spawn area: 11%
+[17:03:13] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[17:03:13] [Worker-Main-14/INFO]: Preparing spawn area: 50%
+[17:03:14] [Worker-Main-12/INFO]: Preparing spawn area: 54%
+[17:03:14] [Worker-Main-14/INFO]: Preparing spawn area: 68%
+[17:03:15] [Worker-Main-13/INFO]: Preparing spawn area: 74%
+[17:03:15] [Worker-Main-14/INFO]: Preparing spawn area: 96%
+[17:03:16] [Worker-Main-10/INFO]: Preparing spawn area: 99%
+[17:03:16] [Server thread/INFO]: Time elapsed: 12847 ms
+[17:03:16] [Server thread/INFO]: Done (13.107s)! For help, type "help"
+[17:10:03] [User Authenticator #1/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
+[17:10:04] [Server thread/INFO]: Ivanchut[/25.95.4.156:63338] logged in with entity id 87 at (-3341.4545104368453, 66.0, 2604.6057886762305)
+[17:10:04] [Server thread/INFO]: Ivanchut joined the game
+[17:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4310ms or 86 ticks behind
+[17:10:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4126ms or 82 ticks behind
+[17:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[17:14:11] [Server thread/INFO]: Villager bjq['Villager'/949, l='ServerLevel[Cuevas]', x=-3565.70, y=81.00, z=2698.20] died, message: 'Villager suffocated in a wall'
+[17:21:21] [Server thread/INFO]: <Ivanchut> E
+[18:48:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4029ms or 80 ticks behind
+[18:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
+[19:00:56] [Server thread/INFO]: Ivanchut was slain by El que mato a manolete
+[19:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19:12:57] [Server thread/INFO]: Ivanchut has made the advancement [Not Today, Thank You]
+[20:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[20:58:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3343ms or 66 ticks behind
+[21:26:27] [Server thread/INFO]: Ivanchut lost connection: Disconnected
+[21:26:27] [Server thread/INFO]: Ivanchut left the game
+[21:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[21:29:13] [Server thread/INFO]: Stopping the server
+[21:29:13] [Server thread/INFO]: Stopping server
+[21:29:13] [Server thread/INFO]: Saving players
+[21:29:13] [Server thread/INFO]: Saving worlds
+[21:29:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[21:29:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:29:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[21:29:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:29:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[21:29:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:29:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:29:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
