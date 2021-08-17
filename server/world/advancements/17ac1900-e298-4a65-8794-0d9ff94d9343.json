@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2021-08-17 16:58:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2021-07-01 20:40:33 +0200"
@@ -896,6 +902,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-06-22 19:06:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-08-17 16:58:58 +0200"
     },
     "done": true
   },
@@ -2808,6 +2820,7 @@
       "minecraft:blaze": "2021-06-29 19:19:09 +0200",
       "minecraft:pillager": "2021-07-16 19:34:11 +0200",
       "minecraft:skeleton": "2021-06-15 20:52:16 +0200",
+      "minecraft:ravager": "2021-08-17 16:21:35 +0200",
       "minecraft:ghast": "2021-07-10 16:16:28 +0200",
       "minecraft:hoglin": "2021-06-30 21:42:08 +0200",
       "minecraft:guardian": "2021-07-11 16:00:25 +0200",
@@ -4135,6 +4148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-08-17 16:58:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2021-06-29 19:13:56 +0200"
@@ -4552,6 +4571,12 @@
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2021-07-29 16:34:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2021-08-17 16:58:58 +0200"
     },
     "done": true
   },
