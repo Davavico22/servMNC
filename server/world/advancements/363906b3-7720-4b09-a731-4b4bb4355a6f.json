@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-09-01 21:17:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2021-06-28 14:37:24 +0200"
@@ -1528,6 +1534,7 @@
       "minecraft:frozen_river": "2021-08-19 00:52:45 +0200",
       "minecraft:birch_forest": "2021-07-09 17:19:30 +0200",
       "minecraft:snowy_beach": "2021-07-08 21:04:22 +0200",
+      "minecraft:warm_ocean": "2021-09-01 20:29:13 +0200",
       "minecraft:deep_lukewarm_ocean": "2021-07-11 16:00:42 +0200",
       "minecraft:beach": "2021-06-27 13:33:22 +0200",
       "minecraft:dark_forest": "2021-06-27 13:33:58 +0200",
@@ -1758,9 +1765,10 @@
       "minecraft:crimson_forest": "2021-07-11 15:51:20 +0200",
       "minecraft:nether_wastes": "2021-07-07 20:22:19 +0200",
       "minecraft:soul_sand_valley": "2021-07-17 00:16:39 +0200",
-      "minecraft:basalt_deltas": "2021-06-28 15:55:42 +0200"
+      "minecraft:basalt_deltas": "2021-06-28 15:55:42 +0200",
+      "minecraft:warped_forest": "2021-09-01 20:27:17 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
