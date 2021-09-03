@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-09-03 17:40:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-06-17 21:00:29 +0200"
@@ -1799,6 +1805,7 @@
       "cooked_beef": "2021-06-17 21:01:48 +0200",
       "baked_potato": "2021-06-29 13:32:59 +0200",
       "apple": "2021-06-29 15:17:48 +0200",
+      "potato": "2021-09-03 17:40:46 +0200",
       "bread": "2021-06-19 10:52:02 +0200",
       "rotten_flesh": "2021-06-20 12:27:28 +0200",
       "carrot": "2021-06-17 21:19:29 +0200"
@@ -2209,6 +2216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-09-03 17:40:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-06-23 17:53:07 +0200"
@@ -2260,6 +2273,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-06-17 21:00:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-09-03 17:40:34 +0200"
     },
     "done": true
   },
