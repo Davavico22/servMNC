@@ -1718,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2021-09-03 15:44:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2021-06-28 15:40:53 +0200"
@@ -3340,6 +3346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2021-09-03 15:44:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2021-07-29 17:48:34 +0200"
@@ -3409,6 +3421,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-06-27 13:47:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2021-09-03 15:44:23 +0200"
     },
     "done": true
   },
