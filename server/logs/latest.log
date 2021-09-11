@@ -1,15 +1,64 @@
-[00:06:23] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[00:06:23] [Server thread/INFO]: Ivanchut left the game
-[00:07:21] [Server thread/INFO]: Stopping the server
-[00:07:21] [Server thread/INFO]: Stopping server
-[00:07:21] [Server thread/INFO]: Saving players
-[00:07:21] [Server thread/INFO]: Saving worlds
-[00:07:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[00:07:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:07:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[00:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:07:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[00:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:07:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:07:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:00:03] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[00:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[00:15:59] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[00:16:07] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[00:23:16] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:25:50] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:25:56] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:31:18] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[00:33:21] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:33:41] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:34:20] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:34:53] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:38:16] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:38:41] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:39:44] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:41:28] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:42:00] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[00:42:05] [Server thread/INFO]: [diegov_9: Set the weather to clear]
+[00:42:40] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:42:58] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:44:52] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:45:54] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:53:55] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:54:07] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:54:21] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[00:54:38] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[00:56:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:57:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[00:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[00:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[01:05:42] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[01:05:56] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[01:06:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01:06:49] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[01:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01:18:36] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[01:36:18] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[01:38:53] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[01:45:31] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[01:49:48] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[02:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3969ms or 79 ticks behind
+[02:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6348ms or 126 ticks behind
+[02:03:37] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[02:05:55] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[02:25:26] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[02:25:26] [Server thread/INFO]: diegov_9 left the game
+[02:26:02] [Server thread/INFO]: Ivanchut lost connection: Disconnected
+[02:26:02] [Server thread/INFO]: Ivanchut left the game
+[02:26:47] [Server thread/INFO]: Stopping the server
+[02:26:47] [Server thread/INFO]: Stopping server
+[02:26:47] [Server thread/INFO]: Saving players
+[02:26:47] [Server thread/INFO]: Saving worlds
+[02:26:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[02:26:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:26:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[02:26:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:26:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[02:26:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:26:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
