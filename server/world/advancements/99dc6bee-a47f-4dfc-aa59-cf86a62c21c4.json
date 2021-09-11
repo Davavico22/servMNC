@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-09-11 17:14:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-06-18 21:55:12 +0200"
@@ -675,6 +681,7 @@
       "minecraft:creeper": "2021-06-17 21:23:08 +0200",
       "minecraft:wither_skeleton": "2021-09-04 17:37:45 +0200",
       "minecraft:piglin": "2021-07-24 19:00:20 +0200",
+      "minecraft:enderman": "2021-09-11 17:49:00 +0200",
       "minecraft:zombie": "2021-06-18 21:20:49 +0200",
       "minecraft:drowned": "2021-06-19 14:01:12 +0200"
     },
@@ -749,6 +756,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-07-08 16:43:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-09-11 17:14:09 +0200"
     },
     "done": true
   },
@@ -833,6 +846,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-07-24 19:03:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-09-11 17:19:35 +0200"
     },
     "done": true
   },
@@ -1512,6 +1531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-09-11 17:19:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-07-22 16:23:08 +0200"
@@ -1895,6 +1920,7 @@
       "potato": "2021-09-03 17:40:46 +0200",
       "bread": "2021-06-19 10:52:02 +0200",
       "rotten_flesh": "2021-06-20 12:27:28 +0200",
+      "melon_slice": "2021-09-11 17:19:14 +0200",
       "carrot": "2021-06-17 21:19:29 +0200"
     },
     "done": false
@@ -1902,6 +1928,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-06-17 21:12:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-09-11 17:19:35 +0200"
     },
     "done": true
   },
@@ -3146,6 +3178,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-06-17 21:11:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-09-11 17:14:09 +0200"
     },
     "done": true
   },
