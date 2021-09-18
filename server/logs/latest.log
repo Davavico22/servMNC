@@ -1,93 +1,266 @@
-[15:29:32] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[15:29:32] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[15:29:32] [main/WARN]: Disabling further attempts to query Paging File.
-[15:29:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:29:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:29:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:29:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:29:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:29:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:29:39] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[15:29:41] [Worker-Main-14/INFO]: Loaded 7 recipes
-[15:29:41] [Worker-Main-14/INFO]: Loaded 1138 advancements
-[15:29:45] [Server thread/INFO]: Starting minecraft server version 1.17
-[15:29:45] [Server thread/INFO]: Loading properties
-[15:29:45] [Server thread/INFO]: Default game type: SURVIVAL
-[15:29:45] [Server thread/INFO]: Generating keypair
-[15:29:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:29:45] [Server thread/INFO]: Using default channel type
-[15:29:45] [Server thread/INFO]: Preparing level "world"
-[15:29:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:29:46] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[15:29:46] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[15:29:47] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[15:29:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:29:48] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:29:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:29:49] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[15:29:49] [Worker-Main-8/INFO]: Preparing spawn area: 2%
-[15:29:50] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-12/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-12/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-12/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-12/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-8/INFO]: Preparing spawn area: 4%
-[15:29:54] [Worker-Main-13/INFO]: Preparing spawn area: 13%
-[15:29:55] [Worker-Main-13/INFO]: Preparing spawn area: 69%
-[15:29:55] [Worker-Main-10/INFO]: Preparing spawn area: 99%
-[15:29:55] [Server thread/INFO]: Time elapsed: 9667 ms
-[15:29:55] [Server thread/INFO]: Done (9.796s)! For help, type "help"
-[15:31:26] [User Authenticator #1/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
-[15:31:26] [Server thread/INFO]: Davavico[/127.0.0.1:49976] logged in with entity id 85 at (-3551.5297600932176, 64.0, 2819.004917251893)
-[15:31:26] [Server thread/INFO]: Davavico joined the game
-[15:36:16] [Server thread/INFO]: Villager bjq['Villager'/250, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[15:41:22] [Server thread/INFO]: Villager bjq['Villager'/251, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[15:48:32] [Server thread/INFO]: Villager bjq['Villager'/258, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[15:50:45] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[15:58:05] [Server thread/INFO]: Villager bjq['Villager'/255, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[16:00:23] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[16:02:21] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:03:11] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[16:07:31] [Server thread/INFO]: Villager bjq['Villager'/256, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[16:10:03] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[16:13:46] [Server thread/INFO]: Davavico fell from a high place
-[16:15:59] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:16:54] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[16:21:27] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:22:11] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[16:24:21] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:24:34] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[16:27:26] [Server thread/INFO]: Villager bjq['Villager'/19244, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[16:29:16] [Server thread/INFO]: Villager bjq['Villager'/19246, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[16:31:35] [Server thread/INFO]: [Davavico: Set the time to 1000]
-[16:34:48] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:34:57] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[16:36:19] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:37:19] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[16:38:16] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:38:46] [Server thread/INFO]: Villager bjq['Villager'/19247, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[16:51:23] [Server thread/INFO]: Villager bjq['Villager'/19245, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[16:55:15] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[16:57:55] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:57:59] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[16:58:46] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
-[16:59:51] [Server thread/INFO]: Villager bjq['Villager'/19248, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[17:03:21] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
-[17:03:22] [Server thread/INFO]: Davavico lost connection: Disconnected
-[17:03:22] [Server thread/INFO]: Davavico left the game
-[17:03:30] [Server thread/INFO]: Stopping the server
-[17:03:30] [Server thread/INFO]: Stopping server
-[17:03:30] [Server thread/INFO]: Saving players
-[17:03:30] [Server thread/INFO]: Saving worlds
-[17:03:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[17:03:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:03:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[17:03:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:03:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[17:03:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:03:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:03:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:03:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:40:16] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[14:40:16] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[14:40:16] [main/WARN]: Disabling further attempts to query Paging File.
+[14:40:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:40:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:40:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:40:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:40:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:40:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:40:40] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[14:40:43] [Worker-Main-10/INFO]: Loaded 7 recipes
+[14:40:43] [Worker-Main-10/INFO]: Loaded 1138 advancements
+[14:40:57] [Server thread/INFO]: Starting minecraft server version 1.17
+[14:40:57] [Server thread/INFO]: Loading properties
+[14:40:57] [Server thread/INFO]: Default game type: SURVIVAL
+[14:40:57] [Server thread/INFO]: Generating keypair
+[14:40:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:40:57] [Server thread/INFO]: Using default channel type
+[14:40:59] [Server thread/INFO]: Preparing level "world"
+[14:41:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:41:01] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:41:01] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:41:01] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:41:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[14:41:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:41:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:41:03] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:41:04] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:41:04] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[14:41:05] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[14:41:12] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:41:12] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[14:41:13] [Worker-Main-10/INFO]: Preparing spawn area: 32%
+[14:41:13] [Worker-Main-14/INFO]: Preparing spawn area: 74%
+[14:41:14] [Worker-Main-13/INFO]: Preparing spawn area: 99%
+[14:41:15] [Worker-Main-13/INFO]: Preparing spawn area: 99%
+[14:41:15] [Server thread/INFO]: Time elapsed: 15191 ms
+[14:41:15] [Server thread/INFO]: Done (15.889s)! For help, type "help"
+[14:45:42] [User Authenticator #1/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
+[14:45:43] [Server thread/INFO]: Ivanchut[/25.95.4.156:65047] logged in with entity id 86 at (-3343.516899953813, 66.9375, 2636.1123535172587)
+[14:45:43] [Server thread/INFO]: Ivanchut joined the game
+[14:46:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18832ms or 376 ticks behind
+[14:46:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23192ms or 463 ticks behind
+[14:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32914ms or 658 ticks behind
+[14:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35118ms or 702 ticks behind
+[14:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9906ms or 198 ticks behind
+[14:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[14:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2447ms or 48 ticks behind
+[14:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[15:13:39] [Server thread/INFO]: Villager bjq['Villager'/6262, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[15:32:49] [Server thread/INFO]: Villager bjq['Villager'/6257, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[15:52:44] [Server thread/INFO]: Villager bjq['Villager'/6250, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager was squished too much'
+[15:52:56] [Server thread/INFO]: Villager bjq['Villager'/6249, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager was squished too much'
+[16:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3123ms or 62 ticks behind
+[16:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[16:19:40] [User Authenticator #2/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[16:19:42] [Server thread/INFO]: diegov_9[/25.86.43.161:56660] logged in with entity id 15882 at (-281.4596866647175, 128.0, 357.9040270842423)
+[16:19:44] [Server thread/INFO]: diegov_9 joined the game
+[16:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17818ms or 356 ticks behind
+[16:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9289ms or 185 ticks behind
+[16:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5432ms or 108 ticks behind
+[16:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[16:22:56] [Server thread/INFO]: [diegov_9: Set the time to 1000]
+[16:23:13] [Server thread/WARN]: diegov_9 moved wrongly!
+[16:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18508ms or 370 ticks behind
+[16:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7906ms or 158 ticks behind
+[16:24:15] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[16:24:15] [Server thread/INFO]: diegov_9 left the game
+[16:24:36] [User Authenticator #3/INFO]: UUID of player diegov_9 is 17ac1900-e298-4a65-8794-0d9ff94d9343
+[16:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10706ms or 214 ticks behind
+[16:24:41] [Server thread/INFO]: diegov_9[/25.86.43.161:56695] logged in with entity id 16937 at (-3352.699999988079, 69.0, 2661.9356451491517)
+[16:24:41] [Server thread/INFO]: diegov_9 joined the game
+[16:25:03] [User Authenticator #4/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[16:25:03] [Server thread/INFO]: Davavico[/25.81.65.195:61403] logged in with entity id 16994 at (-3547.5, 64.0, 2814.5)
+[16:25:03] [Server thread/INFO]: Davavico joined the game
+[16:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[16:25:30] [Server thread/INFO]: [diegov_9: Set Ivanchut's game mode to Creative Mode]
+[16:25:44] [Server thread/INFO]: Villager bjq['Villager'/17228, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager was squished too much'
+[16:28:17] [Server thread/INFO]: [diegov_9: Set Ivanchut's game mode to Survival Mode]
+[16:28:22] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[16:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:28:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[16:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[16:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[16:30:40] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[16:30:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[16:32:35] [Server thread/WARN]: diegov_9 moved too quickly! -17.469788978859015,-1.631445881013434,3.3582054684979994
+[16:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[16:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[16:34:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[16:37:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16:38:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:39:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[16:39:59] [Server thread/INFO]: [Davavico: Set the time to 1000]
+[16:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[16:40:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[16:40:59] [Server thread/INFO]: Villager bjq['Villager'/17241, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[16:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16:43:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[16:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3667ms or 73 ticks behind
+[16:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[16:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[16:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[16:47:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16:47:47] [Server thread/INFO]: Villager bjq['Villager'/17244, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[16:48:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7603ms or 152 ticks behind
+[16:51:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[16:51:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8513ms or 170 ticks behind
+[16:53:31] [Server thread/INFO]: Davavico has made the advancement [Eye Spy]
+[16:53:39] [Server thread/WARN]: diegov_9 moved too quickly! 4408.715459894723,65.46415937495544,-2336.448242334976
+[16:53:43] [Server thread/INFO]: Davavico has made the advancement [The End?]
+[16:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3795ms or 75 ticks behind
+[16:53:44] [Server thread/WARN]: Davavico moved too quickly! 4408.409496178288,65.39260454995134,-2336.011507597815
+[16:57:52] [Server thread/INFO]: Davavico has made the advancement [Remote Getaway]
+[16:59:51] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to -1839.500000, 65.000000, 1648.500000]
+[16:59:53] [Server thread/WARN]: diegov_9 moved wrongly!
+[16:59:53] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:00:05] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:00:42] [Server thread/INFO]: [diegov_9: Teleported Ivanchut to diegov_9]
+[17:00:42] [Server thread/WARN]: Ivanchut moved too quickly! -1010.415269944279,-0.24918707874468282,643.3594840084114
+[17:00:42] [Server thread/WARN]: Ivanchut moved too quickly! -1010.415269944279,-0.24918707874468282,643.3594840084114
+[17:00:48] [Server thread/INFO]: [diegov_9: Teleported Davavico to diegov_9]
+[17:00:49] [Server thread/INFO]: Davavico has made the advancement [The City at the End of the Game]
+[17:05:15] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[17:07:36] [Server thread/WARN]: Davavico moved too quickly! -8.363136272983411,-5.996599975405715,2.437411053912001
+[17:07:36] [Server thread/WARN]: diegov_9 moved too quickly! 14.545842339364071,-6.3744570294647644,7.319292717668759
+[17:09:07] [Server thread/WARN]: diegov_9 moved wrongly!
+[17:09:57] [Server thread/INFO]: [diegov_9: Teleported Davavico to diegov_9]
+[17:10:04] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[17:10:32] [Server thread/INFO]: [diegov_9: Teleported Ivanchut to diegov_9]
+[17:10:32] [Server thread/WARN]: Ivanchut moved too quickly! 715.2327735436911,75.0,-4850.79289556108
+[17:10:32] [Server thread/WARN]: Ivanchut moved too quickly! 715.2327735436911,75.0,-4850.79289556108
+[17:11:04] [Server thread/INFO]: [diegov_9: Teleported Ivanchut to diegov_9]
+[17:11:07] [Server thread/INFO]: Davavico fell from a high place
+[17:11:08] [Server thread/INFO]: [diegov_9: Teleported Davavico to diegov_9]
+[17:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[17:11:19] [Server thread/INFO]: [diegov_9: Teleported Davavico to diegov_9]
+[17:11:29] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[17:13:14] [Server thread/INFO]: [Davavico: Teleported Davavico to diegov_9]
+[17:13:21] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[17:14:43] [Server thread/INFO]: [diegov_9: Teleported Davavico to diegov_9]
+[17:15:04] [Server thread/INFO]: Davavico lost connection: Disconnected
+[17:15:04] [Server thread/INFO]: Davavico left the game
+[17:15:17] [User Authenticator #5/INFO]: UUID of player Davavico is 99dc6bee-a47f-4dfc-aa59-cf86a62c21c4
+[17:15:18] [Server thread/INFO]: Davavico[/25.81.65.195:59446] logged in with entity id 32561 at (-1194.300000011921, 145.0, -3217.300000011921)
+[17:15:18] [Server thread/INFO]: Davavico joined the game
+[17:22:27] [Server thread/WARN]: diegov_9 moved too quickly! 5.856757766962346,-0.17751478189728687,16.658509860860704
+[17:26:33] [Server thread/WARN]: Ivanchut moved too quickly! -7.835268940241804,-1.0,-7.793551591650157
+[17:26:45] [Server thread/WARN]: Ivanchut moved too quickly! -7.772352082024554,-1.0,-7.237467015917446
+[17:27:23] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[17:29:15] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to Ivanchut]
+[17:29:39] [Server thread/WARN]: diegov_9 moved too quickly! -1.1405564579417842,-1.1212968405392019,9.971248093866052
+[17:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[17:35:24] [Server thread/INFO]: Ivanchut was slain by Enderman
+[17:35:41] [Server thread/INFO]: diegov_9 was slain by Enderman
+[17:36:27] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[17:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[17:37:08] [Server thread/WARN]: diegov_9 moved too quickly! 4409.337354251419,65.46415937495544,-2336.2291142700296
+[17:37:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[17:37:34] [Server thread/INFO]: [diegov_9: Teleported Ivanchut to diegov_9]
+[17:37:40] [Server thread/INFO]: [diegov_9: Set Ivanchut's game mode to Creative Mode]
+[17:38:25] [Server thread/INFO]: [diegov_9: Teleported diegov_9 to -2583.500000, 58.000000, -3006.500000]
+[17:38:25] [Server thread/WARN]: diegov_9 moved too quickly! -1734.3493495978805,0.0,-3623.092623151617
+[17:38:25] [Server thread/WARN]: Ivanchut moved too quickly! 2.1112145234205855,3.3750001341104507,9.5563975465476
+[17:38:31] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[17:38:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[17:38:38] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:38:41] [Server thread/INFO]: Villager bjq['Villager'/38848, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[17:38:41] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:38:58] [Server thread/INFO]: [diegov_9: Teleported Ivanchut to diegov_9]
+[17:38:58] [Server thread/WARN]: Ivanchut moved too quickly! -1841.5999154047877,-43.59915854662306,-3917.9730004446174
+[17:39:17] [Server thread/INFO]: [diegov_9: Set Ivanchut's game mode to Survival Mode]
+[17:40:09] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[17:40:45] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[17:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17:44:20] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[17:44:32] [Server thread/WARN]: diegov_9 moved wrongly!
+[17:44:52] [Server thread/INFO]: Villager bjq['Villager'/44850, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[17:44:56] [Server thread/INFO]: Villager bjq['Villager'/44853, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[17:51:23] [Server thread/INFO]: Villager bjq['Villager'/44852, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[17:51:31] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[17:51:48] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[17:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:53:06] [Server thread/WARN]: diegov_9 moved too quickly! -9.142380444888659,2.0095566695969325,-14.88164233329826
+[17:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:53:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[17:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[17:57:55] [Server thread/INFO]: Villager bjq['Villager'/44855, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
+[18:07:24] [Server thread/INFO]: Davavico fell from a high place
+[18:08:03] [Server thread/INFO]: Ivanchut has made the advancement [Into Fire]
+[18:12:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[18:12:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[18:12:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1628, y=72, z=-1342} gg{x=-1627, y=72, z=-1342}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1628, y=66, z=-1348} gg{x=-1629, y=67, z=-1347}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1628, y=66, z=-1348} gg{x=-1629, y=67, z=-1347}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1628, y=66, z=-1348} gg{x=-1629, y=67, z=-1347}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1628, y=66, z=-1348} gg{x=-1629, y=67, z=-1347}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1628, y=66, z=-1348} gg{x=-1629, y=67, z=-1347}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1628, y=66, z=-1348} gg{x=-1629, y=67, z=-1347}
+[18:13:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:15:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10113ms or 202 ticks behind
+[18:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3696ms or 73 ticks behind
+[18:16:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4079ms or 81 ticks behind
+[18:17:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6438ms or 128 ticks behind
+[18:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[18:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[18:18:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7146ms or 142 ticks behind
+[18:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:22:41] [Server thread/WARN]: Ivanchut moved wrongly!
+[18:22:41] [Server thread/WARN]: diegov_9 moved wrongly!
+[18:23:40] [Server thread/INFO]: [diegov_9: Set Ivanchut's game mode to Creative Mode]
+[18:24:47] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[18:26:32] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[18:26:37] [Server thread/INFO]: [diegov_9: Set own game mode to Spectator Mode]
+[18:26:40] [Server thread/INFO]: [diegov_9: Set own game mode to Survival Mode]
+[18:26:51] [Server thread/INFO]: [diegov_9: Set own game mode to Creative Mode]
+[18:32:37] [Server thread/WARN]: Davavico moved wrongly!
+[18:35:40] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[18:36:23] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[18:36:46] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[18:36:55] [Server thread/INFO]: [Davavico: Set own game mode to Survival Mode]
+[18:37:31] [Server thread/INFO]: [Davavico: Set own game mode to Creative Mode]
+[18:48:46] [Server thread/INFO]: diegov_9 lost connection: Disconnected
+[18:48:46] [Server thread/INFO]: diegov_9 left the game
+[18:50:04] [Server thread/INFO]: Davavico lost connection: Disconnected
+[18:50:04] [Server thread/INFO]: Davavico left the game
+[18:50:09] [Server thread/INFO]: Ivanchut lost connection: Disconnected
+[18:50:09] [Server thread/INFO]: Ivanchut left the game
+[18:51:01] [Server thread/INFO]: Stopping the server
+[18:51:01] [Server thread/INFO]: Stopping server
+[18:51:01] [Server thread/INFO]: Saving players
+[18:51:01] [Server thread/INFO]: Saving worlds
+[18:51:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[18:51:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:51:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[18:51:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:51:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[18:51:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:51:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:51:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
