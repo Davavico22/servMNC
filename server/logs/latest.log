@@ -1,102 +1,190 @@
-[18:12:18] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
-[18:12:18] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
-[18:12:18] [main/WARN]: Disabling further attempts to query Paging File.
-[18:12:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:12:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:12:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:12:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:12:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:12:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:12:28] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
-[18:12:30] [Worker-Main-10/INFO]: Loaded 7 recipes
-[18:12:30] [Worker-Main-10/INFO]: Loaded 1138 advancements
-[18:12:36] [Server thread/INFO]: Starting minecraft server version 1.17
-[18:12:36] [Server thread/INFO]: Loading properties
-[18:12:36] [Server thread/INFO]: Default game type: SURVIVAL
-[18:12:36] [Server thread/INFO]: Generating keypair
-[18:12:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:12:36] [Server thread/INFO]: Using default channel type
-[18:12:37] [Server thread/INFO]: Preparing level "world"
-[18:12:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:12:38] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:12:45] [Worker-Main-9/INFO]: Preparing spawn area: 29%
-[18:12:46] [Worker-Main-8/INFO]: Preparing spawn area: 61%
-[18:12:46] [Worker-Main-10/INFO]: Preparing spawn area: 93%
-[18:12:47] [Worker-Main-10/INFO]: Preparing spawn area: 99%
-[18:12:47] [Server thread/INFO]: Time elapsed: 10213 ms
-[18:12:47] [Server thread/INFO]: Done (10.532s)! For help, type "help"
-[18:24:22] [User Authenticator #1/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
-[18:24:24] [Server thread/INFO]: Ivanchut[/25.51.185.131:59080] logged in with entity id 85 at (-3398.7139175009543, 70.9375, 2639.723420553638)
-[18:24:26] [Server thread/INFO]: Ivanchut joined the game
-[18:24:59] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[18:24:59] [Server thread/INFO]: Ivanchut left the game
-[18:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38453ms or 769 ticks behind
-[18:25:01] [Server thread/WARN]: handleDisconnection() called twice
-[18:25:06] [User Authenticator #2/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
-[18:25:11] [Server thread/INFO]: Ivanchut[/25.51.185.131:59089] logged in with entity id 138 at (-3398.7139175009543, 70.9375, 2639.723420553638)
-[18:25:11] [Server thread/INFO]: Ivanchut joined the game
-[18:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40168ms or 803 ticks behind
-[18:26:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14638ms or 292 ticks behind
-[18:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3735ms or 74 ticks behind
-[18:29:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
-[18:41:45] [Server thread/INFO]: Villager bjq['Miriam la pescaera'/161, l='ServerLevel[Cuevas]', x=-3380.70, y=67.00, z=2607.63] died, message: 'Miriam la pescaera hit the ground too hard'
-[18:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
-[18:46:50] [Server thread/INFO]: Villager bjq['Villager'/2928, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager was squished too much'
-[19:07:08] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[19:07:08] [Server thread/INFO]: Ivanchut left the game
-[19:11:57] [User Authenticator #3/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
-[19:11:57] [Server thread/INFO]: Ivanchut[/25.51.185.131:60208] logged in with entity id 8511 at (-3396.843639338225, 69.0, 2636.0911416261742)
-[19:11:57] [Server thread/INFO]: Ivanchut joined the game
-[19:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
-[19:12:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10800ms or 216 ticks behind
-[19:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
-[19:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5779ms or 115 ticks behind
-[19:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5794ms or 115 ticks behind
-[19:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
-[19:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3279ms or 65 ticks behind
-[19:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
-[19:35:21] [Server thread/WARN]: Ivanchut moved too quickly! -7.853734256849293,0.9755759117863079,-6.236670339132161
-[19:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
-[19:35:35] [Server thread/INFO]: Villager bjq['Villager'/11857, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.30] died, message: 'Villager was squished too much'
-[19:35:37] [Server thread/INFO]: Villager bjq['Villager'/11858, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[19:38:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[19:38:47] [Server thread/WARN]: Ivanchut moved too quickly! 9.969558880286968,-1.7531999805212024,-1.650400140898455
-[19:40:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[19:40:19] [Server thread/WARN]: Ivanchut moved too quickly! -9.926142235944894,-1.4641593749554431,-0.10364485040150839
-[19:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[19:41:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10932ms or 218 ticks behind
-[19:41:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4474ms or 89 ticks behind
-[19:42:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
-[19:45:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
-[19:46:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12054ms or 241 ticks behind
-[19:55:02] [Server thread/INFO]: Villager bjq['Villager'/17759, l='ServerLevel[Cuevas]', x=-3566.70, y=81.00, z=2698.70] died, message: 'Villager was squished too much'
-[20:05:54] [Server thread/INFO]: Ivanchut lost connection: Disconnected
-[20:05:54] [Server thread/INFO]: Ivanchut left the game
-[20:06:26] [Server thread/INFO]: Stopping the server
-[20:06:27] [Server thread/INFO]: Stopping server
-[20:06:27] [Server thread/INFO]: Saving players
-[20:06:27] [Server thread/INFO]: Saving worlds
-[20:06:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
-[20:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
-[20:06:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
-[20:06:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:16:47] [main/WARN]: Failed to add PDH Counter: \Archivo de paginación(_Total)\% Usage, Error code: 0xC0000BB8
+[22:16:47] [main/WARN]: Failed to add counter for PDH object: Archivo de paginación
+[22:16:47] [main/WARN]: Disabling further attempts to query Paging File.
+[22:17:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:17:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:17:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:17:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:17:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:17:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:17:36] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, CavesAndCliffsPreview
+[22:17:41] [Worker-Main-12/INFO]: Loaded 7 recipes
+[22:17:42] [Worker-Main-12/INFO]: Loaded 1138 advancements
+[22:18:23] [Server thread/INFO]: Starting minecraft server version 1.17
+[22:18:23] [Server thread/INFO]: Loading properties
+[22:18:23] [Server thread/INFO]: Default game type: SURVIVAL
+[22:18:23] [Server thread/INFO]: Generating keypair
+[22:18:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:18:27] [Server thread/INFO]: Using default channel type
+[22:18:46] [Server thread/INFO]: Preparing level "world"
+[22:18:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:18:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:18:50] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:18:51] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:18:53] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:18:53] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:18:53] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:18:53] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:18:53] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:18:53] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:18:53] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:18:53] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:18:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:18:54] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:18:55] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:18:55] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:18:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:18:56] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:18:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:18:57] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:18:58] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:18:58] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:18:59] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:18:59] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:00] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:01] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:01] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:01] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:02] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:19:03] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:19:03] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:03] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:04] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:06] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:06] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:07] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:08] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:08] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:19:09] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:09] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:10] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:10] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:11] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:12] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:12] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:12] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:19:13] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:13] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:14] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:14] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:15] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:15] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:16] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:16] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:17] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:18] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:18] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:18] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:19] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:19] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:20] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:20] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:21] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:21] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:22] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:22] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:23] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:23] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:24] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:24] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:26] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:27] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:27] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:19:28] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:29] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:29] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:30] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:31] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:19:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:19:32] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:32] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:33] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:33] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:34] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[22:19:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:35] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:35] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:36] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:37] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:37] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:38] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:38] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:39] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:40] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:40] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:41] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:41] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:42] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:42] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:43] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:44] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:44] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:19:44] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[22:19:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:19:45] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:19:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:19:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:19:47] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[22:19:47] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[22:19:48] [Worker-Main-10/INFO]: Preparing spawn area: 2%
+[22:19:48] [Worker-Main-13/INFO]: Preparing spawn area: 3%
+[22:19:49] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[22:19:49] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[22:19:50] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[22:19:50] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[22:19:51] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[22:19:51] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[22:19:52] [Worker-Main-17/INFO]: Preparing spawn area: 21%
+[22:19:52] [Worker-Main-14/INFO]: Preparing spawn area: 26%
+[22:19:53] [Worker-Main-10/INFO]: Preparing spawn area: 33%
+[22:19:53] [Worker-Main-10/INFO]: Preparing spawn area: 36%
+[22:19:54] [Worker-Main-9/INFO]: Preparing spawn area: 38%
+[22:19:54] [Worker-Main-13/INFO]: Preparing spawn area: 40%
+[22:19:55] [Worker-Main-10/INFO]: Preparing spawn area: 42%
+[22:19:55] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[22:19:56] [Worker-Main-8/INFO]: Preparing spawn area: 52%
+[22:19:56] [Worker-Main-8/INFO]: Preparing spawn area: 58%
+[22:19:57] [Worker-Main-17/INFO]: Preparing spawn area: 64%
+[22:19:57] [Worker-Main-13/INFO]: Preparing spawn area: 65%
+[22:19:58] [Worker-Main-11/INFO]: Preparing spawn area: 67%
+[22:19:58] [Worker-Main-9/INFO]: Preparing spawn area: 67%
+[22:19:59] [Worker-Main-17/INFO]: Preparing spawn area: 69%
+[22:19:59] [Worker-Main-11/INFO]: Preparing spawn area: 78%
+[22:20:00] [Worker-Main-8/INFO]: Preparing spawn area: 81%
+[22:20:01] [Worker-Main-13/INFO]: Preparing spawn area: 99%
+[22:20:01] [Worker-Main-13/INFO]: Preparing spawn area: 99%
+[22:20:01] [Server thread/INFO]: Time elapsed: 72878 ms
+[22:20:01] [Server thread/INFO]: Done (74.769s)! For help, type "help"
+[22:51:56] [User Authenticator #1/INFO]: UUID of player Ivanchut is 363906b3-7720-4b09-a731-4b4bb4355a6f
+[22:51:56] [Server thread/INFO]: Ivanchut[/25.51.185.131:57962] logged in with entity id 85 at (-3408.8299380797566, 70.9375, 2645.3110840429727)
+[22:51:56] [Server thread/INFO]: Ivanchut joined the game
+[22:51:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[22:52:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11379ms or 227 ticks behind
+[22:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5979ms or 119 ticks behind
+[23:43:10] [Server thread/INFO]: Ivanchut lost connection: Disconnected
+[23:43:11] [Server thread/INFO]: Ivanchut left the game
+[23:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
+[23:44:35] [Server thread/INFO]: Stopping the server
+[23:44:35] [Server thread/INFO]: Stopping server
+[23:44:35] [Server thread/INFO]: Saving players
+[23:44:35] [Server thread/INFO]: Saving worlds
+[23:44:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:overworld
+[23:44:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:44:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_nether
+[23:44:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:44:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cuevas]'/minecraft:the_end
+[23:44:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:44:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:44:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:44:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
